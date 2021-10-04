@@ -1,0 +1,390 @@
+Place in Form1_Load
+ Timer1.Interval = 150
+ Timer1.Start() 
+
+
+    <DllImport("user32.dll")>
+    Public Shared Function GetAsyncKeyState(vKey As Integer) As UShort
+    End Function
+
+
+Private Sub Timer1_Tick(sender As Object, e As EventArgs) Handles Timer1.Tick
+
+        If GetAsyncKeyState(&HC0) Then
+            Label1.Text = "`"
+        ElseIf GetAsyncKeyState(&H31) Then
+            Label1.Text = "1"
+        ElseIf GetAsyncKeyState(&H32) Then
+            Label1.Text = "2"
+        ElseIf GetAsyncKeyState(&H33) Then
+            Label1.Text = "3"
+        ElseIf GetAsyncKeyState(&H34) Then
+            Label1.Text = "4"
+        ElseIf GetAsyncKeyState(&H35) Then
+            Label1.Text = "5"
+        ElseIf GetAsyncKeyState(&H36) Then
+            Label1.Text = "6"
+        ElseIf GetAsyncKeyState(&H37) Then
+            Label1.Text = "7"
+        ElseIf GetAsyncKeyState(&H38) Then
+            Label1.Text = "8"
+        ElseIf GetAsyncKeyState(&H39) Then
+            Label1.Text = "9"
+        ElseIf GetAsyncKeyState(&H30) Then
+            Label1.Text = "0"
+        ElseIf GetAsyncKeyState(&HBD) Then
+            Label1.Text = "-"
+        ElseIf GetAsyncKeyState(&HBB) Then
+            Label1.Text = "="
+        ElseIf GetAsyncKeyState(&H51) Then
+            Label1.Text = "q"
+            My.Computer.Audio.Play(My.Resources.C21, AudioPlayMode.Background)
+        ElseIf GetAsyncKeyState(&H57) Then
+            Label1.Text = "w"
+            My.Computer.Audio.Play(My.Resources.D22, AudioPlayMode.Background)
+        ElseIf GetAsyncKeyState(&H45) Then
+            Label1.Text = "e"
+            My.Computer.Audio.Play(My.Resources.E23, AudioPlayMode.Background)
+        ElseIf GetAsyncKeyState(&H52) Then
+            Label1.Text = "r"
+            My.Computer.Audio.Play(My.Resources.F24, AudioPlayMode.Background)
+        ElseIf GetAsyncKeyState(&H54) Then
+            Label1.Text = "t"
+            My.Computer.Audio.Play(My.Resources.G25, AudioPlayMode.Background)
+        ElseIf GetAsyncKeyState(&H59) Then
+            Label1.Text = "y"
+            My.Computer.Audio.Play(My.Resources.A26, AudioPlayMode.Background)
+        ElseIf GetAsyncKeyState(&H55) Then
+            Label1.Text = "u"
+            My.Computer.Audio.Play(My.Resources.B27, AudioPlayMode.Background)
+        ElseIf GetAsyncKeyState(&H49) Then
+            Label1.Text = "i"
+            My.Computer.Audio.Play(My.Resources.C38, AudioPlayMode.Background)
+        ElseIf GetAsyncKeyState(&H4F) Then
+            Label1.Text = "o"
+            My.Computer.Audio.Play(My.Resources.D39, AudioPlayMode.Background)
+        ElseIf GetAsyncKeyState(&H50) Then
+            Label1.Text = "p"
+            My.Computer.Audio.Play(My.Resources.E30, AudioPlayMode.Background)
+        ElseIf GetAsyncKeyState(&HDB) Then
+            Label1.Text = "["
+            My.Computer.Audio.Play(My.Resources.F3_11, AudioPlayMode.Background)
+        ElseIf GetAsyncKeyState(&HDD) Then
+            Label1.Text = "]"
+            My.Computer.Audio.Play(My.Resources.G3_12, AudioPlayMode.Background)
+        ElseIf GetAsyncKeyState(&HDC) Then
+            Label1.Text = "\"
+            My.Computer.Audio.Play(My.Resources.A3_13, AudioPlayMode.Background)
+        ElseIf GetAsyncKeyState(&H41) Then
+            Label1.Text = "a"
+        ElseIf GetAsyncKeyState(&H53) Then
+            Label1.Text = "s"
+        ElseIf GetAsyncKeyState(&H44) Then
+            Label1.Text = "d"
+        ElseIf GetAsyncKeyState(&H46) Then
+            Label1.Text = "f"
+        ElseIf GetAsyncKeyState(&H47) Then
+            Label1.Text = "g"
+        ElseIf GetAsyncKeyState(&H48) Then
+            Label1.Text = "h"
+        ElseIf GetAsyncKeyState(&H4A) Then
+            Label1.Text = "j"
+        ElseIf GetAsyncKeyState(&H4B) Then
+            Label1.Text = "k"
+        ElseIf GetAsyncKeyState(&H4C) Then
+            Label1.Text = "l"
+        ElseIf GetAsyncKeyState(&HBA) Then
+            Label1.Text = ";"
+        ElseIf GetAsyncKeyState(&HDE) Then
+            Label1.Text = "'"
+        ElseIf GetAsyncKeyState(&H5A) Then
+            Label1.Text = "z"
+        ElseIf GetAsyncKeyState(&H58) Then
+            Label1.Text = "x"
+        ElseIf GetAsyncKeyState(&H43) Then
+            Label1.Text = "c"
+        ElseIf GetAsyncKeyState(&H56) Then
+            Label1.Text = "v"
+        ElseIf GetAsyncKeyState(&H42) Then
+            Label1.Text = "b"
+        ElseIf GetAsyncKeyState(&H4E) Then
+            Label1.Text = "n"
+        ElseIf GetAsyncKeyState(&H4D) Then
+            Label1.Text = "m"
+        ElseIf GetAsyncKeyState(&HBC) Then
+            Label1.Text = ","
+        ElseIf GetAsyncKeyState(&HBE) Then
+            Label1.Text = "."
+        ElseIf (GetAsyncKeyState(&H6E) And My.Computer.Keyboard.NumLock) Then
+            Label1.Text = "."
+        ElseIf GetAsyncKeyState(&HBF) Then
+            Label1.Text = "/"
+
+
+        ElseIf (GetAsyncKeyState(&H67) And My.Computer.Keyboard.NumLock) Then
+                Label1.Text = "7"
+            ElseIf (GetAsyncKeyState(&H68) And My.Computer.Keyboard.NumLock) Then
+                Label1.Text = "8"
+            ElseIf (GetAsyncKeyState(&H69) And My.Computer.Keyboard.NumLock) Then
+                Label1.Text = "9"
+            ElseIf (GetAsyncKeyState(&H64) And My.Computer.Keyboard.NumLock) Then
+                Label1.Text = "4"
+            ElseIf (GetAsyncKeyState(&H66) And My.Computer.Keyboard.NumLock) Then
+                Label1.Text = "6"
+            ElseIf (GetAsyncKeyState(&H61) And My.Computer.Keyboard.NumLock) Then
+                Label1.Text = "1"
+            ElseIf (GetAsyncKeyState(&H62) And My.Computer.Keyboard.NumLock) Then
+                Label1.Text = "2"
+            ElseIf (GetAsyncKeyState(&H63) And My.Computer.Keyboard.NumLock) Then
+                Label1.Text = "3"
+            ElseIf (GetAsyncKeyState(&H60) And My.Computer.Keyboard.NumLock) Then
+                Label1.Text = "0"
+            ElseIf (GetAsyncKeyState(&H51) And My.Computer.Keyboard.CapsLock) Then
+                Label1.Text = "Q"
+            ElseIf (GetAsyncKeyState(&H57) And My.Computer.Keyboard.CapsLock) Then
+                Label1.Text = "W"
+            ElseIf (GetAsyncKeyState(&H45) And My.Computer.Keyboard.CapsLock) Then
+                Label1.Text = "E"
+            ElseIf (GetAsyncKeyState(&H52) And My.Computer.Keyboard.CapsLock) Then
+                Label1.Text = "R"
+            ElseIf (GetAsyncKeyState(&H54) And My.Computer.Keyboard.CapsLock) Then
+                Label1.Text = "T"
+            ElseIf (GetAsyncKeyState(&H59) And My.Computer.Keyboard.CapsLock) Then
+                Label1.Text = "Y"
+            ElseIf (GetAsyncKeyState(&H55) And My.Computer.Keyboard.CapsLock) Then
+                Label1.Text = "U"
+            ElseIf (GetAsyncKeyState(&H49) And My.Computer.Keyboard.CapsLock) Then
+                Label1.Text = "I"
+            ElseIf (GetAsyncKeyState(&H4F) And My.Computer.Keyboard.CapsLock) Then
+                Label1.Text = "O"
+            ElseIf (GetAsyncKeyState(&H50) And My.Computer.Keyboard.CapsLock) Then
+                Label1.Text = "P"
+            ElseIf (GetAsyncKeyState(&H41) And My.Computer.Keyboard.CapsLock) Then
+                Label1.Text = "A"
+            ElseIf (GetAsyncKeyState(&H53) And My.Computer.Keyboard.CapsLock) Then
+                Label1.Text = "S"
+            ElseIf (GetAsyncKeyState(&H44) And My.Computer.Keyboard.CapsLock) Then
+                Label1.Text = "D"
+            ElseIf (GetAsyncKeyState(&H46) And My.Computer.Keyboard.CapsLock) Then
+                Label1.Text = "F"
+            ElseIf (GetAsyncKeyState(&H47) And My.Computer.Keyboard.CapsLock) Then
+                Label1.Text = "G"
+            ElseIf (GetAsyncKeyState(&H48) And My.Computer.Keyboard.CapsLock) Then
+                Label1.Text = "H"
+            ElseIf (GetAsyncKeyState(&H4A) And My.Computer.Keyboard.CapsLock) Then
+                Label1.Text = "J"
+            ElseIf (GetAsyncKeyState(&H4B) And My.Computer.Keyboard.CapsLock) Then
+                Label1.Text = "K"
+            ElseIf (GetAsyncKeyState(&H4C) And My.Computer.Keyboard.CapsLock) Then
+                Label1.Text = "L"
+            ElseIf (GetAsyncKeyState(&H5A) And My.Computer.Keyboard.CapsLock) Then
+                Label1.Text = "Z"
+            ElseIf (GetAsyncKeyState(&H58) And My.Computer.Keyboard.CapsLock) Then
+                Label1.Text = "X"
+            ElseIf (GetAsyncKeyState(&H43) And My.Computer.Keyboard.CapsLock) Then
+                Label1.Text = "C"
+            ElseIf (GetAsyncKeyState(&H56) And My.Computer.Keyboard.CapsLock) Then
+                Label1.Text = "V"
+            ElseIf (GetAsyncKeyState(&H42) And My.Computer.Keyboard.CapsLock) Then
+                Label1.Text = "B"
+            ElseIf (GetAsyncKeyState(&H4E) And My.Computer.Keyboard.CapsLock) Then
+                Label1.Text = "N"
+            ElseIf (GetAsyncKeyState(&H4D) And My.Computer.Keyboard.CapsLock) Then
+                Label1.Text = "M"
+            ElseIf (GetAsyncKeyState(&HC0) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "~"
+            ElseIf (GetAsyncKeyState(&H31) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "!"
+            ElseIf (GetAsyncKeyState(&H32) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "@"
+            ElseIf (GetAsyncKeyState(&H33) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "#"
+            ElseIf (GetAsyncKeyState(&H34) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "$"
+            ElseIf (GetAsyncKeyState(&H35) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "%"
+            ElseIf (GetAsyncKeyState(&H36) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "^"
+            ElseIf (GetAsyncKeyState(&H37) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "&"
+            ElseIf (GetAsyncKeyState(&H38) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "*"
+            ElseIf (GetAsyncKeyState(&H39) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "("
+            ElseIf (GetAsyncKeyState(&H30) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = ")"
+            ElseIf (GetAsyncKeyState(&HBD) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "_"
+            ElseIf (GetAsyncKeyState(&HBB) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "+"
+            ElseIf (GetAsyncKeyState(&H51) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "Q"
+            ElseIf (GetAsyncKeyState(&H57) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "W"
+            ElseIf (GetAsyncKeyState(&H45) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "E"
+            ElseIf (GetAsyncKeyState(&H52) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "R"
+            ElseIf (GetAsyncKeyState(&H54) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "T"
+            ElseIf (GetAsyncKeyState(&H59) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "Y"
+            ElseIf (GetAsyncKeyState(&H55) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "U"
+            ElseIf (GetAsyncKeyState(&H49) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "I"
+            ElseIf (GetAsyncKeyState(&H4F) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "O"
+            ElseIf (GetAsyncKeyState(&H50) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "P"
+            ElseIf (GetAsyncKeyState(&HDB) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "{"
+            ElseIf (GetAsyncKeyState(&HDD) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "}"
+            ElseIf (GetAsyncKeyState(&HDC) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "|"
+            ElseIf (GetAsyncKeyState(&H41) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "A"
+            ElseIf (GetAsyncKeyState(&H53) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "S"
+            ElseIf (GetAsyncKeyState(&H44) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "D"
+            ElseIf (GetAsyncKeyState(&H46) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "F"
+            ElseIf (GetAsyncKeyState(&H47) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "G"
+            ElseIf (GetAsyncKeyState(&H48) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "H"
+            ElseIf (GetAsyncKeyState(&H4A) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "J"
+            ElseIf (GetAsyncKeyState(&H4B) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "K"
+            ElseIf (GetAsyncKeyState(&H4C) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "L"
+            ElseIf (GetAsyncKeyState(&HBA) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = ":"
+            ElseIf (GetAsyncKeyState(&HDE) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = """"
+            ElseIf (GetAsyncKeyState(&H5A) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "Z"
+            ElseIf (GetAsyncKeyState(&H58) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "X"
+            ElseIf (GetAsyncKeyState(&H43) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "C"
+            ElseIf (GetAsyncKeyState(&H56) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "V"
+            ElseIf (GetAsyncKeyState(&H42) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "B"
+            ElseIf (GetAsyncKeyState(&H4E) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "N"
+            ElseIf (GetAsyncKeyState(&H4D) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "M"
+            ElseIf (GetAsyncKeyState(&HBC) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "<,"
+            ElseIf (GetAsyncKeyState(&HBE) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = ">"
+            ElseIf (GetAsyncKeyState(&HBF) And My.Computer.Keyboard.ShiftKeyDown) Then
+                Label1.Text = "?"
+            ElseIf GetAsyncKeyState(&H1B) Then
+                Label1.Text = "{ESCAPE}"
+            ElseIf GetAsyncKeyState(&H70) Then
+                Label1.Text = "{F1}"
+            ElseIf GetAsyncKeyState(&H71) Then
+                Label1.Text = "{F2}"
+            ElseIf GetAsyncKeyState(&H72) Then
+                Label1.Text = "{F3}"
+            ElseIf GetAsyncKeyState(&H73) Then
+                Label1.Text = "{F4}"
+            ElseIf GetAsyncKeyState(&H74) Then
+                Label1.Text = "{F5}"
+            ElseIf GetAsyncKeyState(&H75) Then
+                Label1.Text = "{F6}"
+            ElseIf GetAsyncKeyState(&H76) Then
+                Label1.Text = "{F7}"
+            ElseIf GetAsyncKeyState(&H77) Then
+                Label1.Text = "{F8}"
+            ElseIf GetAsyncKeyState(&H78) Then
+                Label1.Text = "{F9}"
+            ElseIf GetAsyncKeyState(&H79) Then
+                Label1.Text = "{F10}"
+            ElseIf GetAsyncKeyState(&H7A) Then
+                Label1.Text = "{F11}"
+            ElseIf GetAsyncKeyState(&H7B) Then
+                Label1.Text = "{F12}"
+            ElseIf GetAsyncKeyState(&H2C) Then
+                Label1.Text = "{PRTSC}"
+            ElseIf GetAsyncKeyState(&H13) Then
+                Label1.Text = "{BREAK}"
+            ElseIf GetAsyncKeyState(&H2D) Then
+                Label1.Text = "{INS}"
+            ElseIf GetAsyncKeyState(&H2E) Then
+                Label1.Text = "{DEL}"
+
+            ElseIf GetAsyncKeyState(&H8) Then
+                Label1.Text = "{BACKSPACE}"
+            ElseIf GetAsyncKeyState(&H9) Then
+                Label1.Text = "{TAB}"
+
+            ElseIf GetAsyncKeyState(&H14) Then
+                Label1.Text = "{CAPSLOCK}"
+
+        ElseIf GetAsyncKeyState(&HD) Then
+                Label1.Text = "{ENTER}"
+
+        ElseIf GetAsyncKeyState(&HA2) Then
+                Label1.Text = "^"
+            ElseIf GetAsyncKeyState(&H12) Then
+                Label1.Text = "%"
+            ElseIf GetAsyncKeyState(&H20) Then
+                Label1.Text = "{SPACE}"
+            ElseIf GetAsyncKeyState(&HA3) Then
+                Label1.Text = "^"
+            ElseIf GetAsyncKeyState(&H25) Then
+                Label1.Text = "{LEFT}"
+            ElseIf GetAsyncKeyState(&H26) Then
+                Label1.Text = "{UP}"
+            ElseIf GetAsyncKeyState(&H27) Then
+                Label1.Text = "{RIGHT}"
+            ElseIf GetAsyncKeyState(&H28) Then
+                Label1.Text = "{DOWN}"
+            ElseIf GetAsyncKeyState(&H90) Then
+                Label1.Text = "{NUMLOCK}"
+            ElseIf GetAsyncKeyState(&H6F) Then
+                Label1.Text = "{DIVIDE}"
+            ElseIf GetAsyncKeyState(&H6A) Then
+                Label1.Text = "{MULTIPLY}"
+            ElseIf GetAsyncKeyState(&H6E) Then
+                Label1.Text = "{DELETE}"
+            ElseIf GetAsyncKeyState(&H6B) Then
+                Label1.Text = "{ADD}"
+            ElseIf GetAsyncKeyState(&H6D) Then
+                Label1.Text = "{SUBTRACT}"
+            ElseIf GetAsyncKeyState(&H24) Then
+                Label1.Text = "{HOME}"
+            ElseIf GetAsyncKeyState(&H68) Then
+                Label1.Text = "{UP}"
+            ElseIf GetAsyncKeyState(&H21) Then
+                Label1.Text = "{PGUP}"
+            ElseIf GetAsyncKeyState(&H64) Then
+                Label1.Text = "{LEFT}"
+            ElseIf GetAsyncKeyState(&H65) Then
+                Label1.Text = "5"
+            ElseIf GetAsyncKeyState(&H66) Then
+                Label1.Text = "{RIGHT}"
+            ElseIf GetAsyncKeyState(&H23) Then
+                Label1.Text = "{END}"
+            ElseIf GetAsyncKeyState(&H62) Then
+                Label1.Text = "{DOWN}"
+            ElseIf GetAsyncKeyState(&H22) Then
+                Label1.Text = "{PGDN}"
+            ElseIf GetAsyncKeyState(&H60) Then
+                Label1.Text = "{INSERT}"
+            ElseIf GetAsyncKeyState(&H1) Then
+                Label1.Text = "{L Mouse Down}"
+            ElseIf GetAsyncKeyState(&H2) Then
+                Label1.Text = "{R Mouse Down}"
+            ElseIf GetAsyncKeyState(&H4) Then
+                Label1.Text = "{M Mouse Down}"
+        End If
+
+    End Sub

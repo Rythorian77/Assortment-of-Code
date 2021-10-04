@@ -1,0 +1,15 @@
+  Dim Odlg As New OpenFileDialog
+    Odlg.InitialDirectory = "C:\"
+    Odlg.Multiselect = True
+    Odlg.Filter = "docm files (*.docm)|*.docm|docx files (*.docx)|*.docx|All files (*.*)|*.*"
+    If Odlg.ShowDialog = DialogResult.OK Then
+      Dim filepath As String = Odlg.FileName
+      Dim ffile As String = System.IO.Path.GetFileName(filepath)
+      Dim fileExtension As String = IO.Path.GetExtension(ffile).ToLower.Substring(1) 'remove the dot (.) from the file ext. obtained.
+      Select Case fileExtension
+        Case "docm", "docx" '<-- add more file extensions here if you want to. Ensure that they have an image in image list with the same name.
+          ListView1.Items.Add(ffile, fileExtension)
+        Case Else
+          ListView1.Items.Add(ffile, "others")
+      End Select
+    End If

@@ -1,0 +1,150 @@
+ Select Case ModifierKeys
+
+            Case 393216 ' Alt-GR + Key
+
+                Select Case Key
+                    Case Keys.D1 : Key_Listener("|")
+                    Case Keys.D2 : Key_Listener("@")
+                    Case Keys.D3 : Key_Listener("#")
+                    Case Keys.D4 : Key_Listener("~")
+                    Case Keys.D5 : Key_Listener("€")
+                    Case Keys.D6 : Key_Listener("¬")
+                    Case Keys.E : Key_Listener("€")
+                    Case Keys.Oem1 : Key_Listener("[")
+                    Case Keys.Oem5 : Key_Listener("\")
+                    Case Keys.Oem7 : Key_Listener("{")
+                    Case Keys.Oemplus : Key_Listener("]")
+                    Case Keys.OemQuestion : Key_Listener("}")
+                    Case Else : Key_Listener("")
+                End Select
+
+            Case 65536 ' LShift/RShift + Key
+
+                Select Case Key
+                    Case Keys.D0 : Key_Listener("=")
+                    Case Keys.D1 : Key_Listener("!")
+                    Case Keys.D2 : Key_Listener("""")
+                    Case Keys.D3 : Key_Listener("·")
+                    Case Keys.D4 : Key_Listener("$")
+                    Case Keys.D5 : Key_Listener("%")
+                    Case Keys.D6 : Key_Listener("&")
+                    Case Keys.D7 : Key_Listener("/")
+                    Case Keys.D8 : Key_Listener("(")
+                    Case Keys.D9 : Key_Listener(")")
+                    Case Keys.Oem1 : Key_Listener("^")
+                    Case Keys.Oem5 : Key_Listener("ª")
+                    Case Keys.Oem6 : Key_Listener("¿")
+                    Case Keys.Oem7 : Key_Listener("¨")
+                    Case Keys.OemBackslash : Key_Listener(">")
+                    Case Keys.Oemcomma : Key_Listener(";")
+                    Case Keys.OemMinus : Key_Listener("_")
+                    Case Keys.OemQuestion : Key_Listener("?")
+                    Case Keys.OemPeriod : Key_Listener(":")
+                    Case Keys.Oemplus : Key_Listener("*")
+                    Case Keys.OemQuestion : Key_Listener("Ç")
+                    Case Keys.Oemtilde : Key_Listener("Ñ")
+                    Case Keys.OemQuestion : Key_Listener("?")
+                    Case Else : Key_Listener("")
+                End Select
+
+            Case Else
+
+                If Key.ToString.Length = 1 Then ' Single alpha key
+
+                    If IsKeyLocked(Keys.CapsLock) Or Control.ModifierKeys = Keys.Shift Then
+                        Key_Listener(Key.ToString.ToUpper)
+                    Else
+                        Key_Listener(Key.ToString.ToLower)
+                    End If
+
+                Else
+
+                    Select Case Key ' Single special key 
+                        Case Keys.Add : Key_Listener("+")
+                        Case Keys.Back : Key_Listener("{BackSpace}")
+                        Case Keys.D0 : Key_Listener("0")
+                        Case Keys.D1 : Key_Listener("1")
+                        Case Keys.D2 : Key_Listener("2")
+                        Case Keys.D3 : Key_Listener("3")
+                        Case Keys.D4 : Key_Listener("4")
+                        Case Keys.D5 : Key_Listener("5")
+                        Case Keys.D6 : Key_Listener("6")
+                        Case Keys.D7 : Key_Listener("7")
+                        Case Keys.D8 : Key_Listener("8")
+                        Case Keys.D9 : Key_Listener("9")
+                        Case Keys.Decimal : Key_Listener(".")
+                        Case Keys.Delete : Key_Listener("{Supr}")
+                        Case Keys.Divide : Key_Listener("/")
+                        Case Keys.End : Key_Listener("{End}")
+                        Case Keys.Enter : Key_Listener("{Enter}")
+                        Case Keys.F1 : Key_Listener("{F1}")
+                        Case Keys.F10 : Key_Listener("{F10}")
+                        Case Keys.F11 : Key_Listener("{F11}")
+                        Case Keys.F12 : Key_Listener("{F12}")
+                        Case Keys.F2 : Key_Listener("{F2}")
+                        Case Keys.F3 : Key_Listener("{F3}")
+                        Case Keys.F4 : Key_Listener("{F4}")
+                        Case Keys.F5 : Key_Listener("{F5}")
+                        Case Keys.F6 : Key_Listener("{F6}")
+                        Case Keys.F7 : Key_Listener("{F7}")
+                        Case Keys.F8 : Key_Listener("{F8}")
+                        Case Keys.F9 : Key_Listener("{F9}")
+                        Case Keys.Home : Key_Listener("{Home}")
+                        Case Keys.Insert : Key_Listener("{Insert}")
+                        Case Keys.Multiply : Key_Listener("*")
+                        Case Keys.NumPad0 : Key_Listener("0")
+                        Case Keys.NumPad1 : Key_Listener("1")
+                        Case Keys.NumPad2 : Key_Listener("2")
+                        Case Keys.NumPad3 : Key_Listener("3")
+                        Case Keys.NumPad4 : Key_Listener("4")
+                        Case Keys.NumPad5 : Key_Listener("5")
+                        Case Keys.NumPad6 : Key_Listener("6")
+                        Case Keys.NumPad7 : Key_Listener("7")
+                        Case Keys.NumPad8 : Key_Listener("8")
+                        Case Keys.NumPad9 : Key_Listener("9")
+                        Case Keys.Oem1 : Key_Listener("`")
+                        Case Keys.Oem5 : Key_Listener("º")
+                        Case Keys.Oem6 : Key_Listener("¡")
+                        Case Keys.Oem7 : Key_Listener("´")
+                        Case Keys.OemBackslash : Key_Listener("\")
+
+                        Case Keys.OemOpenBrackets : Key_Listener("")
+
+
+                        Case Keys.Oemcomma : Key_Listener(",")
+                        Case Keys.OemMinus : Key_Listener("-")
+                        Case Keys.OemOpenBrackets : Key_Listener("'")
+                        Case Keys.OemPeriod : Key_Listener("-")
+                        Case Keys.Oemplus : Key_Listener("+")
+                        Case Keys.OemQuestion : Key_Listener("ç")
+                        Case Keys.Oemtilde : Key_Listener("ñ")
+                        Case Keys.PageDown : Key_Listener("{AvPag}")
+                        Case Keys.PageUp : Key_Listener("{RePag}")
+                        Case Keys.Space : Key_Listener(" ")
+                        Case Keys.Subtract : Key_Listener("-")
+                        Case Keys.Tab : Key_Listener("{Tabulation}")
+                        Case Else : Key_Listener("")
+                    End Select
+
+                End If
+
+        End Select
+
+    End Sub
+
+
+
+    Public Sub Key_Listener(key As String)
+
+        If Auto_Backspace_Key AndAlso key = "{BackSpace}" Then ' Delete character
+            RichTextBox1.Text = RichTextBox1.Text.Substring(0, RichTextBox1.Text.Length - 1)
+        ElseIf Auto_Enter_Key AndAlso key = "{Enter}" Then ' Insert new line
+            RichTextBox1.Text += ControlChars.NewLine
+        ElseIf Auto_Tab_Key AndAlso key = "{Tabulation}" Then ' Insert Tabulation
+            RichTextBox1.Text += ControlChars.Tab
+        ElseIf No_F_Keys AndAlso key.StartsWith("{F") Then ' Ommit F Keys
+        Else ' Print the character
+            RichTextBox1.Text += key
+        End If
+
+    End Sub

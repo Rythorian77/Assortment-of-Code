@@ -1,0 +1,31 @@
+Add web browser from tool box
+
+Public Class Form1
+    Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+        WebBrowser1.Navigate("http://www.youtube-mp3.org/")
+        Button1.Enabled = False
+    End Sub
+
+    Private Sub WebBrowser1_DocumentCompleted(ByVal sender As System.Object, ByVal e As System.Windows.Forms.WebBrowserDocumentCompletedEventArgs) Handles WebBrowser1.DocumentCompleted
+        Dim text As String = WebBrowser1.DocumentText
+
+        If text.Contains("submit-form") Then
+            Button1.Enabled = True
+        Else
+            Button1.Enabled = False
+            MsgBox("Could not connect to the internet!", MsgBoxStyle.Information, "Error")
+        End If
+    End Sub
+
+    Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
+        WebBrowser1.Document.GetElementById("youtube-url").SetAttribute("value", TextBox1.Text)
+        WebBrowser1.Document.GetElementById("submit").InvokeMember("click")
+    End Sub
+
+    Private Sub Button2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button2.Click
+        Dim dl_link As HtmlElement = WebBrowser1.Document.GetElementById("dl_link")
+        Dim links As HtmlElementCollection = dl_link.GetElementsByTagName("a")
+        Dim url As String = links(0).GetAttribute("href")
+        System.Diagnostics.Process.Start(url)
+    End Sub
+End Class

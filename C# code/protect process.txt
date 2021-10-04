@@ -1,0 +1,83 @@
+Imports System
+Imports System.Collections.Generic
+Imports System.ComponentModel
+Imports System.Data
+Imports System.Drawing
+Imports System.Linq
+Imports System.Runtime.InteropServices
+Imports System.Security.AccessControl
+Imports System.Security.Principal
+Imports System.Text
+Imports System.Threading.Tasks
+Imports System.Windows.Forms
+
+Namespace Hide2
+    Public Partial Class Form1
+        Inherits Form
+
+        <DllImport("advapi32.dll", SetLastError:=True)>
+        Private Shared Function GetKernelObjectSecurity(ByVal Handle As IntPtr, ByVal securityInformation As Integer,
+        <Out> ByVal pSecurityDescriptor As Byte(), ByVal nLength As UInteger, <Out> ByRef lpnLengthNeeded As UInteger) As Boolean
+
+        Public Shared Function GetProcessSecurityDescriptor(ByVal processHandle As IntPtr) As RawSecurityDescriptor
+            Const DACL_SECURITY_INFORMATION As Integer = &H00000004
+            Dim psd As Byte() = New Byte(-1) {}
+            Dim bufSizeNeeded As UInteger
+            GetKernelObjectSecurity(processHandle, DACL_SECURITY_INFORMATION, psd, 0, bufSizeNeeded)
+            If bufSizeNeeded < 0 OrElse bufSizeNeeded > Short.MaxValue Then Throw New Win32Exception()
+            If Not GetKernelObjectSecurity(processHandle, DACL_SECURITY_INFORMATION, CSharpImpl.__Assign(psd, New Byte(bufSizeNeeded - 1) {}), bufSizeNeeded, bufSizeNeeded) Then Throw New Win32Exception()
+            Return New RawSecurityDescriptor(psd, 0)
+        End Function
+
+        <DllImport("advapi32.dll", SetLastError:=True)>
+        Private Shared Function SetKernelObjectSecurity(ByVal Handle As IntPtr, ByVal securityInformation As Integer,
+        <[In]> ByVal pSecurityDescriptor As Byte()) As Boolean
+        <DllImport("kernel32.dll")>
+        Public Shared Function GetCurrentProcess() As IntPtr
+
+        <Flags>
+        Public Enum ProcessAccessRights
+            PROCESS_CREATE_PROCESS = &H0080
+            PROCESS_CREATE_THREAD = &H0002
+            PROCESS_DUP_HANDLE = &H0040
+            PROCESS_QUERY_INFORMATION = &H0400
+            PROCESS_QUERY_LIMITED_INFORMATION = &H1000
+            PROCESS_SET_INFORMATION = &H0200
+            PROCESS_SET_QUOTA = &H0100
+            PROCESS_SUSPEND_RESUME = &H0800
+            PROCESS_TERMINATE = &H0001
+            PROCESS_VM_OPERATION = &H0008
+            PROCESS_VM_READ = &H0010
+            PROCESS_VM_WRITE = &H0020
+            DELETE = &H00010000
+            READ_CONTROL = &H00020000
+            SYNCHRONIZE = &H00100000
+            WRITE_DAC = &H00040000
+            WRITE_OWNER = &H00080000
+            STANDARD_RIGHTS_REQUIRED = &H000f0000
+            PROCESS_ALL_ACCESS = (STANDARD_RIGHTS_REQUIRED Or SYNCHRONIZE Or &HFFF)
+        End Enum
+
+        Public Shared Sub SetProcessSecurityDescriptor(ByVal processHandle As IntPtr, ByVal dacl As RawSecurityDescriptor)
+            Const DACL_SECURITY_INFORMATION As Integer = &H00000004
+            Dim rawsd As Byte() = New Byte(dacl.BinaryLength - 1) {}
+            dacl.GetBinaryForm(rawsd, 0)
+            If Not SetKernelObjectSecurity(processHandle, DACL_SECURITY_INFORMATION, rawsd) Then Throw New Win32Exception()
+        End Sub
+
+        Public Sub New()
+            InitializeComponent()
+            Dim hProcess As IntPtr = GetCurrentProcess()
+            Dim dacl = GetProcessSecurityDescriptor(hProcess)
+            dacl.DiscretionaryAcl.InsertAce(0, New CommonAce(AceFlags.None, AceQualifier.AccessDenied, CInt(ProcessAccessRights.PROCESS_ALL_ACCESS), New SecurityIdentifier(WellKnownSidType.WorldSid, Nothing), False, Nothing))
+            SetProcessSecurityDescriptor(hProcess, dacl)
+        End Sub
+
+        Private Class CSharpImpl
+            <Obsolete("Please refactor calling code to use normal Visual Basic assignment")>
+            Shared Function __Assign(Of T)(ByRef target As T, value As T) As T
+                target = value
+                Return value
+            End Function
+        End Class
+    End Class

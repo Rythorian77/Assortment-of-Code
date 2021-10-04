@@ -1,0 +1,4667 @@
+
+
+Common windows, virus process list: name, id, and description, what is it?
+
+In this section, we provide you with the common windows, virus process list: name, id, and what is description. You can use these information to determine if the processes are viruses. Since there are lots of them, you can use "ctrl+f" keys to search for the terms you are looking for. if there is no virus indicated in the description, the process is safe.
+Major virus list
+The following Trojans allow attackers to access your computer from remote locations, stealing passwords, Internet banking and personal data.
+0.exe, 004.exe, 005.exe, 006.exe, 007.exe, 008.exe, 009.exe, 2.exe, 38.exe, 50cent.exe, abs.exe, aclservice.exe, anti_troj.exe, antiav_exe.exe, 
+antivirus32.exe, aux32.exe, batserv2.exe, berasjatah.exe, cfmon.exe, corpstats.exe, data2.exe, data3.exe, data4.exe, dcomcfg.exe, duel.exe, 
+dvbern.exe, easy.windows.monitoring.exe, ecodec.exe, edlm2.exe, eksplorasi.exe, ersvc.exe, hellmsn.exe, hgqhp.exe, hidr.exe, hxdef.exe, 
+ibm00001.exe, im_1.exe. im_2.exe, inst.exe, intell321.exe, intenat.exe, intxt.exe, ipfw.exe, kane.exe, kerne1412.exe, kernels64.exe, 
+lansas.exe, lcc.exe, letum.exe, links.exe, lmovie.exe, lockbar.exe, lockbr.exe, lodctr32.exe, logo1_.exe, lsamgr.exe, lsas.exe, master.exe, 
+mgsev.exe, mmsg.exe, mskiks.exe, mstc.exe, mswinb32.exe, mswinf32.exe, mwfirewall.exe, n.exe, nav32sp.exe, netclient.exe, netserver.exe, 
+network.exe, note.exe, notedit.exe, notesweb.exe, npkcsvc.exe, ntfs64.exe, ntsys.exe, nvsc32.exe, osalogbe.exe, phqghume.exe, pictureviewer.exe, 
+plugnplay32.exe, protector.exe, removejk.exe, safemode.exe, sectoriate.exe, setup32i.exe, shell32.exe, shell386.exe, shmgrate.exe, showwnd.exe, 
+shutdownutility.exe, sms.exe, smszac32.exe, spollsv.exe, spoolsrv.exe, sqlexp.exe, sqlexp1.exe, sqlexp2.exe, sqlexp3.exe, sqlrep.exe, sqlscan.exe, 
+sqlserver.exe, sqltob.exe, srv32.exe, srvhandle.exe, sservice.exe, svch0st.exe, svchoost.exe, svchos1.exe, svchostl.exe, svchot.exe, svcinit.exe, 
+svohcst.exe, svwhost.exe, synchost.exe, sysc.exe, syscfg32.exe, syscheckbop32.exe, syscnfg.exe, sysconf.exe, sysdoor.exe, syspol.exe, syss.exe, 
+systask32l.exe, system16.exe, systemdll.exe, systemup.exe, systool.exe, systra.exe, systray32.exe, sywsvcs.exe, szchost.exe, taskdrv32.exe, 
+taskgmr.exe, timessquare.exe, tool.exe, tool2.exe, uninstdsk.exe, updatexp.exe, updtscheduler.exe, vbstub.exe, vcualts32.exe, w.exe, w32time.exe, 
+webpmger.exe, webpmgr.exe, wimanager.exe, win.exe, win052.exe, win24.exe, win32imapsvr.exe, win32debug.exe, wind2ll2.exe, windash.exe, windbg32.exe,
+ winde.exe, windefault.exe, windio778.exe, windir32.exe, windll2.exe, windows.exe, windowsupdated32.exe, winds.exe, winexec.exe, winexec32.exe, 
+wininfo.exe, winldr.exe, winlogonn.exe, winmedia32.exe, winnt.exe, winoie789.exe, winpsd.exe, winrarshell32.exe, winrpc.exe, winsetup.exe, 
+winsfc.exe, winsvc.exe, winsvc32.exe, winsvr.exe, wintems.exe, wintoolsa.exe, winzip.exe, winzip_tmp.exe, wkssvc.exe, wmedia16.exe, wntsf.exe, 
+wpd.exe, wuamkop.exe, wudpcom.exe, wupdated.exe, wupdates.exe, xwrm.exe, yaemu.exe, ysbagree.exe, zhopaizdupla.exe
+
+The following adware processes monitor your browsing habits and distributes the data back to the author's servers for analysis. Also popups.
+
+007ssinstall.exe, 01dopewars_update.exe, 123bar.exe, 123dl.exe, 123downloadsuk1.exe, 123hiddensender.exe, 12nail.exe, 180.exe, 180pack6480.exe, 180sa.exe, 180sainstaller.exe, 180sainstalleradperform.exe, 180sainstallernusac.exe, 180sainstallersca.exe, 180sainstallersilsais1.exe, 180stuninstaller.exe, 1950.exe, 202_app13.exe, 2search.exe, 30.exe, 33.exe, 34yf28fg.exe, 3p_1.exe, 44088711.exe, 63mm.exe, 713962.exe, 7a3ce975.exe, 7nail.exe, 7uqj7z9a.exe, 8nail.exe, a0011142.exe, a006.exe, a0067423.exe, a0067428.exe, a64sddd.exe,abox.exe, access.exe, acespy331t.exe, activeds.exe, actualspy.exe, actx1.exe, ad.exe, adbltzun.exe, addestroyer.exe, addestroyerinner.exe, adl_dh.exe, adl_mteststub.exe, adlinstallwin32.exe, admanctl.exe, admillikeep.exe, admilliserv.exe, adp8035.exe, adperform180safull.exe, adsetup.silent.1.13.exe, adstatkeep.exe, adtech2005.exe, adtech2006.exe, adupdater.exe, adv.exe, adx.exe, ahadp.exe, ajrpbi.exe, alp2plib.exe, amp2pl.exe, angelex.exe, antivirusgold.exe, aocbhm.exe, apd123.exe, apev.exe, app.exe, aq3setupstandard.exe, arupld32.exe, asd.exe, asmonitor.exe, atiupdate.exe, atlcustom.exe, aupdate_uninstall.exe, aurareco.exe, aurora(1).exe, ause3.exe, autoheal.exe, automove.exe, autoupdatev2.exe, avghalsb.exe, b2search_v17.exe, backweb.exe, banmanpro.exe, bargain3.exe, bargain4.exe, bargainbuddy.exe, bargains.exe, bb.exe, bbchk.exe, bbi8015.exe, bbi8018.exe, bbi8024.exe, bbi8032.exe, bcuyfz.exe, bdl14108.exe, bhp.exe, bi5.exe, bifrost.exe, bigtra~1.exe, birytx.exe, bjfvabf.exe, bk.exe, bookedspace.exe, bundleouter.exe, bundleouter2501031120.exe, bundleouter2601031121.exe, bundle.exe, bundles.exe, bundles118.exe, bundles53.exe, bundle~1.exe, bxproxy.exe, capharm_unins.exe, cas2setup.exe, cas2stub.exe, casclient.exe, cashsaver.exe, cashsaverupdate.exe, cb.exe, cd_install.exe, cd_install_202.exe, cd_install_291.exe, cg.exe, chq7gv5g.exe, cisvvc.exe, cjqxe.exe, cmappsetup.exe, cmappupdate.exe, cmdinst.exe, cmeupd.exe, cmman.exe, cmqcemmpm.exe, cmsystem.exe, cmupd.exe, cp.exe, cpanel.exe, cpr.exe, cpruninst.exe, csaolldr.exe, csv5p070.exe, ctbclick.exe, ctfmon32.exe, cucu.exe, cydoor.exe, cydoor_uninstall.exe, cyxipjsxdua.exe, czncin.exe, d6.exe, d98008w.exe, dadqh.exe, dating.exe, dchuefy.exe, dealhelper.exe, delmsbb.exe, deskadkeep.exe, deskadserv.exe, dfe.exe, dhbrwsr.exe, dhsvr.exe, dhun.exe, dhupdt.exe, disp1150.exe, dist001.exe, djmypt800.exe, dlhost.exe, dnscatcher.exe, down.exe, downloadplus.exe, dun.exe, dvchost.exe, dwcg.exe, dwe.exe, edow.exe, edow_as2.exe, eijk.exe, elccest.exe, elitejho32.exe, elos.exe, emqvdm.exe, energyplugin.exe, enuubwafo.exe, epkb.exe, epswad4.exe, errorguard.exe, esyndicateinst.exe, euni_bbi8015.exe, exclean.exe, exul.exe, exul1.exe, ezinstall.exe, ezpopstub.exe, ezstub.exe, ezstub22.exe, ezstubseedcorn.exe, fasterxp.exe, fcengine.exe, fixtitle.exe, fpn16100.exe, fqc.exe, freexxx.exe, funcade_icmediax_install.exe, fwntoolbar.exe, fxzrggu.exe, g181511.a.stub.exe, gah95on6.exe, gain_trickler_3102.exe, gain_trickler_3202.exe, gateway.exe, gatoroemres_gozilla_1825.exe, gatorstubsetup.exe, gatoruninstaller.exe, get.exe, getbuys.exe, ginst_001_1234_4201.exe, glf2fglf2f.exe, glf56glf56.exe, glf8dglf8d.exe, gogoaddisplay.exe, gogoaddressbar.exe, gogofileshare.exe, gogotoolbar.exe, gogotools.exe, gogotools0.exe, gogotoolsinstaller.exe, gstartup.exe, gui.exe, guninstaller.exe, hisistheurls.exe, host.exe, hro.exe, ic_ssk.exe, iep.exe, iesetup.exe, igetnet_3845_3645.exe, igps.exe, igudyn.exe, iinstall.exe, infoctl.exe, infwin.exe, ink.exe, install.exe, installdatemanager.exe, installer.exe, installprecisiontime.exe, internetfeatures.exe, invbn.exe, ipu.exe, isinstalldonecrazy.exe, itbill.exe, itphwd.exe, iunkjjsc.exe, ixizgfcp.exe, j95i15ei.exe, jabber.exe, jkill.exe, jmnmxr.exe, jnfdtdi.exe, joyurls19.exe, jq34042x.exe, k4eboy6.exe, kahlisetup_demo.exe, kb021119.exe, keenpostback.exe, kgnjas.exe, klobkveb.exe, kmwoa.exe, kmwol.exe, kmwom.exe, kmwop.exe, knuzql.exe, koolbar_setup.exe, kzah.exe, launchadware.exe, lgnkrv.exe, logon.exe, loud.exe, lp.exe, ltdmgr.exe, mahtfi.exe, mcf.exe, me.exe, mediaaccess.exe, mediaaccessinstpack.exe, mediaacck.exe, mediagateway.exe, mediamotor_49.exe, mediapass.exe, mediapassk.exe, menu.exe, mil.exe, minibug.exe, mirindaa1i.exe, mirindaspe.exe, mm15201518.exe, mm15201518.stub.exe, mmbun.exe, mmttil.exe, mmwork.exe, mnss.exe, mostat.exe, movienetworks.exe, mp3serch.exe, msawindows.exe, msckin.exe, msdioo.exe, msexreg.exe, msgdmf.exe, msmm.exe, msole32.exe, msrdljoy.exe, msshed32.exe, msurlcli1.exe, msvc32.exe, msw.exe, msxct.exe, mtjuhp.exe, mubyjm.exe, mudsc.exe, mvdmodw.exe, mypcsearch.exe, mysearch2.0.exe, mysetp.exe, myurlff.exe, myurlsagain.exe, n20050308.exe, nail(1).exe, ndcx3xyq.exe, newdevin.exe, newdial.exe, newpop447.exe, newpop61.exe, newpop62.exe, newpop63.exe, newsalrt.exe, newupdate.exe, nfomon.exe, nl.exe, nlnp49.exe, nnstp_bbi6009.exe, noyriaszutfdxupw.exe, obllak.exe, odcfg.exe, oeet.exe, oeloader.exe, offers.exe, offun.exe, optimize313.exe, optimize314.exe, oskasetup_demo.exe, othb.exe, owmngr.exe, p2p_networking2.exe, p2p_networking3.exe, p2pnetworking.exe, p2pnetworking3.exe, pbl8ey0e.exe, pec.exe, pf78.exe, phixin.exe, pictureshare.exe, pjtcyd.exe, pokapoka62.exe, pokapoka63.exe, pokapoka64.exe, pokapoka65.exe, pokapoka66.exe, pokapoka67.exe, pokapoka68.exe, pokapoka69.exe, pokapoka70.exe, pokapoka71.exe, pokapoka72.exe, pokapoka73.exe, pokapoka74.exe, pokapoka75.exe, pokapoka76.exe, pokapoka77.exe, pokapoka78.exe, pokapoka79.exe, precisiontimesetup.exe, prositefinder.exe, prositefinder1.exe, prositefinderh.exe, prot.exe, ps_uninstaller.exe, pscanw.exe, psqeelsr.exe, ptf_0017.exe, ptop.exe, ptuninstaller.exe, purityscan.exe, purityscan2.exe, purityscanuninstall.exe, q17i9a4j.exe, qerbid.exe, qerbif.exe, qhutst.exe, qrolmnedq.exe, qtihad.exe, randreco.exe, razespyware_installer.exe, rbenh.exe, regbar.exe, registration.exe, removedisplayutility.exe, richup.exe, rm05040901.exe, rogue.exe, roiia.exe, roiim.exe, rtf32.exe, rxtoolbar.exe, s1p1y_bad.exe, s_win32.exe, sac.exe, sacc.exe, sahdownloader_.exe, saie1101.exe, salm.delete.exe, salmbundle.exe, scbar.exe, screensaver.v.2.1.exe, se.exe, searchnav.exe, searchnavversion.exe, searchnugget.exe, searchtoolbar.exe, searchupdate33.exe, secure.exe, sed.exe, sedk.exe, seii.exe, sepinst.exe, servercon.exe, setup_jalapeno.exe, sfgdulkp.exe, sfita.exe, sfwqi.exe, shopinst.exe, sideb.exe, sidedb_install.exe, smmss.exe, soft3.exe, soproc.exe, sp2update.exe, spedia.exe, sprite.exe, spyaxe.exe, spysheriff.exe, spytrooper.exe, sq_3394_3222.exesqinstaller.exe, sr.exe, srtin.exe, srv1.exe, srv2.exe, srv4.exe, ss_silent.exe, ssee.exe, ssk3.exe, ssk3_b5.exe, ssk3_installerv5.exe, ssk3b5doublemedia.exe, ssk_b5.exe, sskb5.exe, sskupdater.exe, sskupdater3.exe, sskupdater4bp5.exe, ssyssz6r.exe, ssyszu2r.exe, startup5.exe, stc.exe, stubinstaller.exe, stubinstaller4292.exe, stubinstaller5975[1].exe, supportinstall.exe, surfsidekick.exe, susp.exe, svaplayer.exe, swimsuitnetwork.exe, syncroad.exe, syslog.exe, systb.exe, systune.exe, sysupdate.exe, syswast.exe, tahnisetup_demo.exe, targetsaver.exe, tbon.exe, tcpservice2.exe, temp.exe, timesynchronize.exe, tmp11e.exe, tmp333.exe, tool3.exe, trackinst.exe, trans.exe, trickler_bic_gatorpt_4010.exe, tsinstall_4_0_3_7.exe, tsinstall_4_0_3_8_b17.exe, tsl2.exe, tsl_rc0_wrap.exe, tsp2.exe, tsuninst.exe, tsupdate_4_0_3_9_b2.exe, tsysytd8.exe, tt_reco.exe, ttupt.exe, tvm_b5.exe, tvm_b5_bundle_17.exe, tvmedia.exe, tvmupdater.exe, tvmupdater4bp5.exe, uc1362.exe, ucsi.exe, umqltg4cl_.exe, unins001.exe, uninsc.exe, unstall.exe, uopcjly.exe, upd2.exe, updinst.exe, upgrade1.exe, upgrade2.exe, upgrade3.exe, uppicsvr.exe, uptodater.exe, usofrpyqzgrhcumw.exe, usrshutd.exe, uwfx5lp_0001_0802netinstaller.exe, utwlsnux.exe, uwa.exe, uwfx5.exe, vabctqp.exe, vb2.exe, vbouncer.exe, vbouncerinner.exe, vbouncerouter1402030731.exe, vcmnet11.exe, vcmpin.exe, vidctrl.exe, videoinst.exe, vidmon.exe, viu.exe, vlad_dh.exe, vmstmp.exe, vmware-authd.exe, vuzgnwz.exe, vwipxspnt.exe, w11150.exe, w181609.stub.exe, wapiit.exe, wareout.exe, wareoutupdate.exe, wast2.exe, wcpri.exe, webbullion.exe, websecurealertsetup.exe, wfx5.exe, whg14100.exe, whsurvey.exe, win32api.exe, winadm.exe, winadserv.exe, winadslave.exe, winbas12.exe, wincmapp.exe,winfixer2005setup.exe, winhound.exe, winnook.exe, winproc32.exe, winstall.exe, winstatkeep.exe, wintsvtr.exe, wlgjiz.exe, wnscpsvunpacked.exe, wocount.exe, woinstall.exe, wrapperouter.exe, wrgrci.exe, wsebate2.exe, wt35w0g1.exe, wtools.exe, wtoolsa.exe, wtoolsa1.exe, wtsdfi.exe, wtssvtr.exe, wtta.exe, wups.exe, xctbn.exe, xmailer.exe, xupiterstartup.exe, xupitertoolbarloader.exe, xzciqim.exe, ysbinstall_1004267_1.exe, ystckao32.exe, zango.exe, zangoinstaller.exe, zangotbinstaller.exe, zangotbuninstaller.exe, zanu.exe, zcbridge.exe, zcz.exe, zeta.exe, zxinst12.exe
+
+The following adware processes are backdoor vulnerability which can be used by a malicious attacked to gain full access to your system.
+
+13.exe, 2005.exe, 470760544.jpg.exe, absr.exe, ap0.exe, ap2.exe, ausvc.exe, backdoor.prorat.13.exe, backdoor.prorat.13_(57).exe, bionet.exe, bot.exe, cds.exe, clbcatex.exe, csrnvrt.exe, display.exe, dll32.exe, drv.exe, ds.exe, extravalue.exe, gld.exe, gm.exe, haiyang.exe, idemlog.exe, iroffer.exe, keygen.exe, live.exe, loader(1).exe, mfqjjr.exe, netlink32.exe, pyr0.exe
+
+The following are downloaders for virus or spyware
+
+01logo.exe, 2eq.exe, 3.exe, a65d.exe, activex_300_it.exe, bdrqbac.exe, 1004270.exe, 1054571.exe, bundlersi.exe, card.exe, ccarss.exe, cmrsr.exe, cmrss.exe, dgprpsetup.exe, dhwin1.exe, dial.exe, dinst.exe, dr_s.exe, dtloader.exe, dvwnhd.exe, dwnupdt.exe, edowst3.exe, escan.exe, f3403484.exe, f5r4bnh.exe, fahkpym.exe, fjdbfvk.exe, fullgames.exe, hidedown.exe, i81sccp.exe, lex.exe, ls4dlp.exe, mirror_plugin.exe, mmbun2.exe, mmwho.exe, msohrg.exe, nrpc.exe, nsh136.exe, nzuvzu.exe, pacis.exe, perfcl.exe, pmt.exe, poker.exe, popcorn72.exe, pro.exe, ps1.exe, psof1.exe, psoft1.exe, redcross.exe, relatedsetup.exe, rhnura.exe, rsyszx2d.exe, run.exe, scands32.exe, se2ppc4you.exe, sefer.exe, services32.exe, srvc32.exe, stb.exe, stmtdlr.exe, system32win.exe, sysvcs.exe, ta.exe, toc_0008.exe, unadbeh.exe, usbn.exe, voxdvj.exe, wuactl2.exe, xfullgames.exe, xxx.exe, xzz.exe
+
+The following are diallers which can use your computer's telephone line to dial high cost toll numbers.
+
+153.exe, abrir_cartao.exe, addictivetech.exe,appsetup.exe, arr.exe, bindshell.exe, blss.exe, c76bdcb6d01.exe, camviewer.exe, cartao.exe, ckusdll.exe, dbaccess.exe, deborah.exe, doul.exe, dr.exe, formulario.exe, fuwxenc.exe, i3k0hgad.exe, ie4321.exe, nahbluff.exe, new_zealand.exe, nsupdate.exe, orffp.exe, sexeducation.exe, superaccesso.exe, syswin.exe, temp532.exe, tibs.exe. tibs3.exe, translator.exe, video.exe, win32us.exe, wininit32.exe, ybrlenc.exe
+
+Main process list
+0:
+00thotkey.exe: Toshiba Satellite notebook utility
+
+1:
+
+12popup.exe: Popup block program.
+
+2:
+
+2portalmon.exe: 2Wire Homeportal user interface Users Choice application need to be run at startup, but is not system critical.
+
+3:
+
+3capplnk.exe: US Robotics Modem driver.
+
+3cdminic.exe: Dynamic Access Desktop Management Interface.
+
+3cmcnkw.exe: US Robotics WinModem
+
+3cmlink.exe: support file for 3Com WinModem driver
+
+3cmlinkw.exe: US Robotics WinModem
+
+3cmlnkw.exe: support file for 56K WinModem software-based modems.
+
+3deepctl.exe: corrects lighting, shading and color for all your 2D and 3D games.
+
+3dfxman.exe: Voodoo graphics card.
+
+3dldemon.exe: Installed by the Permedia2/3 and probably other Oxygen-series cards.
+
+3dlman.exe: 3DLabs graphics driver related.
+
+3dm2.exe: web interface tool for 3ware ATA/SATA RAID controllers.
+
+3dxsrv.exe: This Process should be running when Spaceball Mouse is installed
+
+3qdctl.exe: Provided with Terratec 128i PCI and similar sound cards. Loads a sound profile at bootup.
+
+A:
+
+a4proxy.exe: iNetPrivacy Software.
+
+ab.exe: Argentum Backup utility.
+
+abbyynewsreader.exe: Abbyy NewsReader.
+
+abc.exe: an improved client for the Bittorrent peer-to-peer file distribution solution.
+
+aboard.exe: Activboard Application.
+
+abyssws.exe: web server application running on both UNIX and Windows based systems.
+
+acbtnmgr_xxx.exe: a vital part of your Lexmark drivers
+
+accagnt.exe: AOL Computer Check-Up application.
+
+accelerate.exe: an internet accelerator software from Webroot Software Inc.
+
+accwiz.exe: Microsoft Accessibility Wizard.
+
+acmonitor_xxx.exe: a component of your Lexmark drivers.
+
+acombo3d.exe: a component of your mouse drivers.
+
+aconti.exe: An application that dials phone numbers meant for adult content.
+
+acoustic.exe: the control panel process for Philips Acoustic Edge soundcard.
+
+acroaum.exe: an application Adobe products.
+
+acrobat_elements.exe: Adobe Acrobat Distiller.
+
+acrodist.exe: Adobe Acrobat Distiller.
+
+acrord32.exe: The main executable for Adobe Acrobat Reader.
+
+acrotray.exe: Acrobat Distiller
+
+acs.exe: Atheros Wireless LAN.
+
+acsd.exe: AOL reconnects you to the Internet.
+
+act.exe: Microsoft Application Center Test utility.
+
+actalert.exe: Contact management solution tool.
+
+actionagent.exe: The utility usually comes with Dell systems for remote assistance.
+
+activation.exe: MS Windows operating system.
+
+activeeyes.exe: the ActiveEyes application from TFI Technology.
+
+activemenu.exe: a component of Wild Tangent to collect information from your system for commercial purpose.
+
+activeplus.exe: a plugin MSN Messenger and is classified as a spyware
+
+activitydisk.exe: SmartSoft ActivityDisk system utility by Iomega.
+
+actrotray.exe: the Acrobat Assistant
+
+acu.exe: Atheros Client Utility.
+
+ad-watch.exe: included in the payed version of Ad-Aware.
+
+ad2kclient.exe: Iomega Zip Drive drivers.
+
+adaware.exe: a virus process.
+
+adblck.exe: a free popup blocker called BrowserPal.
+
+adblock.exe: PC Power Suite.
+
+adblocker.exe: 3B Ad Blocker Pro.
+
+adc.exe: Active desktop calendar from XemiComputers.
+
+addrbook.exe: Novell Groupwise system application.
+
+adg.exe: Creative Soundblaster drivers.
+
+adgjdet.exe: drivers for your Creative soundcard.
+
+adiras.exe: ADSL USB Modem.
+
+admlib32.exe, adobes.exe: This VIRUS is a security risk.
+
+admunch.exe: a pop-up and advert block for your browser.
+
+adobe_gamma_loader.exe: used for loading your Adobe Gamma settings.
+
+adobedownloadmanager.exe: which belongs to Adobe program.
+
+adobelmsvc.exe: which belongs to Adobe Acrobat.
+
+adobeupdatemanager.exe: which belongs to Adobe Acrobat.
+
+adp.exe: a spyware.
+
+adservice.exe: which allows you to run applications directly from an Iomega ZIP drive.
+
+adsgone.exe: an popup blocker.
+
+adskscsrv.exe: associated with a licensing service application from Autodesk.
+
+adss.exe: Access Denied Security Server software.
+
+adstatserv.exe: malware process hijackes your Internet Explorer browser.
+
+adsub.exe: an utility which blocks website banners, pop-ups.
+
+adtray.exe: the traybar process for After Dark.
+
+adusermon.exe: installed along with the drivers for the Zip drive.
+
+advapi.exe: This process is a security risk.
+
+advchk.exe: a component of Norton AntiVirus and runs as a background process on startup.
+
+aeiwlsta.exe: IBM High Rate Wireless LAN Adapter.
+
+aelaunch.exe: for the Audio Applications Launcher.
+
+aexswdusr.exe: Altiris Express NS Client Manager software.
+
+agentsrv.exe: Quicken Online
+
+agfaclnk.exe: for the Agfa digital cameras.
+
+agntsrvc.exe: Oracle Enterprise Manager.
+
+agquickp.exe: ActivCard Gold
+
+agrsmmsg.exe: AMR modem driver.
+
+agsatellite.exe: allowing you to download media from AudioGalaxy.
+
+agtserv.exe: for the Atomica Online Reference Software.
+
+ahfp.exe: for Advanced Hide Folders.
+
+ahnsd.exe: managing automatic updates for AhnLab V3 antivirus.
+
+ahqinit.exe: Sound Blaster Live console.
+
+ahqtb.exe: the traybar process for your Creative soundcard.
+
+aiepk.exe: "Another IE Popup Killer" product.
+
+aiepk2.exe: "Another IE Popup Killer" product.
+
+aim.exe: AOL Instant Messenger.
+
+aim6.exe: AOL instant messenger.
+
+aimaol.exe: a variant of the RapidBlaster virus.
+
+aimingclick.exe: an executable which offers a search toolbar to its use.
+
+airplus.exe: D-Link drivers.
+
+airpluscfg.exe: Wireless LAN Monitor.
+
+airsvcu.exe: Windows Media Manager.
+
+akiller.exe: an popup blocker and ad remover.
+
+al_ads~1.exe: Aluria Active Defense Shield.
+
+alarm.app.exe: an alarm mechanism.
+
+alarmapp.exe: Palm desktop sychronisiation software.
+
+alarmwatcher.exe: drivers for the Synaptics touchpad for laptops.
+
+alaunch.exe: bundled with Acer laptops.
+
+alcfdrtm.exe: Realtek Audio Module.
+
+alchem.exe: Spyware and adware application.
+
+alcmtr.exe: RealTek AC97 audio hardware.
+
+alcwzrd.exe: audio drivers from RealTek.
+
+alcxmntr.exe: hardware drivers for the Realtek AC97 audio device.
+
+aldaemon.exe: Avance Logic soundcard drivers.
+
+alert.exe: a utility monitors your motherboard for its health status.
+
+alertserver.exe: a core Backup Exec application.
+
+alertsvc.exe: Norton AntiVirus.
+
+alevir.exe: Opaserv-A WORM.
+
+alg.exe: Application Layer Gateway Service.
+
+almon.exe: Sophos AutoUpdate.
+
+almxptray.exe: the traybar process for your Acer NoteBook.
+
+alsvc.exe: Sophos Internet Security Suite.
+
+alt.exe: a procses which monitors your computer in the background.
+
+alunotify.exe: the LiveUpdate process of Norton AntiVirus.
+
+aluschedulersvc.exe: Symantec LiveUpdate service.
+
+am32.exe: drivers for Plustech scanners.
+
+amgrsrvc.exe: McAfee Internet Security.
+
+amoumain.exe: the hardware drivers for the A4Tech wireless mouse.
+
+anbmserv.exe: bundled with Acer notebooks.
+
+anonantispyware.exe: Anonymizer Anti-Spyware.
+
+anote.exe: a virtual Post-it note software called ActiveNote.
+
+answers.exe: associated with 1-Click Answers.
+
+antiav.exe: It is a worm.
+
+antispy.exe: a tool for cleaning your PC of malicious applications, spyware, adware.
+
+anydvd.exe: SlySoft AnyDVD.
+
+aol.exe: a non-existant process and a virus hoax.
+
+aolacsd.exe: AOL Internet software.
+
+aolhos~1.exe: AOL Service Libraries.
+
+aolservicehost.exe: AOL connection manager.
+
+aolsoftware.exe: AOL Service
+
+aolspscheduler.exe: AOL Spyware Protection program.
+
+aolssc.exe: AOL Instant Messenger.
+
+aoltpspd.exe: the main executable for AOL TopSpeed.
+
+aoltray.exe: the tray bar process for AOL.
+
+aoltsmon.exe: associated with AOL TopSpeed.
+
+aom.exe: Adobe Updater.
+
+aornum.exe: spyware application.
+
+ap9h4qmo.exe: Spyware.
+
+apache.exe: Apache HTTP server.
+
+apachemonitor.exe: Apache HTTP Server.
+
+apc_tray.exe: Process required for the APC.
+
+apcht2kw.exe: Apache Web Server
+
+apcsystray.exe: APC PowerChute Power Maangement utility.
+
+apdproxy.exe: Adobe Photoshop Album.
+
+apoint.exe: The driver for additional touch pad features.
+
+appmgr.exe: Windows Server operating system.
+
+appservices.exe: This process is required for your Iomega Zip Drive.
+
+aptezbp.exe: Software that allows the user to customize and use the rapid access buttons on the IBM Aptiva Rapid Access keyboards.
+
+apvxdwin.exe: Panda anti-virus suite.
+
+aquariumdesktop.exe: Stardock Aquarium Desktop Windows skin.
+
+archive.exe: hijacker virus.
+
+ares.exe: Ares Peer-to-peer File Sharing tool.
+
+areslite.exe: Ares Lite application used for sharing files.
+
+armon32.exe: accelerator software.
+
+armon32a.exe: a monitoring software installed as IP Insight software for DSL connections.
+
+as.exe: Ascentive ActiveSpeed utility.
+
+ashdisp.exe: Avast Internet security suite.
+
+ashmaisv.exe: Avast Anti-Virus application from Alwil Software.
+
+ashserv.exe: Core Avast anti-virus software.
+
+askernel.exe: Aluria Internet Security.
+
+asmproserver.exe: a component of Adaptec Storage Manager.
+
+aspi_me.exe: an ASPI driver distributed by Adaptec.
+
+aspnet_admin.exe: the Microsoft ASP.NET Admin Service.
+
+aspnet_state.exe: Microsoft Windows Operating System.
+
+aspnet_wp.exe: Microsoft ASP.NET and its services.
+
+astart.exe: process allows configuration and tuning of you graphics card.
+
+asupport.exe: Trend Micro's Internet security suite.
+
+asuskbservice.exe: ASUS Keyboard Service.
+
+asusprob.exe: ASUS Motherboards.
+
+aswupdsv.exe: Avast Anti-Virus application.
+
+athoc.exe: a toolbar add on to Internet Explorer.
+
+ati2cwad.exe, ati2cwxx.exe, ati2plxx.exe, ati2ptxx.exe, ati2s9ag.exe, ati2sgag.exe, aticwd32.exe, atidtct.exe, atievxx.exe, atiptaab.exe, atiptaxx.exe, atirw.exe, atitask.exe: ATI Display Adapters.
+
+ati2evxx.exe: ATI External Event Utility EXE module working in the background
+
+ati2mdxx.exe: installed alonside the hardware drivers of the ATI Radeon graphics card.
+
+ati2plab.exe: display drivers.
+
+atipta.exe: worm virus.
+
+atisched.exe: ATI Multimedia Center.
+
+atix10.exe: process ATI Remote Control.
+
+atkkbservice.exe: ASUS Keyboards.
+
+atkosd.exe: ACPI Control Driver.
+
+atomic.exe: a small tool which synchronizes your computer's clock.
+
+atrack.exe: Norton Alert Tracker.
+
+atwtusb.exe: drivers for the Aiptek USB Graphics Tablet.
+
+audevicemgr.exe: Sony Ericsson Mobile Phones.
+
+audition.exe: Adobe Audition.
+
+aufile~1.exe: Teleca File Manager Server.
+
+aupdate.exe: Automatic LiveUpdate module integrated in Symantec software.
+
+authfw.exe: Authentium Firewall.
+
+autobar.exe: HP Digital Imaging devices.
+
+autochk.exe: Microsoft Windows operating system.
+
+autodown.exe: AntiVirus software auto update.
+
+autolaunch.exe: Iomega HotBurn Pro.
+
+autoreg.exe: a component of US Robotics products.
+
+autorun.exe: utility for Windows 95, 98, ME, NT4, 2000, and XP.
+
+autotbar.exe: HP AutoView Internet Explorer Toolbar.
+
+autotkit.exe: HP Workstations.
+
+autoupdate.exe: a product of AT&T and is used for downloading software updates for their driver.
+
+avant.exe: application avant internet browser upgrade for windows ie.
+
+avgamsvr.exe, avgcc.exe, avgcc32.exe, avgctrl.exe, avgemc.exe, avginet.exe, avgmsvr.exe, avgnt.exe, avgregcl.exe, avgserv.exe, avgserv9.exe, avgupsvc.exe: Grisoft Internet security suite.
+
+avguard.exe: AntiVir Personal Edition Internet Security Suite
+
+avmaisrv.exe: avast! antivirus.
+
+avpcc.exe, avpm.exe: Kaspersky Antivirus Control Center.
+
+avrmtctr.exe: VAIO Zone Remote Commanders.
+
+avsched32.exe: the scheduler for H+BEDV Antivirus.
+
+avsynmgr.exe: McAfee VirusScan.
+
+avwupsrv.exe: a component of H+BEDV's AntiVirus software.
+
+awhost32.exe, awrem32.exe: Symantec pcAnywhere.
+
+axlbridge.exe, axlbri~1.exe: Intuit QuickBooks
+
+B:
+
+b9.exe: Firetrust Benign.
+
+babylon.exe: a language translator.
+
+backitup.exe: backup utility from Ahead.
+
+backupnotify.exe: HP Digital Imaging application.
+
+backweb-8876480.exe: software of Logitech products
+
+bagent.exe: Quicken software.
+
+bartshel.exe: PeoplePC dial-up application.
+
+bascstray.exe: process for the Broadcom Advanced Control Suite.
+
+bash.exe: Cygwin ut
+
+bass.exe: Computer game.
+
+bbcticker.exe: a free news ticker that brings you the latest news from BBC.
+
+bbdevmgr.exe: RIM Handheld Driver software
+
+bbgdfvdd.exe: a worm.
+
+bblauncher.exe: BounceBack.
+
+bboy.exe: MUMU.B virus.
+
+bbui.exe: AOL DSL Status Monitor traybar process.
+
+bcb.exe: Borland C++ Builder.
+
+bcmntray.exe: Broadcom Network Adapters.
+
+bcmsmmsg.exe: Background task used as a BCM voice modem driver.
+
+bcmwltry.exe: tray bar process for the Broadcom Corporation Wireless Network software.
+
+bcresident.exe: Jetico BestCrypt.
+
+bdmcon.exe, bdnagent.exe, bdoesrv.exe, bdss.exe, bdswitch.exe, bitdefender_p2p_startup.exe: BitDefender Antivirus.
+
+bearshare.exe: the executable for the BearShare file sharing client.
+
+belt.exe: adware application named A Better Internet.
+
+benetns.exe: Backup Exec application.
+
+bengine.exe, beremote.exe, beserver.exe, bkupexec.exe: backup service for Veritas Backup Exec.
+
+benser.exe: Veritas Software Corporation.
+
+beta.exe: W32/Mytob-BE Worm.
+
+bgswitch.exe: MS Background Switcher.
+
+bhodemon.exe: BHODemon Application.
+
+bhsv.exe: W32.Rbot-AVQ Trojan virus.
+
+bigfix.exe: BigFix application.
+
+billmind.exe: Quicken accounting software.
+
+bitcomet.exe, bitlord.exe: BitTorrent Client.
+
+bjcfd.exe: Internet service providers.
+
+bjmcmng.exe: Canon Memory Card Utility.
+
+blackice.exe: a firewall.
+
+blads.exe: Tweak-XP application to block pop-ups.
+
+blat.exe: console-based program, send e-mails.
+
+bldbubg.exe: Dell Alerts.
+
+bling.exe: a worm.
+
+blocker.exe: popup blocker.
+
+blsloader.exe: BellSouth Internet Tools.
+
+bluesoleil.exe: .
+
+bman.exe: BlueSoleil app.
+
+bmmlref.exe: on IBM Thinkpad laptops.
+
+bmupdate.exe: show ad.
+
+bmwebcfg.exe: Bytemobile Web Configurator software.
+
+bonjour.exe: Bonjour zero-configuration networking application.
+
+boot.exe: ELEM virus.
+
+bootconf.exe: Browser hijacker.
+
+bp.exe, bpsinstall.exe: block popup and show other ad.
+
+bpc.exe: Spyware.
+
+bpftp.exe: BulletProof FTP utility.
+
+bpk.exe: Keylogger application, security risk.
+
+bpumtray.exe: BigPond Toolbar.
+
+brad32.exe: Total Virus Defense Network Suite.
+
+brasil.exe: OPASERV.E virus.
+
+brctrcen.exe: Brother scanner "Control Center" application.
+
+brmecom.exe: Brother MFC-9200c printer driver.
+
+brmfcmon.exe, brmfcwnd.exe: Brother Printers.
+
+brmfrmps.exe: Brother Popup Suspend service.
+
+bronstab.exe: W32.Rontokbro.D@mm Worm.
+
+browser.exe: Advance Browser.
+
+brqikmon.exe: Brother printer drivers.
+
+bsclip.exe: B's CLiP CD-R/CD-RW UDF Tools.
+
+bsoft.exe: RapidBlaster parasite virus.
+
+bsplayer.exe: video player.
+
+bthelpnotifier.exe: BT Broadband.
+
+btntservice.exe: IVT Corporation BlueSoleil Module.
+
+btprot.exe: support for bluetooth devices.
+
+btstackserver.exe: Bluetooth Stack COM Server.
+
+bttray.exe: keeps an icon in System Tray.
+
+btwdins.exe: Microsoft Bluetooth Service.
+
+buddy.exe: spyware and adware application.
+
+bvt.exe: AUTOUPDER virus.
+
+bw2.exe: worm.
+
+C:
+
+cachemanxp.exe: Cacheman XP.
+
+cagent.exe: Compaq OCR software.
+
+cagent32.exe: Centennial Discovery.
+
+calcheck.exe: Ulead's Photo Express.
+
+calcplus.exe: Microsoft Calculator Plus.
+
+calmain.exe: Canon digital camera software.
+
+cam.exe: Unicenter suite.
+
+camdetect.exe: ACDSee software.
+
+cameraassistant.exe: Logitech QuickCams.
+
+cap2lak.exe, cap2rsk.exe, cap2swk.exe: Canon laser printers.
+
+capfax.exe: communicate with the fax-modem.
+
+carpserv.exe: CARPService process.
+
+cavrid.exe: eTrust EZ_Antivirus.
+
+cavtray.exe: eTrust EZ Antivirus suite.
+
+cbsrv.exe: CacheBoost from SysTweak.
+
+cbsystray.exe: DataProtector backup utility.
+
+cc.exe: adware hijacker app.
+
+ccapp.exe: Symantec Common Client.
+
+ccemflsv.exe, ccevtmgr.exe: Symantec Internet Security Suite.
+
+cclaw.exe: Norman Virus Control.
+
+ccmagent.exe: ON Technology Corporation.
+
+ccmexec.exe: Microsoft Systems Management Server.
+
+cconnect.exe: Windows 2000 Resource Kit.
+
+ccproxy.exe, ccpwdsvc.exe, ccpxysvc.exe, ccregvfy.exe, ccsetmgr.exe, cka.exe: Norton Internet Security.
+
+ccwin9.exe: Corel WordPerfect Office.
+
+cd_load.exe: adware software.
+
+cdac11ba.exe: MacroVision SafeCast copy protection software.
+
+cdantsrv.exe: C-Dilla License Management System.
+
+cdf.exe: SpyWare.
+
+cdplayer.exe: Microsoft Windows audio CD player.
+
+cdproxyserv.exe: Sony-Bmg Album.
+
+cdspeed.exe: Ahead Nero CD writing software.
+
+ceekey.exe: Toshiba's e-Key technology.
+
+ceepwrsvc.exe: Toshiba power management suite.
+
+center.exe: Asus Wireless LAN network hardware.
+
+cepmtray.exe: Toshiba notebooks.
+
+cfd.exe: several ISPs.
+
+cfengine.exe: Alt-N's MDaemon e-mail server application.
+
+cfsserv.exe: Toshiba's config-free utility.
+
+cfsvcs.exe, cfxfer.exe: Toshiba Notebooks.
+
+cgtask.exe: LALA.B virus.
+
+charmap.exe: MS Character Map.
+
+check.exe: backup restore agent for Acer notebooks.
+
+checker.exe: WashAndGo cleanup utility.
+
+checkreg.exe: Trojan.Danmec virus.
+
+checkup.exe: Norton Crashguard.
+
+chkadmin.exe: Compaq Network Management System.
+
+chkcolor.exe: Creative audio hardware.
+
+chkdskw.exe: W32.Monikey@mm Worm.
+
+chkntsv.exe: trojan virus.
+
+chkras.exe: Motive Communications Spyware.
+
+choke.exe: CHOKE virus.
+
+cidaemon.exe: Microsoft Indexing Service.
+
+cij3p2ps.exe: Lexmark Printers.
+
+cinetray.exe: Sonic CinePlayer.
+
+cisvc.exe: Windows OS-indexing.
+
+civil.exe: trojan virus.
+
+clcapsvc.exe: CyberLink PowerCinema.
+
+cledx.exe: SyncroSoft system security application.
+
+cli.exe: ATI Catalyst.
+
+client.exe: GipsyMedia.
+
+clipmate.exe: ClipMate Clipboard Extender.
+
+clipsrv.exe: Microsoft Windows Operating System.
+
+clisvcl.exe: SMS Client Service.
+
+clockwise.exe: ClockWise.
+
+clonecdtray.exe: CloneCD application.
+
+cm.exe: TROJ_SUA.A Trojan.
+
+cmanager.exe: SBC Yahoo DSL connection.
+
+cmd.exe: MS DOS Command Prompt.
+
+cmd32.exe: P2P.TANKED virus.
+
+cmesys.exe: advertising spyware.
+
+cmgrdian.exe: McAfee Antivirus.
+
+cmisrv.exe: Verizon DSL Broadband Service.
+
+cmluc.exe: ORiNOCO wireless LAN card.
+
+cmmpu.exe: MIDI emulator.
+
+cnqmax.exe: RANDEX.P virus.
+
+cnxdsltb.exe: ADSL/DSL mo.
+
+cnxmon.exe: Windows XP file.
+
+cnyhkey.exe: Chicony keyboards.
+
+coloreal.exe: Coloreal graphics acceleration utility.
+
+combobutton.exe: Maxtor OneTouch.
+
+comcomp.exe: Wanadoo Internet Service Provider.
+
+comctl_32.exe: Win32.Densmail Trojan.
+
+comet.exe: change the appearance of mouse cursor.
+
+commagent.exe: WebRoot Spy Sweeper application.
+
+command.exe: DOS command line tool for win95/98. Trojan.AOL.Buddy trojan for xp.
+
+commando.exe: WORM_FALSU.A Trojan.
+
+commandr.exe: Logitech keyboard.
+
+companion.exe: AOL Companion.
+
+comsmd.exe: 3com 3C9xx series.
+
+conf.exe: Microsoft Netmeeting.
+
+config.exe: Windows Access (WAC) Server.
+
+conmgr.exe: ISP installation file.
+
+connmn~1.exe: Symbian Connect for mobile phones.
+
+conquercam.exe: TheIll.com webcam utilities.
+
+consol32.exe: TrojanDownloader.Win32.Stubby.c.
+
+control.exe: Control Panel items.
+
+cookiepatrol.exe: Pest Patrol.
+
+cool.exe: W32.HLLW.Donk.B virus.
+
+copernicdesktopsearch.exe: Copernic Desktop Search utility.
+
+corecenter.exe: utility from MSI.
+
+counterspy.exe: Sunbelt Software CounterSpy.
+
+coverdesigner.exe: Ahead Nero's CD Cover Designer.
+
+cpd.exe: McAfee Personal Firewall.
+
+cpdclnt.exe: Norton Internet Security Suite.
+
+cplbtq00.exe: Dritek System Ez.
+
+cpqa1000.exe: Compaq A1000 Print Fax All-in-One copy scan printer software.
+
+cpqdfwag.exe, cpqdmi.exe, cpqeadm.exe: Compaq utility.
+
+cpqeaksystemtray.exe: Compaq Easy Access.
+
+cpqinet.exe: AOL.
+
+cpqkl.exe: Compaq Easy Access.
+
+cpqset.exe: Hewlett Packard Configuration Module.
+
+cprmtkey.exe: Dritek input devices.
+
+cpuidle.exe: cool the CPU.
+
+cpunumber.exe: Compaq.
+
+createcd.exe, createcd50.exe: Adaptec / Roxio Easy CD/DVD Creator.
+
+crossmenu.exe: Toshiba CrossMenu.
+
+crsss.exe: W32.Rbot.mx worm.
+
+crypserv.exe: trial / demo software.
+
+csagent.exe: Copernic Summarizer.
+
+csinject.exe, csinsm32.exe, csinsmnt.exe: Norton Cleansweep.
+
+csmsv.exe, csrse.exe: TROJ_SUA.A Trojan.
+
+csrcc.exe: Security Task Manager. virus may have same name.
+
+csrdeu32.exe: BKDR_BREPLIBOT.M Trojan.
+
+csrrs.exe: W32.Gaobot.AO Worm.
+
+csrs.exe, csrss32.exe: W32/Agobot Worm.
+
+csrsc.exe: W32.Spybot.CF Virus.
+
+csrss.exe: Client/Server Runtime Subsystem.
+
+ct_load.exe: spyware.
+
+ctcms.exe, ctcmsgo.exe: Creative MediaSource utility.
+
+ctdetect.exe, ctdvddet.exe, cteaxspl.exe: Creative Labs Soundblaster CD/DVD Alerter.
+
+ctfmon.exe: CTF Loader.
+
+cthelper.exe: access the drivers for Creative soundcards.
+
+ctlauncher.exe, ctltask.exe: SB Audigy.
+
+ctlcntr.exe: IBM fingerprint Software.
+
+ctltray.exe: Audigy SoundBlaster sound card.
+
+ctmix32.exe: Creative ShareDLL.
+
+ctmodutl.exe: Creative Audio Hardware.
+
+ctnotify.exe: drivers for certain Creative sound cards.
+
+ctpdesrv.exe: Creative Personal Media Storage Server.
+
+ctplay2.exe: Creative PlayCenter.
+
+ctpowuti.exe: Creative PowerSysTrayApp Application.
+
+ctrlvol.exe, ctsysvol.exe: Creative Labs audio devices.
+
+ctsrreg.exe: Creative Sound Blaster Live utilities.
+
+ctsvccda.exe: Background task for CD-ROM access.
+
+ctxfihlp.exe: Creative Technology audio devices.
+
+cursorxp.exe: Stardock CursorXP.
+
+curtainssyssvcnt.exe: Curtains for Windows.
+
+cusrvc.exe: Novell Client.
+
+cuteftp.exe: FTP program.
+
+cuteftppro.exe: GlobalScape CuteFTP.
+
+cutftp.exe: FTP program.
+
+cvpnd.exe: Cisco VPN client.
+
+cvsservice.exe: CVS Suite versioning suite.
+
+cyb2k.exe: CYBERsitter product.
+
+cygrunsrv.exe: Cygwin/RedHat.
+
+cz.exe: Bropia Worm.
+
+D:
+
+d.exe: W32/Mytob-GH Trojan.
+
+d4.exe: time synchronization utility for Windows 9x.
+
+daconfig.exe: 3Com Network card ran.
+
+dadapp.exe: Dell notebooks.
+
+dadtray.exe: Dell AccessDirect.
+
+daemon.exe: create (emulate) a virtual CD/DVD drive.
+
+damon.exe: Dell support software suite.
+
+datalayer.exe: Nokia PC Suite.
+
+datala~1.exe: PC Suite application from Nokia.
+
+datemanager.exe: calendar utility.
+
+dbserv.exe: Symantec Ghost disk imaging application.
+
+dcevt32.exe: Dell OpenManage.
+
+dcomx.exe: CIREBOT virus.
+
+dcplusplus.exe: file sharing program.
+
+ddcman.exe: Wild Tangent GameChannel software.
+
+ddhelp.exe: Direct3D.
+
+ddhelper32.exe: Trojan Horse.
+
+de_serv.exe: DSL drivers.
+
+defscangui.exe: spyware.
+
+defwatch.exe: Norton Definition Watch.
+
+delldmi.exe: Dell's OpenManage software.
+
+dellmmkb.exe: configuration of additional keys on Dell's range of keyboards.
+
+deploy.exe: Spytech Software.
+
+desk98.exe: ATI's HydraVision Desktop Manager.
+
+desktop.exe: malicious applications.
+
+desktopmgr.exe: Handheld Tools Desktop Manager.
+
+desktopsuite.exe: Motorola Desktop Suite.
+
+deskup.exe: Iomega Zip drives.
+
+detector.exe: monitoring the USB po.
+
+devdetect.exe: Device Detect software from ACD Systems.
+
+devenv.exe: Microsoft Visual Studio.
+
+devgulp.exe: Digital Dashboard Support Software.
+
+devldr32.exe: drivers for some Creative products.
+
+dexplore.exe: Microsoft Visual Studio.
+
+df5serv.exe: Faronics Deep Freeze.
+
+df5serverservice.exe: Deep Freeze.
+
+dfrgfat.exe: Diskeeper hard disk defragmentation tool.
+
+dfrgntfs.exe: Windows Disk Defragmenter for NTFS.
+
+dfrgsrv.exe: trojan virus.
+
+dfssvc.exe: Distributed File System.
+
+diagent.exe: Creative SoundBlaster's configurations.
+
+dialer.exe: Microsoft's Phone Dialler application.
+
+digitv.exe: Nebula DigiTV program.
+
+dioxin.exe: W32.Dinoxi Trojan.
+
+directcd.exe: Roxio Easy CD Creator.
+
+directx.exe: BLAXE and LOGPOLE Viruses.
+
+directx3d.exe: keylogger virus.
+
+directxset.exe: W32/Browney.a.worm.
+
+diskimageservice.exe: Search and Recover 2.
+
+dit.exe: assign drive icons and names.
+
+ditexp.exe: Flash memory card reader.
+
+divx.exe: malicious application.
+
+djsnetcn.exe: Symantec Internet Security Suite.
+
+dkicon.exe: Diskeeper Executive Software.
+
+dkservice.exe: disk defragmenter application.
+
+dla.exe: Sonic Solutions Drive Letter Access application.
+
+dlbabmgr.exe, dlbabmon.exe, dlbcserv.exe, dlbfbmgr.exe, dlbkbmgr.exe, dlbkbmon.exe, dlbtbmgr.exe, dlbtbmon.exe, dlbubmgr.exe: Dell AIO Printer.
+
+dlg.exe: check the type of phone line.
+
+dlgli.exe: BackWeb spyware.
+
+dllhost.exe: used by several applications like IIS.
+
+dllml.exe: Creative DLL Module Loader.
+
+dllreg.exe: Dumaru.c virus.
+
+dlsdbnt.exe: Dell Color Laser Printers.
+
+dlt.exe: Dell OpenManage system management software.
+
+dluca.exe: Downloader.Dluca.C Trojan Horse virus.
+
+dm1service.exe: Olympus DeviceDetector.
+
+dmremote.exe: Veritas into Windows NT, 2000.
+
+dmxlauncher.exe: Dell's Media Experience.
+
+dnar.exe: Dell workstations.
+
+dnetc.exe: distributed.net application.
+
+dns.exe: Manages Domain Name System Server.
+
+dnscst.exe: Dell Laser printers.
+
+dockapp.exe: HBayApp Application.
+
+dodrrr.exe: TROJ_SUA.A virus.
+
+dolyt16.exe: Spytech Software.
+
+dopus.exe: Directory Opus.
+
+doscan.exe: Symantec AntiVirus Corperate edition.
+
+download.exe: Webcelerator web browser accelerator software.
+
+dpagnt.exe, dpfusmgr.exe, dphost.exe, dpwinlct.exe: DigitalPersona's range of Windows security products.
+
+dpmapp.exe: DPM speech processing application.
+
+dpps2.exe: Pop-up blocker.
+
+dragdiag.exe: Thomson or Alcatel ADSL modem.
+
+dragdrop.exe: write a CD or DVD.
+
+dreamweaver.exe: Macromedia's web design studio.
+
+drgtodsc.exe: Drag To Disc.
+
+drivecrypt.exe: SecureStar DriveCrypt.
+
+drivespeed.exe: Ahead Nero CD writing software.
+
+drst.exe: SpeedTouch Internet Communication Devices.
+
+drvddll.exe: W32.BAGLE.X worms.
+
+drvlsnr.exe: Compaq SoundMAX.
+
+drvmon.exe: Alcor Micro Drive Monitor software.
+
+drvsys.exe: Beagle / Bagle worm.
+
+drwtsn16.exe: w32.lovgate@mm Worm.
+
+dsagnt.exe: Dell Support.
+
+dscaler.exe: DScaler application.
+
+dsentry.exe: Dell that is anti-spyware.
+
+dseraser.exe: Absolute Shield Evidence Eliminator.
+
+dslagent.exe: DSL/ADSL modems.
+
+dslmon.exe: Sagem DSL Modem.
+
+dslstat.exe: aDSL connection status monitoring utility.
+
+dsnthapp.exe, dsnthser.exe: ATI application.
+
+dssagent.exe: spyware.
+
+duc20.exe: No-IP Dynamic IP Client.
+
+dumeter.exe: network and Internet activity monitor.
+
+dummy.exe: Ahead Nero.
+
+dumprep.exe: Error Dump Reporting Tool.
+
+dvd43_tray.exe: Inline DVD tool.
+
+dvdaccess.exe: Apple Computer DVD@ccess utility.
+
+dvdlauncher.exe: auto-play feature for DVDs.
+
+dvdramsv.exe: DVD-RAM Utility Helper Service.
+
+dvdregionfree.exe: Fengtao's DVD Region-free software.
+
+dvdtray.exe: Hewlett-Packard DVD utility.
+
+dvldr32.exe: Internet transmitted worm.
+
+dvpapi.exe: Authentium Antivirus application.
+
+dvremind.exe: Tobits InfoCenter Notifier.
+
+dvzincmsgr.exe: .
+
+dw.exe: intelligent multi-part downloading technology.
+
+dw20.exe: Application Error Reporting tool.
+
+dw[1].exe: Adware.W32.DelFin virus.
+
+dwheartbeat.exe: .
+
+dwheartbeatmonitor.exe: Weather.com instant messaging utility.
+
+dwhwizrd.exe: Norton Internet Security.
+
+dwrcst.exe: DameWare Utilities.
+
+dwwin.exe: .
+
+dxdebugservice.exe: .
+
+dxdiag.exe: Microsoft Application Error Reporting.
+
+dxdllreg.exe: .
+
+dxenum.exe: DirectX 9 installation process.
+
+dxnf.exe: Ahead Nero Wave Editor.
+
+E:
+
+e_a10ic2.exe, e_fati9be.exe, e_fati9ce.exe, e_fati9ea.exe, e_fati9fa.exe, e_fati9ha.exe, e_fati9he.exe, e_l10ic1.exe, e_s00rp1.exe: e_s00rp2.exe, e_s0hic1.exe, e_s10ic1.exe, e_s10mt2.exe, e_s4i0f2.exe, e_s4i0h2.exe, e_s4i0p1.exe, e_s4i0t1.exe, e_s4i2f1.exe, e_s4i2g1.exe, e_s4i2h1.exe, e_s4i2j1.exe, e_s4i2k1.exe, e_s4i2l1.exe, e_s4i2m1.exe, e_s4i2p1.exe, e_s4i3f2.exe, e_srcv03.exe, ebrr.exe: EPSON utility.
+
+eabservr.exe: Easy Access Buttons control panel.
+
+eanthology.exe: eAcceleration Software.
+
+easyav.exe: Win32.Netsky.S@mm worm.
+
+easyclip.exe: Lotus Organizer EasyClip.
+
+easygoback.exe: UnH Solutions Easy Go Back.
+
+easykey.exe: notebook's keyboard.
+
+easynote.exe: TK8 EasyNote.
+
+easyshare.exe: Kodak digital cameras.
+
+eausbkbd.exe: Compaq USB keyboard.
+
+ebaytbar.exe, ebaytbdaemon.exe: eBay Toolbar.
+
+eboard.exe: drivers for certain keyboards.
+
+ecfmserv.exe: Symbian Connect.
+
+eclean.exe: eClean 2000.
+
+edict.exe: Microsoft Encarta.
+
+edisk.exe: McAfee VirusScan application.
+
+edonkey.exe: MetaMachine tool.
+
+ee.exe: Evidence Eliminator.
+
+eebagent.exe, eebsvc.exe: Epson Status Agent.
+
+eetu.exe: PurityScan.
+
+ehmsas.exe, ehrec.exe, ehrecvr.exe, ehsched.exe, ehshell.exe, ehtray.exe: Microsoft Windows Media Center.
+
+elbycheck.exe: monitors CD-ROM and DVD-ROM drivers.
+
+eliteuzf32.exe: etbrun virus/trojan.
+
+elkctrl.exe: Logitech Cameras.
+
+elogerr.exe: Symbian Connect from Symbian.
+
+elsblaunch.exe: process info for EarthLink SpamBlocker.
+
+em_exec.exe: Logitech mouse.
+
+emagent.exe: Oracle Enterprise Manager.
+
+eml.exe: Trojan.W32.Beagle.
+
+emsmta.exe: Microsoft Exchange Message Transfer Agent.
+
+emsw.exe: spyware by Alset.
+
+emulator.exe: used by various applications.
+
+emule.exe: P2P file sharing application.
+
+enbiei.exe: W32/Lovsan.worm.
+
+encmontr.exe: process info for Encompass Monitor.
+
+engutil.exe: Easy CD Creator application.
+
+enigmapopupstop.exe: Enigma Popup Stop.
+
+ensmix32.exe: Creative Labs sound card driver.
+
+enternet.exe: connection manager for the EnterNet ISP.
+
+eouwiz.exe: Intel ProSet network devices.
+
+epmwor~1.exe: Sony Ericsson mobile phones.
+
+eraser.exe: Eraser software.
+
+esb.exe: Easy Start Multimedia devices.
+
+espacewanadoo.exe: French executable installed with internet access.
+
+essdc.exe: ESS Solo soundcard.
+
+essspk.exe: ESS V92 modems.
+
+eudora.exe: email client named Eudora.
+
+eusexe.exe: audio drivers.
+
+eventagt.exe: DEvent Agent.
+
+eventmgr.exe: Microteck scanners.
+
+evntsvc.exe: .RealOne Player
+
+evteng.exe: EvtEng Module.
+
+ewerfw.exe: Trojan.W32.BAGLE.
+
+ewidoctrl.exe: Ewido Security Suite.
+
+ewidoguard.exe: Ewido Security Suite.
+
+excel.exe: Microsoft Excel.
+
+exchng32.exe: Gaobot Worm.
+
+exe82.exe: MediaMotor Trojan.
+
+exmgmt.exe: Microsoft Exchange Console.
+
+expl32.exe: RATSOU virus.
+
+explore.exe: GRAYBIRD.G virus.
+
+exploreff.exe: TROJ_SUA.A Trojan.
+
+explorer.exe: Windows operating system.
+
+explorer32.exe: W32/KWBot-A worm.
+
+explorere.exe: W32.Yaha.x@MM worm.
+
+express.exe: MP3.com PLuS Express player.
+
+exshow95.exe: Kensington products.
+
+ezbutton.exe: EZbutton Media Player.
+
+ezejmnap.exe: IBM ThinkPad notebooks.
+
+ezprint.exe: Lexmark EZPrint.
+
+ezsp_px.exe, ezsp_pxengine.exe: Easy Systems.
+
+ezulumain.exe, ezulamain.exe: spyware.
+
+F:
+
+f1tray.exe: easy access to MightyPhone.
+
+fameh32.exe: F-Secure Anti-Virus sof.
+
+fan.exe: Dell.
+
+farmmext.exe: Transponder parasite virus.
+
+fash.exe: adware, spyware.
+
+fast.exe: Windows XP PowerToy.
+
+fastdown.exe: security risk virus.
+
+faxsvc.exe: Microsoft Fax application.
+
+fbdirect.exe: easy access to scanning, printing, copying or faxing.
+
+fc.exe: CAMPURF virus.
+
+fch32.exe: F-Secure Anti-Virus.
+
+fdm.exe: Free Download Manager software.
+
+fgadmin.exe: Netgear network print servers.
+
+fih32.exe: F-Secure Anti-Virus.
+
+file.exe: Trojan.W32.Nethell.
+
+fileaccessmanager.exe: UniBlue WinBackup.
+
+finder.exe, findfast.exe: Microsoft Office family.
+
+finished.exe: Spytech Software.
+
+fips.exe: MS-DOS application.
+
+firedaemon.exe: app for run or install service.
+
+firefox.exe: Mozilla Firefox Internet browser.
+
+firesvc.exe: BitGuard Firewall.
+
+firetray.exe: McAfee Desktop Firewall.
+
+firewall.exe: BitGuard Firewall.
+
+fix[1].exe: backdoor vulnerability virus.
+
+flashfxp.exe: FlashFXP file transfer protcol utility.
+
+flashksk.exe: Smartmedia card readers.
+
+flatbed.exe: drivers for the Visioneer scanners.
+
+floater.exe: WinPortrait Pivot.
+
+fm3032.exe: Fax Center Server.
+
+fmctrl.exe: Diamond DT Genius audio hardware .
+
+fnrb32.exe: F-Secure Anti-Virus software.
+
+foldershare.exe: Iomega FolderShare.
+
+fontloader.exe: TROJ_SUA.A Trojan virus.
+
+fontview.exe: W32.OPASERV.T Virus.
+
+formatm.exe: Conversions Plus.
+
+forte.exe: Computer game.
+
+fotocanvaslite2.exe: ACD FotoCanvas Lite 2.0 application.
+
+fpassist.exe: freePDF.
+
+fpdisp4.exe: printer spooler.
+
+fpdisp5a.exe: FinePrint Printer Utility.
+
+fppdis2a.exe: printer drivers for pdfFactory application.
+
+fpxpress.exe: Microsoft Frontpage Express.
+
+frameworkservic.exe, frameworkservice.exe: McAfee AntiVirus Common Framework.
+
+fraps.exe: capturing screenshots.
+
+freedom.exe: an application used to blocks ads.
+
+freescan.exe: Spyware BeGone application.
+
+freshclam.exe: Clamwin antivirus.
+
+frontpage.exe, frontpg.exe: Microsoft FrontPage.
+
+frsk.exe: hijacker virus.
+
+fs20.exe: Free Surfer Companion .
+
+fsaa.exe, fsav32.exe, fsbwsys.exe, fsdfwd.exe, fsgk32.exe, fsgk32st.exe, fsguiexe.exe, fshttps.exe, fsm32.exe, fsma32.exe, fsmb32.exe, fspc.exe ,fspex.exe, fssm32.exe: F-Secure Anti-Virus.
+
+fsbwlan.exe: F-Secure BackWeb LAN Access.
+
+fservice.exe: Backdoor.Prorat Trojan.
+
+fsg.exe, fsg_3202.exe, fsg_4104.exe: spyware.
+
+fsrremos.exe: IBM Mouse Suite.
+
+fsscrctl.exe: Stardust Screen Saver Toolkit.
+
+fsw.exe: parasite virus.
+
+ftp.exe: a Windows process.
+
+ftpsched.exe: WS_FTP FTP client.
+
+ftpte.exe: CuteFTP Tranfer Engine.
+
+fts.exe: Broadband Access application.
+
+fvprotect.exe: Worm.Netsky.P.
+
+fwcagent.exe: Microsoft Firewall Client Agent.
+
+fwenc.exe: Check Point Software.
+
+fws.exe: Radialpoint Internet Security Suite Firewall Service.
+
+fxredir.exe: MultiPASS Fax Redirector.
+
+G:
+
+g2comm.exe, g2pre.exe, g2svc.exe, g2tray.exe: Citrix GoToMyPC.
+
+ga311.exe: Netgear GA311 Adapter Configuration Ut.
+
+gamechannel.exe: online gaming.
+
+gameutil.exe: ATI chipset.
+
+gammatray.exe: MagicTune utility.
+
+gator.exe: Gator advertising program.
+
+gbtray.exe: Roxio GoBack program.
+
+gcascleaner.exe: Giant/Microsoft AntiSpyware product.
+
+gcasdtserv.exe: Microsoft AntiSpyware tool.
+
+gcasinstallhelper.exe, gcasnotice.exe, gcasserv.exe, gcasservalert.exe, gcasswupdater.exe: Giant/Microsoft AntiSpyware product.
+
+gcc.exe: LinkSys Wireless LAN NICs.
+
+gciptohostqueue.exe: a DLL file from a company called "NA".
+
+gdonkey.exe: Edonkey 2000 peer-to-peer networking tool.
+
+gear311t.exe, gear511.exe: Netgear Wireless LAN devices.
+
+gearsec.exe: Gear CD & DVD writing software.
+
+general.exe: RapidBlaster spyware and adware.
+
+gesfm32.exe: RANDEX.C virus.
+
+getflash.exe: Macromedia Flash Player Updater.
+
+getright.exe: download manager.
+
+gfxacc.exe: GIBE VIRUS.
+
+ghostexp.exe, ghosttray.exe: Norton Ghost.
+
+ghoststartservice.exe, ghosts~2.exe: Norton Systemworks utility.
+
+giantantispywaremain.exe: Microsoft AntiSpyware application.
+
+giantantispywareupdater.exe: Giant Anti Spyware.
+
+gmt.exe: spyware.
+
+gnetmous.exe: Genius PowerScroll.
+
+gnotify.exe: GMail account.
+
+go.exe: download manager.
+
+googledcc.exe: GoogleDCC toolbar.
+
+googledesktop.exe, googledesktopcrawl.exe, googledesktopindex.exe, googledesktopoe.exe, googleearth.exe, googlefah.exe, googlefahcore_65.exe, googletalk.exe, googlewebaccclient.exe: Google utility.
+
+gozilla.exe: download manager.
+
+gra.exe: Gateway Resource Agent.
+
+graph.exe: Microsoft Office suite.
+
+grpwise.exe: Novell Groupwise's E-mail client.
+
+gsicon.exe: Eicon modem connection monitoring tool.
+
+gtwatch.exe: Mustek scanner.
+
+gwhotkey.exe: Gateway keyboard.
+
+gwmdmpi.exe: a patch from Gateway.
+
+gwsystemservice.exe: Genesis World Applikations server.
+
+gwum.exe: Gigabyte Motherboards.
+
+H:
+
+hacker.exe: Trojan.Esteems.E Trojan.
+
+hbinst.exe, hbsrv.exe: spyware.
+
+hcontrol.exe: utility by Asus.
+
+hdashcut.exe: Microsoft Windows Operating System.
+
+hdaudpropshortcut.exe: Universal Audio Architecture Audio class driver.
+
+heat.exe: trojan virus.
+
+helpctr.exe: Windows operating system.
+
+helper.exe: SpeedUpMyPC by LIUtilities.
+
+helpexp.exe: spyware.
+
+helphost.exe: Windows operating systems.
+
+helpinst.exe: WinAce installation.
+
+helpsvc.exe: Microsoft Help and Support Center.
+
+heomstool.exe: Trojan.Heoms virus.
+
+hh.exe: viewing Help files and other CHM files.
+
+hhw.exe: Microsoft HTML Help Workshop utility.
+
+hidden32.exe: malicious application.
+
+hidserv.exe: Microsoft Human Interface Device Audio Service.
+
+hijackthis.exe: application for displaying all the add-ons.
+
+hjgerhds.exe: W32.Sober.T@mm worm.
+
+hjym.exe: trojan horse virus.
+
+hkcmd.exe: Intel Hotkey Command.
+
+hkserv.exe: Sony hot key configuration.
+
+hkss.exe: application from compaq.
+
+hkwnd.exe: Sony Vaio notebooks.
+
+hloader.exe, hloader_exe.exe: Trojan.Lodear Variant worm.
+
+homesite5.exe: HomeSite.
+
+hookdump.exe: Hookdump trojan.
+
+hot.exe: trojan virus.
+
+hotkey.exe: OneTouchHotKey Application.
+
+hotkeyapp.exe: Acer Acer Launch Manager.
+
+hotkeyscmds.exe: Intel Extreme Graphics Hot Key Interceptor.
+
+hotsync.exe: Synchronisation of Palm-based PDAs.
+
+hottray.exe: eFax application.
+
+hpb2ksrv.exe: HP Status Montioring Service.
+
+hpbootop.exe: HP Boot Optimizer.
+
+hpbpro.exe: Hewlett Packard printers.
+
+hpbpsttp.exe: HP Toolbox Startup software.
+
+hpdrv.exe, hphmon03.exe, hphmon04.exe, hphmon06.exe, hphupd04.exe, hphupd05.exe, hphupd06.exe, hplamp.exe, hpnra.exe, hpobnz08.exe, hpoddt01.exe, hpodev07.exe, hpoevm06.exe, hpoevm07.exe, hpoevm09.exe, hpogrp07.exe, hpohmr08.exe, hpoipm07.exe, hpoojd07.exe, hpoopm07.exe, hposol08.exe, hpqcmon.exe, hpqgalry.exe, hpqste08.exe, hpqwmi.exe, hprblog.exe, hpsjvxd.exe, hpsysdrv.exe, hptasks.exe, hptskmgr.exe, hpwebjetd.exe, hpwuschd.exe, hpwuschd2.exe, hpzstatn.exe, hpzts04.exe, hpztsb01.exe, hpztsb02.exe, hpztsb03.exe, hpztsb06.exe, hpztsb07.exe, hpztsb08.exe, hpztsb09.exe, hpztsb10.exe, hpztsb11.exe, hpztsbol.exe: HP systems.
+
+hpfsched.exe: HP Deskjet Printing devices.
+
+hpmanager.exe: TROJ_SUA.A worm.
+
+hs-bot.exe: worms and t.
+
+htmdeng.exe: Aureate trojan .
+
+htpatch.exe: SiS drivers.
+
+hxdl.exe, hxiul.exe: Adware.
+
+hypertrm.exe: Microsoft HyperTerminal tool.
+
+I:
+
+i8kfangui.exe: Dell Laptop's fan control mechanism.
+
+iaanotif.exe, iaantmon.exe: Application Accelerator from Intel.
+
+iam.exe: Internet Answering Machine application from CallWave.
+
+iamapp.exe: Norton Internet Security.
+
+iap.exe: Dell's OpenManage Client Instrumentation.
+
+ibguard.exe: InterBase Server software from Borland.
+
+ibmmessages.exe, ibmpmsvc.exe, ibmsmbus.exe: IBM systems.
+
+ibmprc.exe: ibmprc Application.
+
+ibserver.exe: InterBase Server from Borland.
+
+icepack.exe: Norton Antivirus.
+
+iclean.exe: IEClean utility.
+
+ico.exe: used by various mouse devices.
+
+icon.exe: RapidBlaster parasite virus.
+
+iconfig.exe: USB device diagnostics.
+
+iconmgr.exe: IconMgr from E-Color.
+
+icq.exe, icqlite.exe: ICQ application.
+
+icsmgr.exe: relays all DNS and DCHP requests.
+
+icwconn2.exe, icwtutor.exe: Windows Connection wizard .
+
+idbsvr.exe: ACDSee application.
+
+idriver.exe, idrivert.exe: InstallShield product installation service.
+
+iedll.exe: hijacks the browser, adware.
+
+iedriver.exe: adware and spyware application.
+
+iexpiore.exe: Troj/Oblivion-B Trojan.
+
+iexplore.exe: Windows operating system.
+
+iexplore32.exe: SPEX virus.
+
+iexplorer.exe: RapidBlaster parasite adware.
+
+iface.exe: Panda Internet Security Suite.
+
+ifrmewrk.exe: Intel PRO/Set Wireless software.
+
+igfxext.exe: Intel based network hardware.
+
+igfxpers.exe: Common User Interface module from Intel.
+
+igfxtray.exe: Intel graphics system.
+
+image.exe: Added by the W32/Sdbot-AAQ worm.
+
+imagedrive.exe, infotool.exe: Ahead Nero.
+
+imageready.exe: Adobe ImageReady.
+
+imapi.exe: Image Mastering API.
+
+imapp.exe: IncrediMail.
+
+imekrmig.exe: Microsoft Office suite.
+
+imgstart.exe: Iomega ZIP drives .
+
+imguninst.exe: adware.
+
+imiconxp.exe: Iomega REV Drives.
+
+imjpmig.exe: Microsoft Input Method Editor.
+
+imlua.exe: Internet Manager Lightweight User Authentication module.
+
+imonnt.exe: Intel motherboard monitoring software.
+
+imontray.exe: Intel Active Monitor Component.
+
+imscinst.exe: translation component from Microsoft.
+
+incd.exe, incdsrv.exe: Ahead Nero.
+
+incmail.exe, incredimail.exe: Incredimail e-mail program.
+
+indexsearch.exe: ScanSoft PaperPort.
+
+inetd32.exe: Hummingbird Inetd application.
+
+inetinfo.exe: IIS Debugger.
+
+inetkb.exe: Internet Keyboard.
+
+infomyca.exe: Wireless-G Network Monitor.
+
+infopath.exe: Microsoft Office InfoPath application.
+
+informe.exe: TROJ_SUA.A Trojan.
+
+infus.exe: Adult content dialer.
+
+inicio.exe: Panda Anti-Virus.
+
+initsdk.exe: Lexware's ReweSdk product.
+
+inorpc.exe, inort.exe, inotask.exe: eTrust Anti-virus.
+
+installdashbar.exe: Claria advertising program.
+
+instantaccess.exe: Xerox's Textbridge OCR software.
+
+instantdrive.exe: Pinnacle's CD writing software.
+
+instmsiw.exe: Windows Installer Service.
+
+intdel.exe: adware and spyware.
+
+intel32.exe: unidentified Malware.
+
+intell32.exe: Desktophijack Trojan.
+
+intelmem.exe: Intel Modem Event Monitor.
+
+internat.exe: multi-lingual features.
+
+internet.exe: MAGICCALL virus.
+
+intmon.exe, intmonp.exe: Puper-D Trojan.
+
+ipccheck.exe: Ipass wireless network access points.
+
+ipclient.exe: Verizon app.
+
+ipmon32.exe: Verizon which monitors.
+
+ipodmanager.exe, ipodservice.exe, ipodwatcher.exe: iPod music player.
+
+ipssvc.exe: VPN client service.
+
+iptray.exe: Intel Desktop Utilities Tray Program.
+
+irasyncd.exe: IRASHoul Trojan.
+
+ireike.exe: Microsoft virtual private network client.
+
+irmon.exe: monitors the Infrared ports.
+
+isafe.exe: Used by Antivirus applications.
+
+isass.exe: virus.
+
+isbmgr.exe: Sony's ISB Utility.
+
+isburnwatcher.exe: HP Updater Utility.
+
+isignup.exe: Internet Connection Signup Wizard process.
+
+islp2sta.exe: Windows Update for wireless NIC drivers.
+
+ismserv.exe: send and receive messages.
+
+ispsupport.exe: backdoor vulnerability.
+
+isqlw.exe: Microsoft SQL Server Query Analyzer.
+
+issdaemon.exe: Internet Security Systems.
+
+isstart.exe: Logitech QuickCam webcams.
+
+istsvc.exe: adult material.
+
+isuspm.exe: InstallShield Update Service.
+
+itmoh.exe: Lucent Modem.
+
+itouch.exe: Logitech keyboard.
+
+ituneshelper.exe: iTunes or iPod users.
+
+ivpsvmgr.exe: Toshiba and controls Software.
+
+iwctrl.exe: NovaDisk InsertWrite.
+
+ixapplet.exe: display images.
+
+J:
+
+jammer2nd.exe: NETSKY.Z Worm.
+
+java.exe, javaw.exe, javaws.exe: Java Virtual Machine runtime.
+
+jdbgmrg.exe: TROJ_DASMIN.B virus.
+
+jetcar.exe: download accelerator.
+
+jif.exe: W32.Mytob.MK@mm Worm.
+
+jntview.exe: Tablet PC.
+
+jrun.exe, jrunsvc.exe: Macromedia ColdFusion Server.
+
+jucheck.exe, jusched.exe, jushed.exe: Java utility.
+
+jushed32.exe: CoolWebSearch Adware.
+
+K:
+
+kav.exe, kavmm.exe, kavsvc.exe: Kaspersky Anti-Virus.
+
+kazaa.exe: popular P2P file sharing application.
+
+kazaalite.exe: P2P file sharing.
+
+kazoom.exe: spyware.
+
+kazza.exe: Backdoor.OptixPro.12.c.
+
+kb891711.exe: Windows Security update process.
+
+kbd.exe, kbdtray.exe: Logitech keyboards.
+
+keenvalue.exe: adware.
+
+kencapi.exe: proxy server application.
+
+kencli.exe: AVM Ken! Server.
+
+kencron.exe, kendns.exe, kenftpgw.exe, keninet.exe, kenmail.exe, kenmap.exe, kenproxy.exe, kenserv.exe, kensocks.exe, kentbcli.exe: proxy server application.
+
+kernal32.exe, kernal64.exe: Backdoor.Doly Trojan.
+
+kernel32.exe: Trojan.PSW.Gip, Worm.
+
+kernels32.exe: DLOADER-FC Trojan.
+
+keybdmgr.exe: Keyboard Manager.
+
+keyhook.exe: Acer Launch manager.
+
+keylogger.exe: virus.
+
+keyman.exe: Cherry keyboard.
+
+keymap.exe: map keys on your keyboard.
+
+keymgr.exe: WORM_DONK.M.
+
+keystate.exe: displays the status of your Caps Lock key.
+
+keystone.exe: NVidia nView Control Panel.
+
+keyword.exe: hijacker virus.
+
+khalmnpr.exe: Logitech mice.
+
+khooker.exe: SIS Control Console.
+
+kl.exe: Trojan.Anserin Trojan.
+
+klipfolio.exe: Serence KlipFolio application.
+
+kmw_run.exe: Kensington mice drivers.
+
+knlwrap.exe: unclassified keylogger.
+
+kodakccs.exe: drivers for Kodak Digital Cameras.
+
+kodakimage.exe: imaging program.
+
+kodakprv.exe: imaging preview program.
+
+kodorjan.exe: Kodorjan Trojan.
+
+kpf4gui.exe, kpf4ss.exe: Kerio Personal Firewall.
+
+krxz.exe: spyware.
+
+kw[1].exe: process has spyware or adware.
+
+L:
+
+lanbrup.exe: adware.
+
+languard.exe: Internet monitoring software.
+
+lao.exe: Intel AMS2 alerts.
+
+launch.exe: Vantarakis Launch Application.
+
+launch32.exe: Microsoft System Management Server.
+
+launchap.exe: tools for your Acer product.
+
+launchapplication.exe: Nokia PC Suite.
+
+launcher.exe: Spyware.
+
+launchpd.exe: ATI Multimedia Launch Pad.
+
+layer.exe: W32.Mogi Trojan.
+
+lcfd.exe: Tivoli desktop management system.
+
+ldmconf.exe: Logitech products.
+
+lexbces.exe: Lexmark MarkVision.
+
+lexplore.exe: SODABOT VIRUS.
+
+lexpps.exe: Lexmark products.
+
+lexstart.exe: diagnostics functions.
+
+lic98rmt.exe: License Client software.
+
+lightbox.exe: Lightbox file browser.
+
+lights.exe: System tray bar application.
+
+limewire.exe: LimeWire Peer to Peer file-sharing client.
+
+livenote.exe: drivers for Asus graphic cards.
+
+livesrv.exe: BitDefender Security Update Service.
+
+liveupdate.exe: Spyware Doctor LiveUpdate.
+
+lmgrd.exe: Macrovision application-generic license server.
+
+lmonitor.exe: Utility for MSI motherboards.
+
+lmpdpsrv.exe: Lexmark printer.
+
+load.exe: Nimda-A Worm.
+
+load32.exe: NIBU, BAMBO and DUMARU viruses.
+
+loader.exe: webpage hijacks.
+
+loadqm.exe: MSN Queue Manager.
+
+loadwc.exe: Load WebCheck.
+
+locator.exe: maintains the database.
+
+lockx.exe: W32/Sdbot-ADD worm.
+
+logi_mwx.exe: Logictech MouseWare.
+
+logitechdesktopmessenger.exe: Logitech Desktop Messenger.
+
+logitray.exe: Logitech Image Studio.
+
+logmein.exe: LogMeIn utility.
+
+logmeinsystray.exe: LogMeIn utility.
+
+logonmgr.exe: MSN Internet Access service.
+
+logwatnt.exe: Computer Associates.
+
+lorena.exe: MAPSON.C virus.
+
+lowlight.exe: Logitech WebCams.
+
+lsa.exe, lsserv.exe: WIN32.RBOT Trojan Variant.
+
+lsadst.exe: backdoor vulnerability.
+
+lsass.exe: Microsoft Windows operating system.
+
+lsass32.exe: w32/Randex.AR worm.
+
+lsassa.exe: CIADOOR.122 Trojan.
+
+lsasss.exe: w32/Sasser.E Worm.
+
+lsburnwatcher.exe: LightScribe from HP.
+
+lserver.exe: Microsoft Windows Server.
+
+lssrvc.exe: Light Scribe software from HP.
+
+ltcm000c.exe: XirCom and Lucent internal modems.
+
+ltmoh.exe, ltmsg.exe, ltsmmsg.exe: Lucent technologies.
+
+luall.exe: Symantec LiveUpdate.
+
+lucallbackproxy.exe, lucomserver.exe: Norton/Symantec Internet Security.
+
+lvcoms.exe, lvprcsrv.exe: Logitech QuickCam home cameras.
+
+lwemon.exe: Logitech Wingman software.
+
+lxbabmgr.exe, lxbbmgr.exe, lxbfbmgr.exe, lxbfbmon.exe, lxbkbmgr.exe, lxbkbmon.exe, lxbmbmgr.exe, lxbmbmon.exe, lxbrcmon.exe, lxbucoms.exe, lxbumon.exe, lxdboxcp.exe: Lexmark Series Printers.
+
+lxrjd31s.exe: Lexar Jump USB Thumb Drives.
+
+M:
+
+ma.exe: Spyware.
+
+mace.exe: ATI graphics hardware.
+
+macname.exe: Conversions Plus tool.
+
+mad.exe: Microsoft.
+
+magnify.exe: Microsoft Magnifier accessibility tool.
+
+maileet.exe: Utility to send files using mail servers.
+
+mailskinner.exe: Mail Skinner e-mail application.
+
+mailwasher.exe: FireTrust MailWasher Pro.
+
+main.exe: SpyCop surveillance software.
+
+mainserv.exe: PowerChute power management utility.
+
+malwhere.exe: Software for displaying and identifying malicious processes.
+
+manager.exe: trojan horse virus.
+
+manifestengine.exe: Logitech camera products.
+
+mapiicon.exe: broadband modem's diagnostic tools.
+
+mapisp32.exe: Microsoft applications.
+
+mapisvc32.exe: FPAI adware.
+
+marker.exe: SMART Board Software.
+
+matcli.exe: support system tool.
+
+mathchk.exe: Real Networks RealOne Player.
+
+mathematica.exe: .
+
+matlab.exe: Mathematica technical computing software.
+
+mbm4.exe, mbm5.exe: Motherboard Monitor tool.
+
+mc.exe: count Mouse Clicks.
+
+mcagent.exe, mcappins.exe, mcdash.exe, mcdetect.exe, mcepoc.exe, mcepocfg.exe, mcinfo.exe, mcmnhdlr.exe, mcpalmcfg.exe, mcregwiz.exe, mcshield.exe, mcshield.exe, mcshld9x.exe, mctskshd.exe, mcupdate.exe, mcvsshld.exe, mcwce.exe, mcwcecfg.exe: McAfee Internet Security Suite.
+
+mcdlc.exe: Microsoft Office family of products.
+
+mcpserver.exe: Stardock.
+
+mcrdsvc.exe: Microsoft Windows Media Center.
+
+md.exe: web hijacker application.
+
+mdm.exe: Machine Debug Manager.
+
+mdms.exe: W32/SdBot-CH Trojan.
+
+mdnsresponder.exe: Bonjour for Windows software.
+
+medgs1.exe: PacerD Adware.
+
+mediadetect.exe: Corel Photo Album.
+
+mediaman.exe: spyware.
+
+memokit2.exe: MemoKit.
+
+memoptimizer.exe: TuneUp Utilities.
+
+memorymeter.exe: Grokster peer-to-peer file sharing suite..
+
+messenger.exe: Pelican Messenger fax and e-mail suite.
+
+mfin32.exe: adware program and downloader.
+
+mgabg.exe, mgactrl.exe, mgaqdesk.exe, mgasc.exe: Matrox BIOS guard process.
+
+mgavrtcl.exe, mghtml.exe: McAfee antivirus software.
+
+mgui.exe: BullGuard antivirus.
+
+mgutrc.exe: AdLogix advertising program.
+
+mhotkey.exe: Chicony keyboard.
+
+microsoft.exe: GAOBOT worm.
+
+mim.exe: Musicmatch Jukebox software.
+
+minilog.exe: ZoneAlarm firewall.
+
+mirc.exe: mIRC Internet Relay Chat utility.
+
+mirc32.exe: Backdoor.IRC.Spybuzz Trojan.
+
+mis.exe: Microsoft Money planning application.
+
+mixer.exe: C-Media chipset.
+
+mixersel.exe: Realtek Audio devices.
+
+mksc.exe: RelevantKnowledge Spyware.
+
+mm.exe: Trojan.Spamforo worm.
+
+mm_server.exe, mmtask.exe, mmtray.exe: MusicMatch Jukebox.
+
+mmc.exe: Windows operating system.
+
+mmdiag.exe: MusicMatch Jukebox.
+
+mmhotkey.exe: Dritek Communications.
+
+mmkeybd.exe: One-Touch Multimedia keyboard range.
+
+mmod.exe: Spyware.
+
+mmtray2k.exe, mmtraylsi.exe: Morgan Multimedia codec set.
+
+mmups.exe: Roimoi/Media-Motor adware.
+
+mmusbkb2.exe: Multimedia USB Keyboard Driver 2.
+
+mnsvc.exe: TROJ_SUA.A Trojan.
+
+mnybbsvc.exe, mnyexpr.exe, mnyschdl.exe: Microsoft Money.
+
+mobsync.exe: Microsoft Synchronization Manager.
+
+monitor.exe: monitoring Windows NT Server Performance.
+
+monitr32.exe: CanonMulti-PASS prniter series.
+
+monwow.exe: Norton CleanSweep.
+
+morpheus.exe: file sharing tool.
+
+mosearch.exe: Microsoft Office XP Fast Search.
+
+motivebrowser.exe: Verizon Online Motive Browser.
+
+motmon.exe: Motive Monitor.
+
+mouse.exe: Microsoft DirectX.
+
+mouse32a.exe: 'browsing mouse' facility.
+
+mousebm.exe: Esbot Worm.
+
+moviemk.exe: Microsoft's Movie Maker application.
+
+movieplace.exe: MalWare.
+
+movieplayer.exe: QuickTime movie player.
+
+mozilla.exe: Mozilla Internet Browser.
+
+mpapi3s.exe: Nokia's mobile phone connectivity suite.
+
+mpbtn.exe: Comcast Cable.
+
+mpcmdrun.exe: Microsoft Windows Defender Antispyware.
+
+mpeng.exe, mpssvc.exe: MS OneCare Live.
+
+mpf.exe, mpfagent.exe, mpfconsole.exe, mpfservice.exe, mpftray.exe: McAfee Internet Security suite.
+
+mplayer2.exe: Windows Media Player.
+
+mprexe.exe: network client, protocol.
+
+mpservic.exe: Canon MultiPASS printers.
+
+mpsetup.exe: Windows Media Player Installer.
+
+mptbox.exe: MultiPASS Tool Box.
+
+mqtgsvc.exe: Microsoft Windows operating system.
+
+mr2kserv.exe: Dell OpenManage.
+
+mrjj.exe: Puper-E Trojan virus.
+
+mrkscr.exe: RelevantKnowledge.
+
+mrouterconfig.exe, mrouterruntime.exe: Intuwave Connection Manager.
+
+mrtstub.exe: malware.
+
+msaa.exe: Dldr.WinSh.AC.02 downloader virus.
+
+msaccess.exe: Microsoft Access.
+
+msams.exe: WORM_RBOT.AHR/X virus.
+
+msapp.exe: RSBOT virus.
+
+msascui.exe: Microsoft Windows Defender Antispyware.
+
+msbb.exe: adware.
+
+msblast.exe: Internet worm.
+
+msbntray.exe: Microsoft Broadband Networking Software.
+
+msc32.exe: IRC backdoor Trojan.
+
+mscache.exe: adware.
+
+msccn32.exe: Win32.Sobig.B@mm (Palyh) virus.
+
+mscifapp.exe: McAfee Privacy Service.
+
+mscman.exe: ad virus.
+
+mscnsz.exe: W32.Rbot.HQ Trojan.
+
+mscommand.exe: W32.Kwbot.P.Worm.
+
+msconfgh.exe: WORM_MYTOB.NB Trojan.
+
+msconfig.exe: Microsoft.
+
+msconfig32.exe: W32.Tulu virus.
+
+mscornet.exe: Troj/Zlob-AO Trojan.
+
+mscorsvw.exe: Microsoft .NET Framework.
+
+mscvb32.exe: worm.
+
+msd.exe: Process Used To Determine What Serial Ports.
+
+msdef.exe: Trojan.W32.Secefa trojan.
+
+msdef3.exe: Trojan/Backdoor.
+
+msdm.exe: MULDROP.352 virus.
+
+msdtc.exe: Microsoft Distributed Transaction Coordinate.
+
+mse7.exe: microsoft.
+
+msg32.exe: GigaStudio and GigaSampler music sampling software.
+
+msgloop.exe: Conexant WaveStream Message Server.
+
+msgplus.exe: MSN Messenger.
+
+msgsrv32.exe: Windows Message Server.
+
+msgsys.exe: LANDesk.
+
+mshta.exe: run HTA files.
+
+msicuu.exe: Microsoft Installer Cleanup Utility.
+
+msiexec.exe: Windows Installer Component.
+
+msiexec16.exe: Troj/OptixP-13 Trojan.
+
+msimn.exe: Microsoft Outlook Express application.
+
+mskagent.exe, mskdetct.exe: McAfee SpamKiller.
+
+mslaugh.exe: W32.Blaster.E.Worm worm.
+
+msmdsrv.exe: Microsoft SQL Server.
+
+msmgs.exe: W32.Alcarys.B, W32.Alcarys.G worm.
+
+msmgt.exe: Adware and home page hijacker.
+
+msmoney.exe: Microsoft Money.
+
+msmpeng.exe: Microsoft Windows Defender Antispyware.
+
+msmpsvc.exe: Microsoft Windows OneCare Live.
+
+msmsg.exe: Backdoor.Prorat.10b3 Trojan.
+
+msmsgr.exe, msnmsgr.exe: MSN Messenger.
+
+msmsgri32.exe: RANDEX.D virus.
+
+msmsgs.exe: Windows Messenger application.
+
+msnappau.exe: MSN Toolbar.
+
+msncc.exe, msniasvc.exe: MSN Internet Access.
+
+msndc.exe: MSN Internet service.
+
+msngather.exe, msnindex.exe, msnladmin.exe: MSN toolbar.
+
+msnlive.exe: mass-mailing worm.
+
+msnserve.exe: TROJ_SUA.A Trojan.
+
+msnst32.exe: RBOT Worm.
+
+msoff.exe: Trojan.W32.Renver.
+
+msoffice.exe: Microsoft Office Suite.
+
+msoobe.exe: Windows Product Activation.
+
+mspaint.exe: Microsoft Paint application.
+
+mspath.exe: BackDoor.SdBot Trojan.
+
+mspmspsv.exe: Windows Media Player 7.
+
+mspmspv.exe: Chum-A Trojan.
+
+mspub.exe: Microsoft Publisher product.
+
+msqry32.exe: Microsoft Office family of product.
+
+msrexe.exe: ICQ Trojan.
+
+msscli.exe, msssrv.exe: McAfee AntiSpyware.
+
+mssearch.exe: Microsoft SQL Server.
+
+mssearchnet.exe: Trojan.Zlob.D Trojans.
+
+mssecure.exe: backdoor vulnerability.
+
+msssort.exe: Maxtor Drag and Sort.
+
+msstat.exe: Sony Corporation & SmartDisk Corporation.
+
+mssvc.exe: used to hide folders, files, and applications.
+
+msseces.exe: Microsoft Security Essentials.
+
+mssvr.exe: 2020 Internet Search Toolbar.
+
+msswchx.exe: adware.
+
+mssys.exe: MYSS.B virus.
+
+mstask.exe: Windows Task Scheduler.
+
+mstasks.exe: W32.Mydoom.FP@mm Worm.
+
+mstcpmon.exe: W32.Monikey@mm Worm.
+
+mstcs.exe: backdoor vulnerability.
+
+mstordb.exe: Microsoft Office Suite.
+
+mstore.exe: Microsoft Clip Organizer.
+
+mstsc.exe: Microsoft Terminal Services Commands.
+
+msupdate.exe: spyware and adware application.
+
+msuser.exe: Media Center Receiver Service.
+
+msvcmm32.exe: process by Movielink.com.
+
+msvgr.exe: W32.Mytob.LE@mm Worm.
+
+msvxd.exe: Win32 worm.
+
+mswheel.exe: Microsoft Intellimouse mice.
+
+mswinme.exe: MICROSOFT WINDOWS SYSTEM 2.
+
+mswmcls.exe: Microsoft Windows Operating System.
+
+msworks.exe: Microsoft Works.
+
+msxml3msms.exe: Microsoft XML Installation Utility.
+
+mt.exe: a backdoor vulnerability.
+
+mtask.exe: Troj/Banker-GQ Worm.
+
+mtdacq.exe: MediaSniffer application.
+
+mtx.exe: generating MTS objects.
+
+muamgr.exe: MicroAngelo 5.x.
+
+mups.exe: Sentry Bulldog utility.
+
+musirc4.71.exe: W32/Randex-QA Trojan.
+
+mwd.exe: W32/Graps-A worm.
+
+mwsnap.exe: MWSnap ScreenCapture Utility.
+
+mxadmin.exe: Zultys MX administration program.
+
+mxoaldr.exe: Matrox drivers.
+
+mxtask.exe: V communications Fix-It utilities.
+
+mxuser.exe: Zultys MXIE Client.
+
+myfastupdate.exe: a toolbar from my-fast-access.com.
+
+N:
+
+nail.exe: web hijacker.
+
+naimag32.exe: Network Associates anti-virus protection suite.
+
+nalntsrv.exe: Novell client for Windows.
+
+namedpipe.exe: W32.Mytob.LO@mm.
+
+narrator.exe: Narrator accessibility feature on Windows XP.
+
+naturalcolorload.exe: Natural Color.
+
+navapp.exe: NavExcel adware.
+
+navapsvc.exe, navapw32.exe, navw32.exe: Norton AntiVirus.
+
+naviscope.exe: browser add-on.
+
+navpass.exe: malware.
+
+nbj.exe, nbr.exe: Nero Back It Up.
+
+nbthlp.exe: W32.Toxbot.AL Trojan.
+
+nclaunch.exe: SWF Studio.
+
+ncltray.exe: Nokia Connection manager.
+
+nddeagnt.exe: Network Dynamic Data Exchange Agent.
+
+ndetect.exe: Norton LiveUpdate.
+
+ndstray.exe: ConfigFree Traybar utility.
+
+neo.exe: Price Patrol.
+
+neocapture.exe, neocopy.exe, neodvd.exe, neodvdstd.exe, nerocheck.exe, nerosmartstart.exe, nerosvc.exe: NeoDVD.
+
+neotrace.exe: McAfee Internet Security suite.
+
+nero.exe: Price Patrol.
+
+net.exe: used by several applications.
+
+net1.exe: Windows Operating System.
+
+netd32.exe: aware worm.
+
+netdde.exe: Network DDE server.
+
+netddeclnt.exe: Codbot-M Worm.
+
+netdevsw.exe: Toshiba notebooks.
+
+netinfo.exe: Tilebot-J Worm.
+
+netlib.exe: Crater-A Trojan/Worm.
+
+netlimiter.exe: internet bandwidth limitation tool.
+
+netmail.exe: TrojanSpy.NetMail virus.
+
+netmeeting.exe: Lovgate worm.
+
+netmon.exe: mass-mailing worm.
+
+netscape.exe, netscp6.exe: Netscape Navigator.
+
+netsurf.exe: adware.
+
+netsvc.exe: Trojan.W32.Mytob worm.
+
+newdot.exe: adware.
+
+newsupd.exe: MSNBC website.
+
+nfsiod.exe: Trojan virus.
+
+ngctw32.exe: Symantec Ghost Server.
+
+ngen.exe: Microsoft.Net.
+
+ngserver.exe: Symantec Ghost.
+
+nhksrv.exe: provide functionality to keyboards.
+
+nhldaemn.exe: Lotus Notes.
+
+nhostsvc.exe: NetOp Remote Control software.
+
+nicconfigsvc.exe: power management settings.
+
+nicserv.exe: Wireless NICs.
+
+nilaunch.exe: Net-It Launcher application.
+
+nip.exe: Norman Virus Control.
+
+nipsvc.exe: Norman Internet Protection service.
+
+nisum.exe: Norton firewall.
+
+nisvcloc.exe: National Instruments products.
+
+njeeves.exe: Norman Jeeves Component.
+
+nkbmonitor.exe: PictureProject software from Nikon.
+
+nkvmon.exe: Nikon CoolPix camera software.
+
+nlnotes.exe: IBM Lotus Notes/Domino.
+
+nm32.exe, nmbgmonitor.exe: Nero Home.
+
+nmssvc.exe: Intel network cards.
+
+nmstt.exe: SMALL-DT Trojan.
+
+nnservicectrl.exe: Ahead.
+
+nnsvc.exe, nntray.exe: Net Nanny.
+
+noads.exe: Yahoo Messenger.
+
+noat.exe: TROJ_BAGLE.AP Trojan.
+
+nod32krn.exe, nod32kui.exe: NOD32 Antivirus System.
+
+nomoreporn.exe: nod32kui.exe.
+
+nopat.exe: Mitglieder.N Trojan.
+
+nopdb.exe: Norton Speed Disk product.
+
+nor32.exe: monitors your computer.
+
+noserver.exe: Spytech Software.
+
+nostealth.exe: Spytech Software.
+
+notepad.exe: Notepad application.
+
+notepro.exe: Note Pro text editor.
+
+notify.exe: Novell GroupWise application.
+
+notiman.exe: Creative audio hardware .
+
+npfmntor.exe: Norton Antivirus Internet security suite.
+
+npfmsg.exe: Norman Personal Firewall Internet Security suite.
+
+nprotect.exe, npscheck.exe, npssvc.exe: Norton Utilities suite.
+
+nrmenctb.exe: Norman Access Control Privacy.
+
+nscagent.exe: NSCAGENT.
+
+nscheck.exe: spyware.
+
+nscsrvce.exe: Norton Internet Security Suite.
+
+nsl.exe: NetStat Live application.
+
+nslsvice.exe: Lotus Notes software.
+
+nsmdtr.exe: Norton Antivirus.
+
+nssys32.exe: virus.
+
+nstask32.exe: RANDEX.E virus.
+
+nsvr.exe: Backup Exec.
+
+nsvsvc.exe: web hijacker.
+
+nt_usdm.exe: EPoX Motherboards.
+
+ntaskldr.exe, ntmulti.exe: IBM Lotus product suite.
+
+ntbackup.exe: Windows operating system.
+
+ntfrs.exe: maintain file synchronization of file directory.
+
+ntosa32.exe: TROJ_SUA.A Trojan.
+
+ntoskrnl.exe: Microsoft Boot Up Kernel.
+
+ntrights.exe: domain legitimate console-based program.
+
+ntrtscan.exe: Trend Micro Antivirus application.
+
+ntsd.exe: Microsoft symbolic debugger.
+
+ntvdm.exe: run a 16 bit application on a 32 bit operating system.
+
+nutsrv4.exe: NuTCRACKER 4.
+
+nvcoas.exe, nvcsched.exe: Norman Virus Control .
+
+nvcpl.exe: W32.SpyBot.S Worm.
+
+nvctrl.exe: web hijacker.
+
+nvmixertray.exe: software package from NVIDIA.
+
+nvraidservice.exe: nVidia NVRaid.
+
+nvsvc.exe: NVidia chipsets.
+
+nvsvc32.exe, nwiz.exe: NVIDIA graphics card drivers.
+
+nwtray.exe: Novell Netware features.
+
+nwiz.exe: NVIDIA nView Wizard.
+
+nymse.exe: Norman Virus Control Internet Security application.
+
+O:
+
+oasclnt.exe: McAfee VirusScan software.
+
+ocraware.exe: OCR software.
+
+ocxdll.exe: virus.
+
+odometer.exe: mouse cursor.
+
+oeqt4.exe: OE Quick Tools.
+
+ofcdog.exe: Trend Micro Antivirus.
+
+ofcpfwsvc.exe: OfficeScan client from Trend Micro.
+
+office.exe: Lovgate Worm.
+
+officemsoffice.exe: Microsoft Office Toolbar.
+
+offprov.exe: Microsoft Office.
+
+ofps.exe: OmniForm from Scansoft.
+
+ois.exe: Microsoft Office Suite.
+
+olehelp.exe: Trojan.Bookmarker.D.
+
+omaws32.exe: Dell OpenManage.
+
+omniscient.exe: Adware and spyware.
+
+omniserv.exe: OmniPass application.
+
+onenotem.exe: Microsoft Office package.
+
+onetouch.exe: OneTouch backup system.
+
+onfserv.exe: Onfolio application.
+
+onspeedcore.exe: SlipStream Accelerator utility.
+
+onsrvr.exe: Adware.
+
+oodag.exe: O&O Defrag. O&O Defrag is a defragment utility .
+
+opera.exe: Opera Internet browser.
+
+oprotsvc.exe: Ownership Protocol Service.
+
+optimize.exe: several malicious applications that use this process name.
+
+opware12.exe: ScanSoft Omnipage.
+
+opware32.exe: OmniPage Pro software.
+
+opwarese2.exe: OmniPage from Scansoft.
+
+osa.exe: Office Startup Assistant.
+
+osd.exe: OnScreen Display software.
+
+osdmenu.exe: Creative audio hardware.
+
+osk.exe: Spyware.
+
+ossproxy.exe: Oss Proxy-download accelerator.
+
+outlook.exe: Microsoft Office suite.
+
+outpost.exe: Outpost Personal Firewall application.
+
+overclk.exe: overclocking application.
+
+P: .
+
+p2m.exe: Peer2Mail program.
+
+paamsrv.exe: Privacy Expert Suite Software.
+
+packager.exe: Windows operating systems.
+
+packethsvc.exe: Compuserve 2000.
+
+padexe.exe: Toshiba Laptops.
+
+paranoia.exe: P2P application.
+
+partseal.exe: System Back-Up Software.
+
+pascl32.exe: network print service tool.
+
+passrv.exe: Panda Antispam module.
+
+patch.exe: PC-Cillin Antivirus updater.
+
+pav.exe: PER Antivirus utility.
+
+pavfires.exe, pavkre.exe, pavmail.exe, pavprot.exe, pavprsrv.exe, pavsched.exe, pavsrv50.exe, pavsrv51.exe, pavsrv52.exe, pavupg.exe: Panda Antivirus software.
+
+paytime.exe: web hijacker.
+
+pbds.exe: PrimeBase (Adobe) SQL Database Server.
+
+pbeagent.exe: PowerChute Business edition Agent software.
+
+pbeserver.exe: PowerChute Business Edition Server Software.
+
+pcard.exe: Platinum Secure Card Driver.
+
+pcbooster.exe: inKline Global PC Booster.
+
+pccclient.exe, pccntmon.exe, pccntupd.exe, pccnt.exe, pcclient.exe, pccguide.exe, pccpfw.exe: PC-cillin anti virus suite.
+
+pcctlcom.exe: Trend Micro Internet Security suite.
+
+pcfmgr.exe: Power Schemes Manager from Phoenix Technologies.
+
+pchbutton.exe: utility by Hewlett Packard.
+
+pchealth.exe: W32.Cone worm.
+
+pchschd.exe: monitors hardware usage.
+
+pcmm.exe: PC MightyMax application.
+
+pcscan.exe: Trend Micro PC-Cillin Antivirus app.
+
+pcsync.exe, pcsync2.exe: Nokia PC Suite.
+
+pctptt.exe, pctspk.exe, pctvoice.exe: tool for PCTel modems.
+
+pds.exe: Intel LANDesk Management Suite software.
+
+pdsched.exe: Windows Service.
+
+pdvdserv.exe: PowerDVD.
+
+pelmiced.exe: functionality for the scroll wheel.
+
+persfw.exe: Tiny's range of Internet security products.
+
+perstray.exe: Plantronics Persono Audio control center.
+
+pg2.exe: utility for peer-to-peer networking tools.
+
+pg_ctl.exe: PostgreSQL relational database management system.
+
+pgmonitr.exe: adware.
+
+pgptray.exe: Network Assoicates GP.
+
+phantom.exe: TROJ_SUA.A worm.
+
+phbase.exe: Arcost Photobase graphics application.
+
+photoshop.exe, photoshopelementsdeviceconnect.exe, photoshopelementseditor.exe, photoshopelementsfileagent.exe, photoshopelementsorganizer.exe: Adobe Photoshop elements.
+
+picasamediadetector.exe: Picasa.
+
+picsvr.exe: web hijacker.
+
+picx.exe: W32/Mytob-EX Trojan.
+
+pinball.exe: Microsoft's Pinball game.
+
+ping.exe: Microsoft Windows operating system.
+
+pinger.exe: Background task for Toshiba.
+
+pisf.exe: backdoor vulnerability.
+
+pkjobs.exe: documentation service.
+
+plauto.exe: Casio Photo Loader software.
+
+player.exe: Softsynth player.
+
+playlist.exe: Roxio Easy CD Creator.
+
+plguni.exe: McAfee's QuickClean application.
+
+pmproxy.exe: Analog Devices Audio Hardware.
+
+pmr.exe: web hijacker.
+
+pmxinit.exe: drivers for Kyro graphics cards.
+
+pnagent.exe: Citrix terminal services utility.
+
+pnmsrv.exe: panda platinum internet security.
+
+pntiomon.exe, pop3pack.exe, pop3trap.exe: PC-cillin antivirus software.
+
+point32.exe: Microsoft Intellimouse application.
+
+pointer.exe: Genius USB Mouse Drivers.
+
+poproxy.exe: Norton AntiVirus protection suite.
+
+popupkiller.exe: pop-up stopper from xFX JumpStart.
+
+portaol.exe: Port Magic from Pure Networks.
+
+postgres.exe, postmaster.exe: PostgreSQL relational database management system.
+
+pow.exe: AnalogX Pow.
+
+powerbar.exe: PowerDVD application.
+
+powercheck.exe: Jetech UPS devices.
+
+powerdvd.exe: Cyberlink's PowerDVD application.
+
+powerkey.exe: Acer TravelMate laptops.
+
+powermgr.exe: Lexmark printers Software.
+
+powerpnt.exe: Microsoft Office suite.
+
+powers.exe: utility from the University of Ottawa.
+
+powerscan.exe: spyware and adware application.
+
+ppcontrol.exe: PestPatrol tray application.
+
+ppe.exe: devices from Pinnacle.
+
+ppmemcheck.exe: PestPatrol which disables SpyWare and MalWare.
+
+pptd40nt.exe: ScanSoft PaperPort.
+
+pptview.exe: Viewer.
+
+ppwebcap.exe: Visioneer ScanSoft software.
+
+pqhelper.exe, pqimountsvc.exe, pqinit.exe, pqtray.exe, pqv2isecurity.exe: Powerquest Driveimage.
+
+pqibrowser.exe: Norton Ghost/PowerQuest DriveImage.
+
+pqv2isvc.exe: Norton Ghost.
+
+prdtect.exe: terminate anti-spyware applications.
+
+preload.exe: Millenium Multi-Function Keyboards.
+
+prevsrv.exe: Panda Titanium Antivirus suite.
+
+printnow.exe: Ziff Davis Media.
+
+printray.exe: Utility for Lexmark printers.
+
+printscreen.exe: Small tool used to take screenshots of your desktop.
+
+prismsta.exe: Intersil silicon.
+
+prismsvr.exe: Prism Wireless LAN hardware.
+
+prizesurfer.exe, prmvr.exe: adware.
+
+prmt.exe: spyware.
+
+procguard.exe: enhances you system security.
+
+profiler.exe: Saitek.
+
+proflwiz.exe: Microsoft Office family of products.
+
+promon.exe: Intel Pro network card.
+
+propelac.exe: Propel Accelerator.
+
+prpcui.exe: Power Supply Monitor.
+
+pruttct.exe: Prutect Malware.
+
+ps.exe: Punto Switcher program.
+
+ps2.exe: Hewlett Packard computers.
+
+psdrvcheck.exe: Pinnacle InstantCopy application.
+
+psfree.exe: block advertising popups.
+
+psimsvc.exe: Panda Anti-Virus Titanium suite.
+
+psngive.exe: lite version of Post-it Note.
+
+psnlite.exe: Post-it Software Notes.
+
+pssvc.exe: patch from Microsoft .
+
+pstores.exe: Protected Storage Service.
+
+pstrip.exe: EnTech Power Strip.
+
+pts.exe: drivers for a Kodak camera.
+
+ptsnoop.exe: PCTEL modems.
+
+ptssvc.exe: drivers for Kodak's range of digital cameras.
+
+pull.exe: Interwise Push Client.
+
+purevoice.exe: Eudora mail client.
+
+pvlsvr.exe: Veritas Backup Exec.
+
+pxckdla.exe: Adware.IEPlugin.
+
+python.exe: Python Scripting Tool.
+
+Q:
+
+qaccess.exe: Quick Access application.
+
+qagent.exe: Quicken Agent / Quicken Download Manager.
+
+qbdagent2002.exe: QuickBooks sotware updates.
+
+qbreminder.exe: Intuit QuickBooks application.
+
+qbupdate.exe, qbw32.exe: Intuit applications.
+
+qclean.exe: McAfee Internet Security suite.
+
+qconsvc.exe, qctray.exe: IBM ThinkPad Utility.
+
+qcwlicon.exe: process from IBM.
+
+qdcsfs.exe: Cleansweep application.
+
+qoeloader.exe: Qurb AntiSpam.
+
+qoologic.exe: 2nd Thought advertising program.
+
+qserver.exe: Norton Internet Security.
+
+qtaet2s.exe, qtzgacer.exe: Acer.
+
+qtask.exe: Quicken.
+
+qttask.exe: QuickTime Tray Icon.
+
+quickdcf.exe: Fuji digital camera.
+
+quickpar.exe: Archive Verification Tool.
+
+quickres.exe: Microsoft Windows operating system.
+
+quickset.exe: Dell notebooks.
+
+quicktimeplayer.exe: Apple's Quicktime player.
+
+quicktv.exe: remote control of your TV Tuner.
+
+qvp32.exe: Quick View Plus.
+
+R:
+
+ra_scp.exe, ra_sftp.exe, ra_ssh.exe, raabout.exe, ragui.exe, ramaint.exe, rareboot.exe: 3am Laboratories.
+
+radio.exe: Radio Userland web logging tool.
+
+radiosvr.exe: Wireless LAN devices.
+
+ramsys.exe: Advanced StartUp Manager.
+
+randomdigits.exe: JONBARR.D VIRUS.
+
+rapapp.exe: BlackICE computer Protection firewall.
+
+rapimgr.exe: ActiveSync software from Microsoft.
+
+rar.exe: archiving program.
+
+rasman.exe: Microsoft Remote Access Service.
+
+ravmond.exe: Lovegate.F Trojan.
+
+ravtimer.exe: component of RAV.
+
+ray.exe: hijacks the browser.
+
+rb32.exe: RapidBlaster parasite virus.
+
+rcapi.exe: Elsa (Lapcom) modems.
+
+rcenter.exe: Creative Technology audio hardware.
+
+rcmdsvc.exe: Remote Command Service.
+
+rcsync.exe: malware.
+
+rds.exe: TrojanSpy.Win32.Delf Keylogger.
+
+rdshost.exe: Microsoft Windows Operating System.
+
+reader_sl.exe: Microsoft Windows Operating System .
+
+realjbox.exe: Real Jukebox .
+
+realmon.exe: eTrust Antivirus from CA.
+
+realonemessagecenter.exe: Real Networks multimedia.
+
+realplay.exe, realsched.exe, realsched.exe, realshed.exe: RealPlayer.
+
+realpopup.exe: Real Popup utility.
+
+realtray.exe: TROJ_SUA.A backdoor Trojan.
+
+realupd.exe: TROJ_MITGLIED.AF worm.
+
+realupd32.exe: trojan.w32.MITGLIED.
+
+reboot.exe: reboot the computer.
+
+recguard.exe: Windows XP Recovery Partition.
+
+red32secure.exe: Lantronix COM Port Redirector.
+
+redirsvcsc.exe: Lantronix Secure Redirector.
+
+reg.exe: Microsoft Registry Console Tool.
+
+regedit.exe: Windows Registry Editor.
+
+register.exe: AOL parasite LameToy 2000, virus.
+
+registrybooster.exe: UniBlue Systems Registry Booster application.
+
+regloadr.exe: OPTIXPRO.11 virus.
+
+regsrv.exe: OPTIXPRO.11 virus.
+
+regsrvc.exe: Intel ProSet range of network communications products.
+
+regsvc.exe: Remote Registry Service.
+
+regsvc32.exe: hijacks the browser.
+
+regsync.exe: Spyware.
+
+remind.exe: register software.
+
+remind32.exe: register your ScanSoft solution.
+
+remind_xp.exe: SoftThinks CD Creator CD/DVD Writer.
+
+reminder.exe: Microsoft Money.
+
+remote.exe: W32.Fanbot.A@mm worm.
+
+remotelyanywhere.exe: 3am Laboratories.
+
+remoterm.exe: Pinnacle PCTV Pro card.
+
+removecpl.exe: Belkin Wireless.
+
+removed.exe: GatorCheat adware downloader.
+
+remupd.exe: Panda software.
+
+requester.11.exe: Trojan.Muquest.
+
+res.exe: USB Storage Toolbox.
+
+resetservice.exe: Windows XP Activation Hack tool.
+
+retrorun.exe: Dantz Development Retrospect Backup.
+
+retrospect.exe: Dantz Retrospect.
+
+rfagent.exe: Registry First Aid.
+
+rftray.exe: Logitech QuickCam computer video camera.
+
+rhaphlpr.exe: Rhapsody Music Subscription Service Software.
+
+rlid.exe: LIXY Backdoor virus.Lixy is a backdoor Trojan horse.
+
+rlvknlg.exe: RelevantKnowledge Adware.
+
+rm_sv.exe: Sony GigaPocket multimedia entertainment center.
+
+rmctrl.exe: Power DVD Remote Control.
+
+rnaapp.exe: Windows Dial-Up Networking application.
+
+rnathchk.exe, rndal.exe: Real Networks RealOne Player.
+
+rnav.exe: Norton products from your computer.
+
+robotaskbaricon.exe: startup entry named RoboForm.
+
+rosnmgr.exe: Reachout Manager.
+
+route.exe: MS-DOS executable from Windows.
+
+rpcclient.exe: with the Codbot-L Worm.
+
+rpcmon.exe: RANDEX Worm.
+
+rpcss.exe: Remote Procedure Call Service.
+
+rpdflchr.exe: 1-Step PDF generator.
+
+rrpcsb.exe: Rapid Restore from XPoint.
+
+rscmpt.exe: emulate the GeForce 64 MB MX video card's full 64 MB memory.
+
+rsmsink.exe: Removable Storage Manager.
+
+rsrcmtr.exe: Removable Storage Manager.
+
+rsvp.exe: Resource Reservation Protocol.
+
+rteng7.exe: Adaptive Server Anywhere.
+
+rthdcpl.exe: Realtek HD Audio Control Panel.
+
+rtlrack.exe: RealTek audio player .
+
+rtmanager.exe, rtmc.exe, rtmservice.exe: remote task manager remote control suite.
+
+rtos.exe: Phar Lap ETS 12.0 software.
+
+rtvscan.exe, rtvscn95.exe: Norton Anti-Virus.
+
+rulaunch.exe: Updater for McAfee VirusScan.
+
+run32dll.exe: key recorder virus.
+
+rundl32.exe: W32/Agobot-TO virus.
+
+rundll.exe, rundll16.exe: backdoor Trojan.
+
+rundll32.exe: Windows operating system.
+
+runonce.exe: installing new software.
+
+runservice.exe: eLicense licensing systems.
+
+ruxdll32.exe: W32.Mapson.D.Worm.
+
+rz.exe: 3am Laboratories.
+
+S:
+
+s.exe: Trojan horse.
+
+s24evmon.exe: wireless network interface devices configurations .
+
+s3tray2.exe: drivers for your S3 video output device.
+
+saccu.exe: W32.Looksky.A/D Worm.
+
+sachostb.exe, sachostc.exe, sachostm.exe, sachostp.exe, sachosts.exe, sachostw.exe, sachostx.exe: W32.Looksky.A,D,E Worm.
+
+sage.exe: performs system tuning tasks.
+
+sagent2.exe: Epson Printer Status Agent utility.
+
+sahagent.exe: spyware.
+
+saimon.exe: Saimon WriteDVD application.
+
+saismart.exe: Game Controller Software from Saitek.
+
+saproxy.exe: bloomba SpamAssassin.
+
+sass.exe: Troj/Funsta-A Trojan.
+
+satmat.exe: Spyware and adware.
+
+save.exe: Adware.Savenow.
+
+savenow.exe: Adware-SaveNow.
+
+savscan.exe: Norton Antivirus scans.
+
+savservice.exe: Sophos Anti-Virus Software.
+
+sbcmstrt.exe: Small Business Customer Manager.
+
+sbdrvdet.exe: Creative SoundBlaster Drivers.
+
+sbhc.exe: Internet Explorer plug-in.
+
+sbserv.exe: Symantec's Norton Antivirus.
+
+sbsetup.exe: SoftBars software.
+
+sc.exe: spyware.
+
+scam32.exe: SIRCAM virus.
+
+scan32.exe: McAfee's Antivirus scanning system.
+
+scandisk.exe: Microsoft Windows utility.
+
+scanexplicit.exe: Norton Internet Security Suite.
+
+scanmailoutlook.exe: PC-cillin anti virus suite.
+
+scanregistry.exe: TROJ_SVHOOST.A Trojan.
+
+scanregw.exe: check the integrity of the Windows registry.
+
+scanserver.exe: Netgear network print servers.
+
+scards32.exe: Towitoko Smart Card Reader Driver.
+
+scardsvr.exe: Smart Card authentication.
+
+scardsvr32.exe: MOFEI.B virus.
+
+sccenter.exe: Compaq laptop
+
+scchost.exe: DONK virus.
+
+schdpl32.exe: Microsoft's Schedule+ application.
+
+sched.exe: AntiVir.
+
+schedhlp.exe: Acronis True Image application.
+
+schedul2.exe: Acronis True Image.
+
+schedule.exe: Acronis Disk Imaging suite.
+
+scheduler.exe, schedulerv2.exe: Leader Technologies.
+
+schost.exe: W32.HLLW.Torvil@mm virus.
+
+schsvr.exe: InterVideo WinDVD software.
+
+schupd.exe: Trend Micro Anti Virus Software.
+
+schwizex.exe: track the changes to the registry.
+
+scm.exe: manage all services running on windows.
+
+scrfs.exe: Symbian Connect application.
+
+scrigz.exe: W32/Mytob-ER Worm.
+
+scrss.exe: HacDef-R Trojan.
+
+scrsvr.exe: OPASERV virus.
+
+scrtkfg.exe: WIN32.RBOT Trojan .
+
+scsiaccess.exe: Alcohol 120% software.
+
+scureapp.exe: OmniPass application.
+
+scvhost.exe: Worm which tries to disguise by using a similar name of important Windows system process.
+
+sdhelp.exe: Spyware Doctor.
+
+sdii.exe: Microtek Scanner Console.
+
+sdstat.exe: Toshiba.
+
+sealmon.exe: SealedMedia.
+
+securitycenter.exe: Aluria anti-spyware product .
+
+selfcert.exe: VBScript Self Certification.
+
+sempalong.exe: W32.Rontokbro.K@mm Worm.
+
+sens.exe: Microsoft Windows 2000 operating system.
+
+sentry.exe: determine your geographical location.
+
+sentstrt.exe: Rainbow Sentinel drivers.
+
+servce.exe: W32.Mytob.MR@mm worm.
+
+server.exe: Novell's server suite.
+
+servic.exe: Rbot worm variant.
+
+service.exe: Worm.Win32.Raleka virus.
+
+service5.exe: Gaobot worm.
+
+servicelayer.exe: Nokia Connectivity Library software.
+
+services.exe: services of Microsoft Windows.
+
+sessmgr.exe: Microsoft's remote assistance windows plug.
+
+sethook.exe: MediaFACE software suite.
+
+seti@home.exe: Search for Extraterrestrial Intelligence.
+
+seticon.exe: 6-in-1 Media Card devices.
+
+setlang.exe: Microsoft Office family of products.
+
+setpoint.exe: Logitech SetPoint Event Manager.
+
+setup.exe: Common setup application for software.
+
+sf.exe: WIN32.FAVADD.O Trojan.
+
+sfc32.exe: W32.Monikey@mm Worm.
+
+sgbhp.exe: SpyWareGuard.
+
+sgmain.exe: SpywareGuard Internet Security Utility .
+
+sgtray.exe: System tray bar application.
+
+shadowbar.exe: Hewlett-Packard resource center.
+
+shareaza.exe: Shareaza P2P client.
+
+sharedprem.exe: application by curious labs.
+
+shellsystem.exe: Trojan.Upchan virus.
+
+shine.exe: HAPPYLOW virus.
+
+shnlog.exe: Troj/Puper-A trojan.
+
+showbehind.exe: Adware.
+
+shpc32.exe: monitor ports for Lexmark printers.
+
+shstart.exe: ON Technology.
+
+shwicon.exe: Allnet USB 6 in 1 Card Reader.
+
+shwiconem.exe: Digital Media USB Reader.
+
+si.exe: W32.Yimper Trojan.
+
+sifxinst.exe: Lanovation Prism.
+
+silent.exe: Compaq Knowledge Center.
+
+silent_setup[1].exe: adware.
+
+simailproxyserver.exe: Giant Spam Inspector.
+
+simeter.exe: Si Meter System Management tool.
+
+sistray.exe: SIS video output devices.
+
+sisusbrg.exe: patch from SiS.
+
+siteadv.exe: Site Advisor app to protect your pc.
+
+sixtypopsix.exe: Spyware.
+
+ska.exe: Win32/Ska Virus.
+
+skeys.exe: Microsoft Windows Operating System.
+
+skinkers.exe: BBC News alerter utility by Skinkers Communications.
+
+sksockserver.exe: backdoor vulnerability.
+
+skynetave.exe: SASSER WORM.
+
+skype.exe: Internet telephony tool and instant messenger.
+
+skype32.exe: W32.Mytob.ML@mm Worm.
+
+skypeclient.exe: Skype Internet Telephoney utility.
+
+slave.exe: remote administration tool named Remote-Anything.
+
+slee401.exe: Steganos Security Suite 4.
+
+slee81.exe: Steganos Security Suite.
+
+sllights.exe: STMicroelectronics modem drivers.
+
+slpmonx.exe: Seiko Printers.
+
+slpservice.exe: Seiko Printers.
+
+slpv24s.exe: TA pi interface of elmeg Systemtelefonen.
+
+slserv.exe: Smartlink communication products.
+
+slserve.exe: W32/SDBOT WORM.
+
+slserves.exe: W32/SDBOT WORM.
+
+sm56hlpr.exe: Motorola SM56 modem drivers.
+
+smagent.exe: installed along with several audio drivers.
+
+smartagt.exe: hardware drivers for 3Com NIC cards.
+
+smartexplorer.exe: Smarteque Studio's Smart Explorer Internet browsing facility.
+
+smartftp.exe: file transfer protocol tool.
+
+smartscaps.exe: SmartTrust Smart Card software.
+
+smax4.exe: SoundMAX Control Center.
+
+smax4pnp.exe: Analogue Devices range of audio products.
+
+smc.exe: Sygate Personal Firewall.
+
+smceman.exe: Sony GigaPocket multimedia entertainment center.
+
+smlogsvc.exe: Microsoft Windows Operating System.
+
+smoothview.exe: Zooming Utility from TOSHIBA.
+
+smoutlookpack.exe: PC-cillin anti virus suite.
+
+smschk.exe: BKDR_BREPLIBOT.G Trojan.
+
+smsmon32.exe: Microsoft Windows Operating System.
+
+smsonx32.exe: backdoor vulnerability.
+
+smss.exe: Windows operating system.
+
+smsss.exe: AGOBOT Worm.
+
+smsx.exe: Security Technology Solutions-utility .
+
+smtray.exe: Sound cards with ADI chipsets.
+
+sndmon.exe: Symantec LiveUpdate.
+
+sndrec32.exe: Microsoft Windows operating system.
+
+sndvol32.exe: Volume Control process.
+
+sniffer.exe: solve software and hardware problems.
+
+snmp.exe: Windows Simple Network Managment Protocol (SNMP) agent.
+
+snmptrap.exe: local or remote MP agents.
+
+soap.exe: System Soap Pro Internet cleaning software.
+
+sockservercfg.exe: backdoor vulnerability.
+
+soffice.exe: OpenOffice suite.
+
+sointgr.exe: Sun MicroSystems StarOffice.
+
+sonicstagemonitoring.exe: Sony GigaPocket multimedia entertainment center.
+
+sonytray.exe: Sony digital camera.
+
+sound.exe: usually belongs to malicious applications.
+
+soundman.exe: drivers for some Realtek sound cards.
+
+soundtrax.exe: Ahead Nero Soundtrax.
+
+sp.exe: Spy.Passkiller, spyware.
+
+sp2ctr.exe: DLUCA-M Trojan.
+
+sp2update00.exe: virus.
+
+spamsub.exe: SpamSubtract from interMute.
+
+spamsubtract.exe: junk email detection.
+
+spbbcsvc.exe: Symantec Internet security suite.
+
+spd.exe: cFosSpeed Internet bandwidth optimizer.
+
+speedkey.exe: Microsoft IntelliType Pro.
+
+speedmgr.exe: T-Systems Nova Berlin.
+
+speedupmypc.exe: SpeedUpMyPC application.
+
+spider.exe: antivirus software DrWeb for Windows.
+
+spkrmon.exe: SpeakerMonitor software.
+
+splash.exe: Hewlett Packard VPN Server Appliances Client Deployment Tool.
+
+spmgr.exe: Sony VAIO laptops.
+
+spnsrvnt.exe: SafeNet Sentinel.
+
+spoler.exe: RANDEX.J virus.
+
+spool.exe: adware and spyware.
+
+spool32.exe: spooling of print jobs.
+
+spooler.exe: WIN32.RBOT Worm.
+
+spools.exe: W32/Kassbot-C Trojan.
+
+spoolsrv32.exe: TopAntiSpyware Malware.
+
+spoolss.exe: Windows Printer Spooler Subsystem.
+
+spoolsv.exe: a system process and may also be a virus Backdoor.Ciadoor.
+
+spoolsvc.exe: W32.SXTB.A Trojan.
+
+spupdsvc.exe: Microsoft Update RunOnce Service.
+
+spvic.exe: Instant Chess gam.
+
+spvspool.exe: Trojan.W32.Dabora worm.
+
+spyagent.exe, spyagent4.exe, spyanywhere.exe, spyrename.exe: Spytech Software.
+
+spyblast.exe, spybotsd.exe, spyware.exe: a utility by Motion which terminates spyware.
+
+spybuddy.exe: spybuddy Trojan virus.
+
+spydoctor.exe: anti-spyware application.
+
+spysub.exe: SpySubtract from Intermute.
+
+spysweeper.exe: Webroot SpySweeper.
+
+spywarestormer.exe: False anti-spyware application.
+
+sqlagent.exe, sqlbrowser.exe, sqlservr.exe, sqlmangr.exe: Microsoft SQL Server.
+
+srng.exe: spyware.
+
+srvany.exe: allows you to run a normal executable as a Windows service.
+
+srvload.exe: Panda Platinum Internet Security suite.
+
+ss.exe: popup blocker from OnlinePCfix.
+
+ssaad.exe: Sonic Stage from Sony.
+
+ssbkgdupdate.exe: Scansoft Product Updater.
+
+ssdpsrv.exe: Universal Plug and Play functionality.
+
+ssexp.exe: Visual Source Safe.
+
+ssgrate.exe: Trojan.Mitglieder.C.
+
+sshd.exe: Cygwin OpenSSH Secure Shell Daemon.
+
+ssl.exe: W32 worm.
+
+ssloserv.exe: Sony Smart Label OServer.
+
+ssoftsrv.exe: Cryptainer Encryption utility.
+
+ssonsvr.exe: Citrix MetaFrame Client remote administration tool.
+
+ssrms.exe: Backdoor.Naninf.B Trojan.
+
+ssscsisv.exe: Sony SonicStage media player.
+
+sssvr.exe: VAIO Media Music Server.
+
+sstray.exe: process by NVidia.
+
+stacmon.exe: Sigmatel's range of audio hardware.
+
+start.exe: Hijacker application.
+
+starteak.exe: Compaq Easy Access Keyboard.
+
+starwindservice.exe: Alcohol 120%.
+
+statemgr.exe: Microsoft Windows ME Opearating System.
+
+statusclient.exe: Hewlett Packard's range of multimedia devices.
+
+stcloader.exe: Adware.SecondThought.
+
+stealth.dcom.exe, stealth.ddos.exe, stealth.exe, stealth.injector.exe, stealth.stat.exe, stealth.wm.exe, stealth.worm.exe: PE_THEALS.A Worm.
+
+steam.exe: Half-Life Valve game.
+
+stimon.exe: one-touch scanning for a scanner.
+
+stisvc.exe: Still Image Service.
+
+stmgr.exe: Microsoft's PCHealth utility.
+
+str.exe: winfixer.com.
+
+stsystra.exe: SigmaTel.
+
+studio.exe: Application used to play all common sound files.
+
+stylexp.exe: StyleXP software.
+
+sunasdtserv.exe: Sunbelt CounterSpy Internet security tool.
+
+sunasserv.exe: CounterSpy from Sunbelt Software.
+
+sunserver.exe: Sunbelt CounterSpy.
+
+sunthreatengine.exe: spyware and trojans.
+
+support.exe: Dell computers.
+
+supporter5.exe: eScorcher anti-virus suite.
+
+supu.exe: WORM_PLEXUS.B.
+
+surveyor.exe: Microsoft server suites.
+
+surveysa.exe: Sony Vaio.
+
+suss.exe: Microsoft Windows resource kit.
+
+sv_httpd.exe: Sony VAIO Media Platform.
+
+svc.exe: malicious applications.
+
+svcdata.exe: W32.Spybot.ZIF Trojan.
+
+svchost.exe: Generic Host Process for Win32 Services is different from the usual processes.
+
+svchosts.exe: backdoor Trojan.
+
+svcproc.exe: web hijacker.
+
+svhost.exe: W32.Mydoom.I@mm virus.
+
+svhosts.exe: backdoor vulnerability.
+
+svshost.exe: Worm.P2P.Spybot.gen virus.
+
+svshots.exe: backdoor vulnerability.
+
+swagent.exe: SonicWall Internet firewall protection by Network Associates.
+
+sweudora.exe: service for Eudora mail client.
+
+swiftbtn.exe: system drivers on Fujitsu Siemens notebooks.
+
+switcher.exe: yourSony Wireless LAN Switch.
+
+switpa.exe: OfferAgent Adware.
+
+swnetsup.exe: network support service application in Sophos Anti-Virus.
+
+sws.exe: product of Microsoft.
+
+swsoc.exe: Cold Fusion server from Macromedia.
+
+swstrtr.exe: Cold Fusion server from Macromedia.
+
+swtray.exe: Microsoft SideWinder gamepad.
+
+swupdtmr.exe: toshiba computers.
+
+sxgdsenu.exe, sxgtkbar.exe: Yamaha SXG soundcard driver.
+
+sxplog32.exe: CA Software Delivery by Computer Associates International.
+
+symlcsvc.exe, symsport.exe, symtray.exe, symwsc.exe: Norton's Internet Security Suite.
+
+syncback.exe: SyncBack backup application.
+
+sys.exe: Backdoor.ICR Trojan.
+
+sys_alert.exe: System Patch Alert.
+
+sysagent.exe: Netsizzle.net application.
+
+sysdoc32.exe: Norton System Utilities.
+
+sysdown.exe: Microsoft Windows Server suite.
+
+sysfader.exe: utility used by some NVidia graphic card packages.
+
+sysformat.exe: BAGLE.AZ Worm.
+
+syshost.exe: Lots of viruses using this process name, such as W32.Evaman.F and W32.Francette.Worm.
+
+sysldr32.exe: mass-mailing worm.
+
+sysmon.exe: Motherboard hardware monitoring tool.
+
+sysmonnt.exe: Sysmon System monitor utility by fkware.
+
+sysocmgr.exe: System Optional Component Manager from Microsoft.
+
+sysreg.exe: spyware and adware application.
+
+syssfitb.exe: web hijacker.
+
+system.exe: Windows system process. MANY viruses use same name like Trojan.Mitglieder.B.
+
+system.update.exe: mass-mailing worm W32.
+
+system32.exe: worm.
+
+systemtray.exe: BIGFOOT Trojan.
+
+systime.exe: CoolWebSearch Parasite virus.
+
+systray.exe: windows operating systems.
+
+sysutil.exe: collect anonymous information about you and send it to Internet servers.
+
+sz.exe: 3am Laboratories.
+
+szntsvc.exe: STOPzilla! program .
+
+T:
+
+tabbtnu.exe: Microsoft Windows Operating System.
+
+tablet.exe: Wacom Graphic Tablet.
+
+tabtip.exe: Table PC Input Panel.
+
+tabuserw.exe: Wacom Pen Tablet devices.
+
+tapicfg.exe: homepage hijacker.
+
+tapisrv.exe: Windows Telephony (TAPI) Support.
+
+task.exe: W32/Randon-Z worm.
+
+task32.exe: mIRC virus.
+
+taskbar.exe: W32.Frethem.L@mm worm.
+
+taskbaricon.exe: Wanadoo Internet connection.
+
+taskcntr.exe: W32/Tilebot-S worm.
+
+taskdir.exe: Added by the Trojan.Abwiz.F rootkit/downloading Trojan.
+
+tasker.exe: AUTOTROJ-C, MYDOOM.A or MYDOOM.J trojans.
+
+taskmngr.exe: RBOT.Y Worm.
+
+taskmon.exe: collect information from hard disks.
+
+taskpanl.exe: Earthlink TotalAccess 2003 Internet access software.
+
+taskswitch.exe: Windows PowerToy.
+
+tasksys.exe: TROJ_SUA.A worm.
+
+taumon.exe: Tauscan, an anti-trojan application.
+
+tbctray.exe: Voyetra Turtle Beach sound cards.
+
+tbksche.exe: TurboBackup Scheduler.
+
+tblmouse.exe: mouse devices.
+
+tbmon.exe: Network Associates Internet Security suite.
+
+tbpanel.exe: drives for the Gainward graphic cards.
+
+tc.exe: TimeCalendar appli.
+
+tcpsvcs.exe: TCP/IP Services.
+
+tcserver.exe: Microsoft Tablet PC Windows Operating System.
+
+teatimer.exe: SpyBot Search & Destroy application.
+
+teekids.exe: Lovesan worm.
+
+telepath.exe: WinModems.
+
+termsrv.exe: Windows terminal server service.
+
+testing.exe: W32/Spybot-B worm.
+
+tfncky.exe, tfnf5.exe: TOSHIBA Corp.
+
+tfswctrl.exe: Hewlett Packard Hardware Packet Writing Driver.
+
+tgcmd.exe: software package provided by your ISP.
+
+the_weather_channel.exe: Weather.com instant messaging utility.
+
+thotkey.exe: function keys on Toshiba laptop computers.
+
+thunderbird.exe: e-mail client.
+
+timershot.exe: PowerToy for Windows XP.
+
+timeup.exe: TimeUp application from TimeUp Soft.
+
+timezone.exe: Microsoft Daylight Saving Time Update Utility.
+
+tintsetp.exe: IME program.
+
+tinyspell.exe: spellchecker.
+
+tkbell.exe: RealOne Player.
+
+tkonnect.exe: Tiscali internet dialing software.
+
+tlbar.exe: monitors your computer in the background.
+
+tlntsvr.exe: Telnet server.
+
+tmas.exe: Trend Micro Internet Security Suite.
+
+tmeejme.exe: Toshiba laptops.
+
+tmerzctl.exe: Toshiba TME utility.
+
+tmesbs32.exe: Toshiba laptops Mobile Extension Slim Select Bay Service.
+
+tmesrv31.exe: laptop docking application from Toshiba.
+
+tmksrvi.exe: Trojan horse TR/Tmks.2.
+
+tmksrvu.exe: adware.
+
+tmp.exe: mostly identified as a threat.
+
+tmpfw.exe: Network Security software.
+
+tmproxy.exe: PC-Cillin antivirus.
+
+tnbutil.exe: F-Secure Internet Security.
+
+toadimon.exe: Dial Assistent Component.
+
+topdesk.exe: for accessing your desktop items.
+
+toscdspd.exe: Toshiba laptop CD/DVD driv.
+
+toshkcw.exe: Toshiba Laptops.
+
+totrecsched.exe: Total Recorder.
+
+touched.exe: Toshiba TouchPad Utility.
+
+tp4ex.exe: IBM TrackPoint.
+
+tp4mon.exe, tp4serv.exe, tphkmgr.exe, tpkmapap.exe, tpkmapmn.exe, tpkmpsvc.exe, tponscr.exe, tpscrex.exe, tpshocks.exe: IBM ThinkPads.
+
+tphdexlg.exe: ThinkVantage Active Protection System.
+
+tpsbattm.exe: Toshiba Power Saver Utility.
+
+tpscrlk.exe, tpwrtray.exe: TOSHIBA Corp.
+
+tpsmain.exe: Toshiba laptops/desktops.
+
+tptray.exe: Toshiba laptops.
+
+tray.exe: homepage hi-jacker application.
+
+trayapplication.exe: Nokia PC Suite.
+
+trayclnt.exe: MSN Subscription.
+
+trayicos.exe: automatic updater for the eScan antivirus.
+
+traymon.exe: tray monitor application from Netropa Corporation.
+
+traymonitor.exe: MacVision program for monitoring tray icons.
+
+traysaver.exe: restores the icons.
+
+trayserver.exe: MacVision program for monitoring tray icon.
+
+trcboot.exe: IBM Personnal Communications.
+
+trickler.exe: adware.
+
+trillian.exe: Instant Messenger client.
+
+trueimagemonitor.exe, trueimageservice.exe: disk drive imaging tool, Acronis TrueImage.
+
+tsadbot.exe: adware.
+
+tschelp.exe: SnagIt from TechSmith.
+
+tsclient.exe: 3am Laboratories.
+
+tskdbg.exe: FLOOD.E virus.
+
+tskmgr32.exe: trojan that gives a remote user access to the infected computer.
+
+tsl.exe: adware and spyware.
+
+tsmsvc.exe: T-DSL SpeedManager from T-Systems.
+
+tstool.exe: TrueSync Tool.
+
+tsyssmon.exe: Toshiba System Stability Client Application.
+
+tsystray.exe: Real Jukebox.
+
+tv_media.exe: ThinkVantage Registry Monitor Service Module.
+
+tvm.exe: browser hijacker.
+
+tvmd.exe, tvtmd.exe: spyware.
+
+tvmon.exe: from Canon.
+
+tvstray.exe: Toshiba Virtual Sound applicat.
+
+tvtool.exe: connect to their tv via their videocard.
+
+tweakui.exe: PowerToy for Windows XP.
+
+twunk_64.exe, uc.exe: homepage hi-jacker.
+
+type32.exe: keyboard products from Microsoft.
+
+U:
+
+ucstart.exe, ucstartup.exe: IBM Update connector.
+
+udserve.exe: Executive Software Undelete.
+
+umonit.exe: USB monitor.
+
+umonit2k.exe: Gene USB Monitor.
+
+unins000.exe: relating to many un-installation services.
+
+uninst.exe: uninstaller application.
+
+uninstall.exe: popular process name.
+
+unrar.exe: WinRAR application.
+
+unsecapp.exe: Microsoft Windows s.
+
+unwise.exe: uninstall other applications.
+
+upd.exe: adult content screen saver.
+
+updatemanager.exe: Rogers Yahoo! Browser.
+
+updater.exe: malicious application.
+
+updaterui.exe: McAfee Antivirus.
+
+updatestats.exe: MLB pitch-by-pitch real-time updates.
+
+updreg.exe: remind you to register your Creative Labs product.
+
+updtnv28.exe: Symantec AntiVirus Products.
+
+upgrade.exe: Trend Micro Pc-Cillin uses this.
+
+uphclean.exe: User profile cleanup service.
+
+upnpframework.exe: VAIO Media Video Server from Sony.
+
+upromise0.exe: college savings program from Upromise.
+
+ups.exe: Microsoft that manages UPS devices.
+
+upsd.exe: Belkin Bulldog.
+
+uptodate.exe: popup ad blocker.
+
+urlblaze.exe: P2P program.
+
+urlmap.exe: Microsoft Money.
+
+usb.exe: USB device.
+
+usbmmkbd.exe: USB device.
+
+usbmonit.exe: monitors the USB ports.
+
+usbsircs.exe: Giga Pocket.
+
+userinit.exe: Logon Application.
+
+userint32.exe: W32/Oscabot-C worm.
+
+usrbridg.exe: Extended Systems infrared por.
+
+usrmlnka.exe, usrshuta.exe: US Robotics.
+
+usrprmpt.exe: Symantec products.
+
+utility.exe: Belkin Wireless PCI Cards.
+
+utilman.exe: Utility Manager.
+
+uwdf.exe: Microsoft Windows Operating System.
+
+uzqkst.exe: popular freeware.
+
+V:
+
+v2iconsole.exe: Norton Ghost.
+
+vaioent.exe: VAIO Entertainment.
+
+vaioupdt.exe: Sony Vaio Update service.
+
+valuesup.exe: Lanovation Prism.
+
+vaserv.exe: Sony Vaio notebooks.
+
+vc5play.exe, vc5secs.exe, vc5tray.exe, vc6play.exe, vc6secs.exe, vc6tray.exe, vc7play.exe, vc7secs.exe, vc7tray.exe,vcclient.exe, vcssecs.exe: Virtual CD.
+
+vcddaemon.exe: Elaborate Bytes Virtual CloneDrive.
+
+vcsw.exe: Sony VAIO and provides extra multimedia functions.
+
+ventc.exe: Fourelle Systems Venturi.
+
+versioncuetray.exe: Adobe Creative Suite.
+
+vet32.exe, vetmsg.exe, vettray.exe: eTrust EZ Antivirus.
+
+vgaprobe.exe: monitors your ASUS graphics card.
+
+vi_grm.exe: drivers for Trio2x/3x based video cards.
+
+videodrv.exe: I-Worm.Mimail virus.
+
+view.exe: allows the user to open any type of text file.
+
+viewmgr.exe: Viewpoint Media Player.
+
+viewport.exe: support for your ATI graphic cards.
+
+virtualbouncer.exe: Spyware.
+
+visio.exe: Visio suite from Microsoft.
+
+vmlib.exe: LowZone-AQ Trojan.
+
+vmnat.exe: VMware NAT application running a service.
+
+vmnetdhcp.exe: VMware Workstation.
+
+vmss.exe: adware.
+
+vncviewer.exe, vnsystask.exe: VMware Authorization Service.
+
+vnxserv.exe: TWD Industries remote administration tool.
+
+vobregcheck.exe: InfoExpress software.
+
+vpngui.exe: VPN Client application from Cisco Systems.
+
+vprosvc.exe: Norton Ghost.
+
+vptray.exe: Norton AntiVirus.
+
+vshwin32.exe, vsmain.exe: McAfee VirusScan.
+
+vsmon.exe: ZoneAlarm firewall.
+
+vsnpstd.exe: bundled with Olidata WebCam and LG USB WebCams.
+
+vsnpstd2.exe: SmartCam USB Cameras.
+
+vsserv.exe: BitDefender antivirus .
+
+vssvc.exe: Microsoft Volume Shadow Copy Service.
+
+vtpreset.exe: avage Pro S3 graphics cards.
+
+vttrayp.exe: S3 Graphics Controllers.
+
+vvvfdsqq.exe: W32.Sober.@mm worm.
+
+vxsvc.exe: Dell Openmanage.
+
+vxtaskbarmgr.exe: Backup Exec for Windows Servers from Veritas software.
+
+vzcdbsvc.exe: VAIO Entertainment studio.
+
+vzfw.exe: Sony GigaPocket multimedia entertainment center.
+
+W
+
+w32_systm.exe: backdoor vulnerability.
+
+w3dbsmgr.exe: Database Service Manager for Pervasive SQL.
+
+wab.exe: Windows operating system.
+
+wanmpsvc.exe: WAN Miniport service.
+
+waol.exe: AOL engine.
+
+warez.exe: Warez peer-to-peer file sharing client.
+
+watch.exe: Mustek.
+
+watch_free_porn.exe: .
+
+watchdog.exe: Mustek scanners.
+
+wauclt.exe: w32.gaobot.ajd Worm.
+
+wavdriver.exe: wavdriver Associated Process.
+
+waveedit.exe: Ahead Nero Wave Editor.
+
+wbjob.exe: WinBackup 2 from Uniblue.
+
+wbload.exe: WindowsBlinds Stardock application.
+
+wbmain.exe, wbsched.exe, wbscheds.exe, wbss.exe, wbtray.exe: WinBackup.
+
+wbutton.exe: Acer notebooks.
+
+wcescomm.exe, wcesmgr.exe: Microsoft ActiveSync.
+
+wcmdmgr.exe: retrieve information and updates.
+
+wdbtnmgr.exe: Western Digital external disk drive.
+
+wdfmgr.exe: Windows User Mode Driver Manager.
+
+wdsvc.exe: Dantz Retrospect backup application from EMC.
+
+weather.exe: weather information.
+
+weathereye.exe: Weather Network.
+
+webcamrt.exe: Logitech Web Cams.
+
+webcolct.exe: Logitech MouseWare software.
+
+webdav.exe: hacker to gain control of targeted system.
+
+webdmi.exe: Compaq DMI Web Management Service.
+
+webinstall.exe: 123 Zip compression application for Windows.
+
+webproxy.exe: Panda Antivirus Suite.
+
+webscanx.exe: McAfee antivirus package.
+
+webtrapnt.exe: Trend Micro anti virus solution PC-cillin..
+
+webvacuum.exe: Spytech Software.
+
+welcome.exe: Welcome to Windows tutorial on boot up.
+
+wfcrun32.exe: ICA-client belonging to Citrix.
+
+wfdmgr.exe: W32/Mytob-C Worm.
+
+wfica32.exe: Citrix ICA Client remote desktop tool.
+
+wfxctl32.exe: WinFax.
+
+wfxload.exe: WindowFX Loader.
+
+wfxmod32.exe, wfxsvc.exe, wfxswtch.exe: Symantec Winfax.
+
+wfxsnt40.exe: WinFax communication process.
+
+wgatray.exe: Microsoft Windows Operating System.
+
+whagent.exe: spyware.
+
+wid32.exe: W32.Mytob.LD/LZ@mm Worm.
+
+win-bugsfix.exe: LOVELETTER (I Love You) virus.
+
+win32.exe: Backdoor.Ratega.
+
+winace.exe: archiving utility.
+
+winactive.exe: browser hijacker.
+
+winamp.exe: music player.
+
+winampa.exe: Winamp Agent.
+
+winaw32.exe: Symantec PCAnywhere remote control solution.
+
+winbackup.exe: WinBackup application.
+
+wincfg32.exe: Ronoper Trojan Worm.
+
+wincinemamgr.exe: Intervideo WinCinema Manager.
+
+wincmd32.prg: Windows Commander.
+
+wincomm.exe: W32.AGOBOT.BG worm.
+
+wincomp.exe: WINTRIM.A Trojan.
+
+winctlad.exe: WindUpdates Adware.
+
+winctladalt.exe: WindUpdates Adware.
+
+windowsautomaticupdates.exe: Folding@Home Client.
+
+windowsp.exe: opens a back door on IRC channels.
+
+windowssearch.exe: Windows Desktop Search Tray from Microsoft.
+
+winex.exe: homepage hijacker.
+
+winfrw.exe: backdoor vulnerability.
+
+winfs.exe: Windows Longhorn.
+
+wingate.exe: LOVGATE.G virus.
+
+winhelp.exe, winhlp32.exe: Microsoft Help file.
+
+winhost.exe: web hijacker.
+
+wininetd.exe: WINET VIRUS.
+
+wininit.exe: WOLLF.16 VIRUS.
+
+winkey.exe: Copernic Technologies.
+
+winldra.exe: backdoor vulnerability.
+
+winlog.exe: Salfeld Personal Security tool.
+
+winlogin.exe: RANDEX.E VIRUS.
+
+winlogon.exe: Windows NT login manager.
+
+winmain.exe: malware.
+
+winmgm32.exe: LALA.C virus.
+
+winmgmt.exe: core component of Windows.
+
+winmx.exe: WinMX Peer-to-peer file sharing tool.
+
+winmysqladmin.exe: MySQL database administration tool.
+
+winnet.exe: adware and spyware.
+
+winoa386.exe: MS-DOS Console.
+
+winoldap.exe: used on Windows 98 based computers .
+
+winole.exe: W32/SDBOT Worm.
+
+winpack.exe: Troj/Dloader-JU Trojan.
+
+winpatrol.exe: WinPatrol.
+
+winppr32.exe: W32.Sobig.F worm.
+
+winproj.exe: Microsoft Office suite.
+
+winproxy.exe: a proxy server and firewall.
+
+winpup32.exe: ADCLICKER virus.
+
+winrar.exe: WinRAR application.
+
+winrecon.exe: Spying/Monitoring tools which record everything which occurs on your computer.
+
+winroute.exe: email server, proxy server, software firewall.
+
+wins.exe: Windows Internet name service.
+
+winscheduler.exe: InterVideo WinDVD.
+
+winserv.exe: IMISERV virus.
+
+winservad.exe, winservn.exe, winservs.exe, winservsuit.exe: adware.
+
+winservices.exe: W32/Yaha-L worm.
+
+winsocks.exe: SpyWare.
+
+winsrv32.exe: ADUENT virus.
+
+winss.exe: Windows OneCare Live.
+
+winssk32.exe: Sobig.E worm.
+
+winssnotify.exe: Windows OneCare Live.
+
+winstart.exe: spyware.
+
+winstart001.exe: web redirects.
+
+winstat.exe: trojan.
+
+winstylerthemesvc.exe: TuneUp Utilities.
+
+winsupdater.exe: W32.Ahlem.A@mm worm..
+
+winsys.exe: spyware.
+
+winsys32.exe: CIGIVIP or RECKUS viruses.
+
+wintask.exe: W32.Navidad.16896 (Symantec) worm.
+
+wintasks.exe: WinTasks application.
+
+wintbp.exe: Zotob.E Worm.
+
+wintools.exe: Huntbar Adware.
+
+wintsk32.exe: YAHA.U VIRUS.
+
+winupdate.exe: RADO VIRUS.
+
+winupdates.exe: Rbot Worm.
+
+winvnc.exe, winvnc4.exe: remote desktop control.
+
+winwan.exe: malicious application.
+
+winword.exe: Microsoft Word.
+
+winxp.exe: W32.Beagle.AG@mm worm.
+
+winzip32.exe: compress and decompress Zip archives.
+
+wiseupdt.exe: AdWare.
+
+wisptis.exe: Windows Ink Services Platform Tablet Input Subsystem.
+
+wjview.exe: Command line utility tool.
+
+wkcalrem.exe: Microsoft Works Calendar Reminder.
+
+wkdetect.exe: Microsoft Works Updater.
+
+wkfud.exe: Microsoft Works.
+
+wkqkpick.exe: WinZip traybar icon.
+
+wkscal.exe: Microsoft Work Suite.
+
+wkssb.exe: Microsoft Works Portfolio.
+
+wkssvc32.exe: malware.
+
+wkufind.exe: Microsoft Picture-It.
+
+wlan111t.exe: NetGear Wireless LAN hardware.
+
+wlancfg5.exe: Netgear Smart Configuration Module.
+
+wlansta.exe: tray bar process.
+
+wlanutility.exe: MicroStar WLANUtility.
+
+wlkeeper.exe: wireless lan application from Intel.
+
+wlservice.exe: BELKIN USB Wireless.
+
+wltray.exe: Dell Wireless WLAN Card.
+
+wmburn.exe: Microsoft Windows Media Player.
+
+wmccds.exe: D-Link and Roku media playing devices.
+
+wmencagt.exe: Windows Media Encoder from a network.
+
+wmexe.exe: WinModems.
+
+wmi.exe: Windows Management Instrumentation.
+
+wmiadapt.exe: backdoor vulnerability.
+
+wmiapsrv.exe: WMI performance adapter.
+
+wmiexe.exe: Windows Management Instrumentation.
+
+wmiprvse.exe: Microsoft Windows operating system.
+
+wmipvse.exe: Microsoft Windows Server.
+
+wmonitor.exe: EarthLink TotalAccess.
+
+wmpburn.exe: Nero Burning Rom.
+
+wmplayer.exe: Windows Media Player.
+
+wnad.exe: adware.
+
+wnrot.exe: Trojan.W32.BAGLE..
+
+word.exe: VB-IW Trojan..
+
+wordpad.exe: word processing application.
+
+workflow.exe: BroadJump Client Foundation.
+
+workflowtray.exe: .
+
+wow.exe: ScanSoft OmniPage.
+
+wowexec.exe: Windows Win16 Application Launcher.
+
+wp.exe: FlashTrack Adware.
+
+wpa.exe: Esbot Worm.
+
+wpabaln.exe: Microsoft Windows operating system.
+
+wpc11cfg.exe, wpc54cfg.exe: Linksys Wireless-G USB Wireless Network Monitor.
+
+wpctrl.exe, wpctrl95.exe, wpctrlnt.exe: WinPortrait.
+
+wptel.exe: WinPhone.
+
+wrapper.exe: Maya accouting program.
+
+wros.exe: WinRouter application.
+
+wrssdk.exe, wrsssdk.exe: Webroot Spysweeper.
+
+ws3lib.exe: W32.Secefa.A Trojan..
+
+wscntfy.exe: Windows Security Center.
+
+wscommcntr1.exe: Autodesk.
+
+wscript.exe: Microsoft Windows Script Host.
+
+wsinspector.exe: Windows Startup Inspector.
+
+wsn.exe: adware.
+
+wsup.exe: spyware, adware and hijacker application.
+
+wsupdate.exe: backdoor vulnerability.
+
+wsys.exe: keylogging software from iOpus.
+
+wtsrv.exe: Microsoft Windows operating system.
+
+wuauclt.exe: Windows Update client.
+
+wuauclt2.exe: Proxy-Agent.e Trojan.
+
+wuloader.exe: checking for the latest updates for Windows.
+
+wupdater.exe: spyware .
+
+wupdt.exe: Imiserv.A trojan.
+
+wusb54gp.exe, wusb54gs.exe, wusb54gv4.exe: Linksys Wireless-G USB Wireless Network Monitor.
+
+wuser32.exe: used to solve a problem of remote control service starting.
+
+ww.exe: weather reports.
+
+wweb32.exe: theasaurus and dictionary.
+
+wwmon.exe: WildWire broadband Modems.
+
+wwsecure.exe: Webroot Window Washer application.
+
+wzcbdls.exe: WZCBDLService Launcher from D-Link.
+
+wzcsldr.exe: WLAN service launcher software.
+
+wzcsldr2.exe: ALPHA Networks Wireless driver.
+
+wzqkpick.exe: WinZip software.
+
+X:
+
+x10nets.exe: X10 video streaming devices.
+
+x1exec.exe: NetZero Internet service.
+
+x234cpiroff.exe: backdoor vulnerability.
+
+xcommsvr.exe: BitDefender Antivirus.
+
+xferwan.exe: Centennial Discovery.
+
+xfr.exe: Intel LANDesk Management Suite.
+
+xl.exe: Software that prevents software from being reverse engineered.
+
+xtagent.exe: Novell networks, NetIdentity service.
+
+xtcfgloader.exe: adware.
+
+Y:
+
+yahoodesktopsearch.exe: .Yahoo! Desktop Search
+
+yahoopal.exe: Yahoo! Messegner.
+
+yahoopops.exe: Yahoo Mail .
+
+yahoowidgetengine.exe: Yahoo! Widget Engine.
+
+ybrowser.exe: Yahoo!.
+
+ymetray.exe: Yahoo! Music utility.
+
+ymsgr_tray.exe: Yahoo Instant Messenger application.
+
+yop.exe: SBC Yahoo! Online Protection application.
+
+ypager.exe: Yahoo! Messenger.
+
+yserver.exe: Yahoo Instant Messenger application.
+
+yum.exe: Yahoo! Update Manager.
+
+yupdater.exe: Yahoo Messenger Internet chat program.
+
+Z:
+
+zanda.exe: Norman Virus Control application.
+
+zapro.exe: Zone Alarm Pro firewall.
+
+zbase32.exe: database engine named ZBase.
+
+zcast.exe: NetZero Internet service providers Internet accelerator application.
+
+zclientm.exe: Microsoft Gaming Zone.
+
+zdlm.exe: Zinio from Ziff Davis Media.
+
+zhotkey.exe: Chicony keyboard.
+
+zingspooler.exe: upload graphic files.
+
+ziptoa.exe: Iomega ATAPI Zip to A: Service.
+
+zlclient.exe: ZoneAlarm Firewall from ZoneLabs.
+
+zlh.exe: Norman Virus Control's Internet security software.
+
+zone.exe: MSN Gaming Zone.
+
+zonealarm.exe: ZoneAlarm.
+
+zoominghook.exe: Toshiba Zooming Utility for Tablet PC.
+
+zstatus.exe: access features of your HP printer.

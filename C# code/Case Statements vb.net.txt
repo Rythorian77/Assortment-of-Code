@@ -1,0 +1,33 @@
+Add a new Class to your project called LocalSchemeHandler.vb and copy/paste the following:
+
+Imports CefSharp
+Imports System.IO
+Public Class LocalSchemeHandler
+    Implements ISchemeHandler
+
+    Public Function ProcessRequestAsync(request As IRequest, response As ISchemeHandlerResponse, requestCompletedCallback As OnRequestCompletedHandler) As Boolean Implements ISchemeHandler.ProcessRequestAsync
+        Dim u As New Uri(request.Url)
+        Dim filepath As String = u.Authority & u.AbsolutePath
+
+        If File.Exists(filepath) Then
+            Dim bytes As Byte() = File.ReadAllBytes(filepath)
+            response.ResponseStream = New MemoryStream(bytes)
+            Select Case Path.GetExtension(filepath)
+                Case ".html"
+                    response.MimeType = "text/html"
+                Case ".js"
+                    response.MimeType = "text/javascript"
+                Case ".png"
+                    response.MimeType = "image/png"
+                Case ".appcache" OrElse ".manifest"
+                    response.MimeType = "text/cache-manifest"
+                Case Else
+                    response.MimeType = "application/octet-stream"
+            End Select
+            requestCompletedCallback()
+            Return True
+        End If
+        Return False
+    End Function
+
+End Class

@@ -1,0 +1,94 @@
+Start an invisible process.
+
+You can start a process and get its output without a visible window. This shows how to changes to the System folder, run the DOS Dir "*.exe" command and send the output to the Output.txt file. The Windows XP command shell interpreter recognizes "&&" as a command separator, thus, you can put multiple commands on a single line. The ">>" operator redirects output into a file.
+
+    Dim myProcess As Process = New Process()
+    Dim s As String
+    Dim outfile As String = Application.StartupPath & "\Output.txt" 
+    '
+    ' Get the System path. 
+    '
+    Dim sysFolder As String = 
+       System.Environment.GetFolderPath(Environment.SpecialFolder.System)
+    '
+    ' Createe the command line. 
+    '
+    myProcess.StartInfo.FileName = "cmd.exe" 
+    myProcess.StartInfo.Arguments = "/C cd " & sysFolder & _
+        " && dir *.com >> " & Chr(34) & outfile & Chr(34) & " && exit"
+    '
+    ' Start the process in a hidden window.
+    ' 
+    myProcess.StartInfo.WindowStyle = ProcessWindowStyle.Hidden 
+    myProcess.StartInfo.CreateNoWindow = True 
+    myProcess.Start() 
+    '
+    ' Kill the process if it doesn't finish in one minute.
+    ' 
+    myProcess.WaitForExit(1000) 
+    If Not myProcess.HasExited Then 
+        myProcess.Kill() 
+    End If
+    '
+    ' Show the results.
+    ' 
+    MessageBox.Show("The 'dir' command window was " & _
+        "closed at: " & myProcess.ExitTime & "." & System.Environment.NewLine & _
+        "Exit Code: " & myProcess.ExitCode) 
+    
+    myProcess.Close() 
+
+
+Start a process and wait until it exits.
+
+To wait for a launched process to end, call the Process.WaitForExit method. Your application will stop executing until the launched process exits. However, this will cause your application to stop responding to system events, such as the Paint event.
+
+    '   
+    ' Start a new process (Notepad).
+    '
+    Dim myProcess As Process = System.Diagnostics.Process.Start("MyTextFile.txt")
+    '
+    ' Wait until it ends.
+    '
+    myProcess.WaitForExit()
+    
+    MessageBox.Show("Notepad ended: " & myProcess.ExitTime & "." & _
+        System.Environment.NewLine & "Exit Code: " & myProcess.ExitCode)
+    '
+    ' Close the process to free resources.
+    '
+    myProcess.Close()
+
+
+
+5
+
+If you need the app running all the time, then you don't need a Timer at all. Subscribe to the Process.Exited() event to be notified when it closes. For instance, with Notepad:
+
+Public Class Form1
+
+    Private P As Process
+    Private FileName As String = "C:\Windows\Notepad.exe"
+
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        Dim ps() As Process = Process.GetProcessesByName(Path.GetFileNameWithoutExtension(FileName))
+        If ps.Length = 0 Then
+            P = Process.Start(FileName)
+            P.EnableRaisingEvents = True
+            AddHandler P.Exited, AddressOf P_Exited
+        Else
+            P = ps(0)
+            P.EnableRaisingEvents = True
+            AddHandler P.Exited, AddressOf P_Exited
+        End If
+    End Sub
+
+    Private Sub P_Exited(sender As Object, e As EventArgs)
+        Console.WriteLine("App Exited @ " & DateTime.Now)
+        Console.WriteLine("Restarting app: " & FileName)
+        P = Process.Start(FileName)
+        P.EnableRaisingEvents = True
+        AddHandler P.Exited, AddressOf P_Exited
+    End Sub
+
+End Class

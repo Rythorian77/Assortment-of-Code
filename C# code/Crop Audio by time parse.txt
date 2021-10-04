@@ -1,0 +1,53 @@
+Cut an audio segment of a MP3 file with NAudio
+Asked 9 months ago
+Active 9 months ago
+Viewed 177 times
+
+0
+
+
+1
+I'm using NAudio library. I wrote the function below that given a WaveStream will cut a segment of its audio, for example, I can use it to cut 30 seconds of a music file as I represented in this graphic:
+
+enter image description here
+
+public static IWaveProvider CutAudio(WaveStream wave, 
+                                     TimeSpan startPosition, 
+                                     TimeSpan endPosition) {
+
+    ISampleProvider sourceProvider = wave.ToSampleProvider();
+    long currentPosition = wave.Position; // Save stream position
+
+    // Take audio from the beginning of file until {startPosition}
+    OffsetSampleProvider offset1 = new OffsetSampleProvider(sourceProvider) {
+        Take = startPosition
+    };
+
+    // Take audio after {endPosition} until the end of file
+    OffsetSampleProvider offset2 = new OffsetSampleProvider(sourceProvider) {
+        SkipOver = (endPosition - startPosition),
+        Take = TimeSpan.Zero
+    };
+
+    wave.Position = currentPosition; // Restore stream position
+    return (offset1.FollowedBy(offset2)).ToWaveProvider();
+
+}
+This is an example usage:
+
+ string sourceFile = "C:\\File.mp3";
+ string outputFile = "C:\\Output.wav"; // It must be a WAVE file
+
+ using (AudioFileReader reader = new AudioFileReader(sourceFile))
+ {
+     TimeSpan startPosition = TimeSpan.Parse("00:00:05.000");
+     TimeSpan endPosition = TimeSpan.Parse("00:00:10.000");
+     IWaveProvider wave = CutAudio(reader, startPosition, endPosition);
+
+     WaveFileWriter.CreateWaveFile(outputFile, wave);
+ }
+It works for MP3 files by passing a Mp3FileReader or an AudioFileReader classes as argument to the function, but the problem with this function is it converts MP3 files to WAVE format, so once the cut is applied in the audio I need to save it as a new WAVE file.
+
+I know NAudio can parse MP3 samples using the Mp3FileReader class, so I would like to do cuts (and other modifications) directly to the MP3 file stream by using Mp3FileReader.ReadNextFrame() and writing a new MP3 file, instead of taking the time and disk space to converting to WAVE format and writing a WAVE file.
+
+I seen some examples using the Mp3FileReader.ReadNextFrame(), but It's not really clear for me how to adapt it for this functionality to match the exact function I wrote above, with the timings accuracy.

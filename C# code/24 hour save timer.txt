@@ -1,0 +1,43 @@
+First, you'll need a way to know it's midnight.  This example will simply use a Timer component whose Interval property is set to 1000 (1 second) and Enabled property is set to True.  Now the timer will raise it's Tick event once every second.  We will write a handler for this event to see if the current time is the 0th hour (midnight).  But first, we'll need a class-level variable to hold the last date that we ran our routine; otherwise we'd be creating a new file once per second for the entire hour of midnight.
+
+'Create variable to hold last execute date
+'Set initial value to yesterday
+Dim LastTriggerDate As Date = Now.Subtract(New TimeSpan(1, 0, 0, 0))
+
+'This is the event raised every second by the Timer
+Private Sub Timer1_Tick(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Timer1.Tick
+
+'Check to see if the Hour component of Now equals 0 (0 being midnight)
+If Now.Hour = 0 Then
+
+'Now check to see if at least 1 day has passed since the last execution
+If Now.Subtract(LastTriggerDate).Days > 0 Then
+
+'Set the last execute date to today
+LastTriggerDate = Now
+
+'Call the file create routine
+WriteFile()
+
+End If
+
+End If
+
+End Sub
+
+'This subroutine creates the text file and writes to it
+Private Sub WriteFile()
+
+'Create the StreamWriter using the desired format
+Dim fs As System.IO.StreamWriter = _
+System.IO.File.CreateText(String.Format("c:\craps\txt_files\{0}.txt", Now.ToString("ddMMyy_hhmmss")))
+
+'This is just an example of how to write some line
+'of text to the file
+fs.WriteLine("This is line one of the text")
+fs.WriteLine("This is the second line")
+
+'Close the text file when finished
+fs.Close()
+
+End Sub
